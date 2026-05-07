@@ -1,6 +1,7 @@
 baseURL = "https://myblog.5588sgfh337755jjg.workers.dev/"
 languageCode = "ja"
 title = "毎日AI"
+buildFuture = true
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 
