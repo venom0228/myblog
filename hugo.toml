@@ -1,0 +1,28 @@
+baseURL = "https://myblog.pages.dev/"
+languageCode = "ja"
+title = "毎日AI"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+
+[params]
+  description = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信。"
+  author = "Makoto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "このブログについて"
+    url = "/about/"
+    weight = 3
