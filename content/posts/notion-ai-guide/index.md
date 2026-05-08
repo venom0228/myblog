@@ -3,6 +3,7 @@ date = '2026-05-09T10:00:00+09:00'
 draft = false
 title = 'NotionAIを使い始めたら、メモの質が上がった話'
 tags = ["Notion", "AI活用", "仕事効率化", "初心者"]
+image = "cover.png"
 description = "NotionのAI機能を使うと、メモや議事録の整理がぐっとラクになります。実際に使ってみてよかった活用法を紹介します。"
 +++
 
