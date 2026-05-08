@@ -27,9 +27,23 @@ buildFuture = true
   [params.article]
     readingTime = true
 
-  [params.widgets]
-    homepage = ["search", "archives", "tag-cloud"]
-    page = ["toc", "tag-cloud"]
+  [[params.widgets.homepage]]
+    type = "search"
+
+  [[params.widgets.homepage]]
+    type = "archives"
+    limit = 5
+
+  [[params.widgets.homepage]]
+    type = "tag-cloud"
+    limit = 10
+
+  [[params.widgets.page]]
+    type = "toc"
+
+  [[params.widgets.page]]
+    type = "tag-cloud"
+    limit = 10
 
 [menu]
   [[menu.main]]
