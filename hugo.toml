@@ -14,6 +14,15 @@ defaultContentLanguage = "ja"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
 
+[params.profileMode]
+  enabled = true
+  title = "毎日AI"
+  subtitle = "AIツールを毎日使い倒す。\n活用法・副業・最新情報をわかりやすく発信中。"
+
+  [[params.profileMode.buttons]]
+    name = "記事を読む"
+    url = "/posts/"
+
 [menu]
   [[menu.main]]
     name = "ホーム"
