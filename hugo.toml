@@ -1,31 +1,29 @@
 baseURL = "https://myblog.5588sgfh337755jjg.workers.dev/"
 languageCode = "ja"
 title = "毎日AI"
-buildFuture = true
-theme = "PaperMod"
+theme = "hugo-theme-stack"
 defaultContentLanguage = "ja"
+buildFuture = true
 
 [services]
   [services.googleAnalytics]
     ID = "G-9B9W1RJ5RG"
 
 [params]
+  mainSections = ["posts"]
   description = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信。"
   author = "Makoto"
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
 
-[params.profileMode]
-  enabled = true
-  title = "毎日AI"
-  subtitle = "AIツールを毎日使い倒す。\n活用法・副業・最新情報をわかりやすく発信中。"
+  [params.sidebar]
+    emoji = "🤖"
+    subtitle = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信中。"
 
-  [[params.profileMode.buttons]]
-    name = "記事を読む"
-    url = "/posts/"
+  [params.article]
+    readingTime = true
+
+  [params.widgets]
+    homepage = ["search", "archives", "tag-cloud"]
+    page = ["toc", "tag-cloud"]
 
 [menu]
   [[menu.main]]
