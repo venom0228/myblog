@@ -1,10 +1,12 @@
-+++
+﻿+++
+image = "cover.png"
 date = '2026-05-13T10:00:00+09:00'
 draft = false
 title = 'Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想'
 tags = ["Copilot", "ChatGPT", "AI活用", "比較"]
 description = "WindowsユーザーなA I「Copilot」はChatGPTと何が違うの？実際に使い比べた正直な感想をお伝えします。"
 +++
+image = "cover.png"
 
 「CopilotってChatGPTと同じじゃないの？」
 

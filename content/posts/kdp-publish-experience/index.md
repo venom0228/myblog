@@ -1,10 +1,12 @@
-+++
+﻿+++
+image = "cover.png"
 date = '2026-05-08T15:00:00+09:00'
 draft = false
 title = 'AIで写真集を作ってKDPで出版してみた話【完全レポート】'
 tags = ["副業", "KDP", "AI活用", "電子書籍"]
 description = "AIで蛾のマクロ写真集を作成し、Amazon KDPで出版するまでの全工程をレポートします。費用ゼロ、AIフル活用で本当に出版できました。"
 +++
+image = "cover.png"
 
 「AIで本を作ってAmazonで売る」
 

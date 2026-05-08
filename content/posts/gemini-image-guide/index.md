@@ -1,10 +1,12 @@
-+++
+﻿+++
+image = "cover.png"
 date = '2026-05-06T10:00:00+09:00'
 draft = false
 title = 'Geminiの画像生成が無料で使える！使い方と活用例を解説'
 tags = ["Gemini", "AI活用", "画像生成", "初心者"]
 description = "Googleが提供するGeminiの画像生成機能が無料で使えます。登録方法から実際の使い方、活用例まで初心者向けにわかりやすく解説します。"
 +++
+image = "cover.png"
 
 「画像生成AIって有料じゃないの？」
 

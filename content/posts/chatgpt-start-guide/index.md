@@ -1,10 +1,12 @@
-+++
+﻿+++
+image = "cover.png"
 date = '2026-05-02T10:00:00+09:00'
 draft = false
 title = 'ChatGPTの始め方【登録から使い方まで5分で解説】'
 tags = ["ChatGPT", "AI活用", "初心者"]
 description = "ChatGPTを使ってみたいけど登録方法がわからない方へ。アカウント作成から基本的な使い方まで、画像付きでわかりやすく解説します。"
 +++
+image = "cover.png"
 
 「ChatGPTって聞いたことあるけど、どうやって始めるの？」
 
