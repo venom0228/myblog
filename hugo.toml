@@ -5,6 +5,10 @@ buildFuture = true
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-9B9W1RJ5RG"
+
 [params]
   description = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信。"
   author = "Makoto"
