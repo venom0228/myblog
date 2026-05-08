@@ -5,6 +5,12 @@ theme = "hugo-theme-stack"
 defaultContentLanguage = "ja"
 buildFuture = true
 
+[languages]
+  [languages.ja]
+    languageName = "日本語"
+    title = "毎日AI"
+    weight = 1
+
 [services]
   [services.googleAnalytics]
     ID = "G-9B9W1RJ5RG"
