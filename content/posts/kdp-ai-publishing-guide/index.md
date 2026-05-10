@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-09T13:00:00+09:00'
+date = '2026-05-20T10:00:00+09:00'
 draft = false
 title = 'AIでKindle本を作る手順を全部公開【KDP副業の始め方】'
 tags = ["KDP", "副業", "AI活用", "ChatGPT"]

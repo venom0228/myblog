@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-09T19:00:00+09:00'
+date = '2026-05-09T10:00:00+09:00'
 draft = false
 title = 'Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】'
 tags = ["Gemini", "AI活用", "初心者", "仕事効率化"]

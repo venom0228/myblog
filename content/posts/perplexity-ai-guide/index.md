@@ -1,6 +1,6 @@
 ﻿+++
 image = "cover.png"
-date = '2026-05-17T10:00:00+09:00'
+date = '2026-05-13T10:00:00+09:00'
 draft = false
 title = 'Perplexity AIを使ったら調べ物の速さが変わった【ChatGPTとの違いも解説】'
 tags = ["Perplexity", "AI活用", "情報収集", "初心者"]
