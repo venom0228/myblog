@@ -79,3 +79,11 @@ Googleの検索エンジンと連携しているので、今日のニュース�
 - **情報収集・リサーチに使うなら** → Gemini
 
 全部無料で試せるので、まずは3つとも触ってみて、自分に合ったものを見つけるのがおすすめです。
+
+---
+
+## 関連記事
+
+- [ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】](/posts/chatgpt-vs-claude/)
+- [Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと](/posts/claude-ai-guide/)
+- [Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】](/posts/gemini-beginner-guide/)

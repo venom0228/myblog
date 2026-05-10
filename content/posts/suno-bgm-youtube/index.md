@@ -86,3 +86,11 @@ YouTubeで収益化を目指す場合は、有料プランを使いましょう�
 - YouTube用BGM動画として活用できる
 
 AIで音楽まで作れる時代になったことに、正直驚いています。興味がある方はぜひ試してみてください。
+
+---
+
+## 関連記事
+
+- [Canvaで無料！ブログのアイキャッチ画像を10分で作る方法](/posts/canva-eyecatch-guide/)
+- [Geminiの画像生成が無料で使える！使い方と活用例を解説](/posts/gemini-image-guide/)
+- [AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】](/posts/ai-blog-writing-workflow/)

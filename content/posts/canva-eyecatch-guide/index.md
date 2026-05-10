@@ -68,3 +68,11 @@ Canvaで作った画像に、GeminiやChatGPTで生成した画像を組み合�
 - 10分でプロっぽい画像が完成
 
 ブログを始めたばかりの方は、まずCanvaを使ってみてください。
+
+---
+
+## 関連記事
+
+- [Geminiの画像生成が無料で使える！使い方と活用例を解説](/posts/gemini-image-guide/)
+- [AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】](/posts/ai-blog-writing-workflow/)
+- [SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった](/posts/suno-bgm-youtube/)

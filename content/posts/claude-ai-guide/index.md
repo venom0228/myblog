@@ -85,3 +85,11 @@ Claudeは「文章を書く」「長いテキストを処理する」用途に�
 ChatGPTと優劣をつけるより、用途に合わせて使い分けるのが正解。まずは無料で試してみて、自分の作業との相性を確かめてみてください。
 
 Claudeを使い始めてから、ブログ執筆の時間が半分になりました。ぜひ試してみてください。
+
+---
+
+## 関連記事
+
+- [ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】](/posts/chatgpt-vs-claude/)
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)
+- [ChatGPTの始め方【登録から使い方まで5分で解説】](/posts/chatgpt-start-guide/)

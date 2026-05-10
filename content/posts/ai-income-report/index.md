@@ -81,3 +81,11 @@ image = "cover.png"
 AI副業は費用ゼロで始められます。最初から大きく稼ごうとせず、小さく始めて経験を積むのが長続きのコツだと感じています。
 
 興味がある方はまず1つだけ試してみてください。
+
+---
+
+## 関連記事
+
+- [AIを使った副業、初心者におすすめの3つの始め方](/posts/ai-side-job-beginners/)
+- [AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】](/posts/ai-blog-writing-workflow/)
+- [AIで写真集を作ってKDPで出版してみた話【完全レポート】](/posts/kdp-publish-experience/)

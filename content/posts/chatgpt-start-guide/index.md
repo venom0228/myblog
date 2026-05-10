@@ -91,3 +91,11 @@ Googleアカウントで登録するのが一番手軽です。
 ---
 
 次回は、ChatGPTとClaudeを実際に使い比べた正直な感想をお伝えします。
+
+---
+
+## 関連記事
+
+- [ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】](/posts/chatgpt-prompt-writing-guide/)
+- [Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと](/posts/claude-ai-guide/)
+- [私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】](/posts/ai-tools-i-use/)

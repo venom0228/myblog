@@ -81,3 +81,11 @@ Topic: talking about my daily routine.
 - まずは1日10分の英作文添削から始めよう
 
 英語は副業にも直結します。PromptBaseの出品説明文を英語で書けるようになれば、世界中に売れる可能性が広がります。
+
+---
+
+## 関連記事
+
+- [ChatGPTの始め方【登録から使い方まで5分で解説】](/posts/chatgpt-start-guide/)
+- [ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】](/posts/chatgpt-prompt-writing-guide/)
+- [AIツールを使いこなすために続けている3つの習慣](/posts/ai-habits-for-productivity/)

@@ -78,3 +78,11 @@ ChatGPT・Midjourney・Stable Diffusionなど、さまざまなAI向けのプロ
 - 英語で出品すれば世界中に売れる
 
 プロンプトを1本作って試してみるだけで、副業の第一歩になります。
+
+---
+
+## 関連記事
+
+- [AIを使った副業、初心者におすすめの3つの始め方](/posts/ai-side-job-beginners/)
+- [無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】](/posts/free-ai-tools-side-job/)
+- [2026年に注目のAI副業5選【今始めると有利な理由】](/posts/ai-side-job-2026-trends/)

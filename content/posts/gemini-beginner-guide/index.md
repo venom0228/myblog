@@ -94,3 +94,11 @@ ChatGPTやClaudeは学習データのカットオフ（締め切り日）があ�
 GeminiはGoogleアカウントがあれば今すぐ使えるAIです。特に「最新情報を調べたい」「Google系のサービスと組み合わせたい」という方には一番おすすめです。
 
 ChatGPTやClaudeと合わせて使い分けることで、AIの力を最大限に引き出せます。
+
+---
+
+## 関連記事
+
+- [Geminiの画像生成が無料で使える！使い方と活用例を解説](/posts/gemini-image-guide/)
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)
+- [ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】](/posts/chatgpt-vs-claude/)

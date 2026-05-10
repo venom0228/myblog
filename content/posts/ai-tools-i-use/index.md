@@ -71,3 +71,11 @@ Googleアカウントがあれば無料で使えるのも嬉しいポイント�
 ---
 
 次回は、AIを使ったクラウドワークスでの副業について書いていきます。
+
+---
+
+## 関連記事
+
+- [ChatGPTの始め方【登録から使い方まで5分で解説】](/posts/chatgpt-start-guide/)
+- [Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと](/posts/claude-ai-guide/)
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)

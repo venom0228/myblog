@@ -101,3 +101,11 @@ DALL-Eという画像生成AIが内蔵されているので、ブログのアイ
 ---
 
 次回は、AIを使って電子書籍を出版してみた体験談をお伝えします。
+
+---
+
+## 関連記事
+
+- [Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと](/posts/claude-ai-guide/)
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)
+- [Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】](/posts/gemini-beginner-guide/)

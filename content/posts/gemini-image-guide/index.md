@@ -93,3 +93,11 @@ Instagramやブログに使えるオリジナル画像を量産できます。�
 ---
 
 次回は、AIを使って電子書籍を出版した体験談をお伝えします。
+
+---
+
+## 関連記事
+
+- [Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】](/posts/gemini-beginner-guide/)
+- [Canvaで無料！ブログのアイキャッチ画像を10分で作る方法](/posts/canva-eyecatch-guide/)
+- [AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】](/posts/ai-blog-writing-workflow/)

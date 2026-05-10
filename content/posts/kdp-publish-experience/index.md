@@ -122,3 +122,11 @@ KDP（Kindle Direct Publishing）は無料で使えるAmazonの出版プラッ�
 AIとKDPを組み合わせれば、費用ゼロで電子書籍を出版できます。大切なのは「売れそうなニッチなテーマ」を見つけること。
 
 興味がある方はぜひ挑戦してみてください。わからないことがあればコメントで聞いてもらえると嬉しいです😊
+
+---
+
+## 関連記事
+
+- [AIでKindle本を作る手順を全部公開【KDP副業の始め方】](/posts/kdp-ai-publishing-guide/)
+- [AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか](/posts/ai-income-report/)
+- [AIを使った副業、初心者におすすめの3つの始め方](/posts/ai-side-job-beginners/)

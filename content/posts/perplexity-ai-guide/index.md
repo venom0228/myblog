@@ -70,3 +70,11 @@ Perplexityの強みは**出典が必ず表示される**こと。どのサイト
 - リサーチ・比較・用語理解に最適
 
 Googleの代わりに一度試してみてください。調べ物の速さが変わります。
+
+---
+
+## 関連記事
+
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)
+- [ChatGPTの始め方【登録から使い方まで5分で解説】](/posts/chatgpt-start-guide/)
+- [Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】](/posts/gemini-beginner-guide/)

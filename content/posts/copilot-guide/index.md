@@ -73,3 +73,11 @@ Windows 11ではタスクバーからすぐ呼び出せます。別タブを開�
 - 本格的な文章作成はChatGPT・Claudeが上
 
 まずはCopilotを試してみて、物足りなくなったらChatGPT有料版を検討するのがおすすめです。
+
+---
+
+## 関連記事
+
+- [ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較](/posts/ai-three-tools-comparison-2026/)
+- [ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】](/posts/chatgpt-vs-claude/)
+- [仕事でAIを使うと何が変わる？実際に試してわかった10の効果](/posts/ai-work-efficiency-tips/)

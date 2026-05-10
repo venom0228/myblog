@@ -54,3 +54,11 @@ NotionAIは月額$10（約1,500円）で使えます。Notionの無料プラン�
 - 月$10で使える
 
 まずはNotionの無料版を試してみて、気に入ったらAIを追加するのがおすすめです。
+
+---
+
+## 関連記事
+
+- [仕事でAIを使うと何が変わる？実際に試してわかった10の効果](/posts/ai-work-efficiency-tips/)
+- [AIツールを使いこなすために続けている3つの習慣](/posts/ai-habits-for-productivity/)
+- [Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想](/posts/copilot-guide/)
