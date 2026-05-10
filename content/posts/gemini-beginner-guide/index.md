@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T12:00:00+09:00'
 draft = false
 title = 'Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】'

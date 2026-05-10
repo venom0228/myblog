@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T13:30:00+09:00'
 draft = false
 title = 'Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと'

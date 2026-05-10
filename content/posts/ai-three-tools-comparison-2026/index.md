@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T09:30:00+09:00'
 draft = false
 title = 'ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較'

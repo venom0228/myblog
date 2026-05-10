@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T09:00:00+09:00'
 draft = false
 title = 'ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】'

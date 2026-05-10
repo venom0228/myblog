@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T10:00:00+09:00'
 draft = false
 title = '無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】'

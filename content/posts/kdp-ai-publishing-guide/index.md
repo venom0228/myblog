@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T11:00:00+09:00'
 draft = false
 title = 'AIでKindle本を作る手順を全部公開【KDP副業の始め方】'

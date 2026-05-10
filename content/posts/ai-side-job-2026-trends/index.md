@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T13:00:00+09:00'
 draft = false
 title = '2026年に注目のAI副業5選【今始めると有利な理由】'

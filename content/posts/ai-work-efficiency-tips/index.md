@@ -1,4 +1,5 @@
 +++
+image = "cover.png"
 date = '2026-05-10T10:30:00+09:00'
 draft = false
 title = '仕事でAIを使うと何が変わる？実際に試してわかった10の効果'
