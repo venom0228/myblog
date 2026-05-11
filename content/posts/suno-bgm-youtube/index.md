@@ -1,4 +1,4 @@
-﻿+++
++++
 image = "cover.png"
 date = '2026-05-30T10:00:00+09:00'
 draft = false
@@ -6,8 +6,6 @@ title = 'SunoでYouTube作業用BGMを作ってみた。スーファミ風ロー
 tags = ["Suno", "AI活用", "YouTube", "音楽生成"]
 description = "AI音楽生成ツール「Suno」でスーファミ風のローファイチル音楽を作り、YouTubeにアップする方法を紹介します。"
 +++
-image = "cover.png"
-
 「作業用BGMをAIで作れるって本当？」
 
 作れます。しかも思っていた以上にクオリティが高くて驚きました。

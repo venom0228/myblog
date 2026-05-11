@@ -1,4 +1,4 @@
-﻿+++
++++
 image = "cover.png"
 date = '2026-05-18T10:00:00+09:00'
 draft = false
@@ -6,8 +6,6 @@ title = 'PromptBaseでプロンプトを売る方法【初心者向け完全ガ�
 tags = ["PromptBase", "副業", "AI活用", "プロンプト"]
 description = "AIへの指示文（プロンプト）を売れる「PromptBase」の登録から出品まで、初めての方向けにわかりやすく解説します。"
 +++
-image = "cover.png"
-
 「AIプロンプトって売れるの？」
 
 売れます。しかも一度作れば繰り返し売れる資産型の収入になります。

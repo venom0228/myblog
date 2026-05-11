@@ -1,4 +1,4 @@
-﻿+++
++++
 image = "cover.png"
 date = '2026-05-13T10:00:00+09:00'
 draft = false
@@ -6,8 +6,6 @@ title = 'Perplexity AIを使ったら調べ物の速さが変わった【ChatGPT
 tags = ["Perplexity", "AI活用", "情報収集", "初心者"]
 description = "AI検索エンジン「Perplexity」を使うと、調べ物の時間が大幅に短縮されます。ChatGPTとの違いと使い方を解説します。"
 +++
-image = "cover.png"
-
 「調べ物にGoogleとChatGPTを使い分けてるけど、もっと効率よくならないかな」
 
 そんなときに出会ったのがPerplexity AIです。
