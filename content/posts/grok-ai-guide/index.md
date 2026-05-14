@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-06-04T10:00:00+09:00'
+date = '2026-05-03T10:00:00+09:00'
 draft = false
 title = 'GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想'
 tags = ["Grok", "AI活用", "比較", "初心者"]

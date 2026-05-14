@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-01T10:00:00+09:00'
+date = '2026-04-03T10:00:00+09:00'
 draft = false
 title = '私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】'
 tags = ["AI活用", "ChatGPT", "Claude", "Gemini"]

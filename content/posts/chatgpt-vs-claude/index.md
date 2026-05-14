@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-05T10:00:00+09:00'
+date = '2026-04-19T10:00:00+09:00'
 draft = false
 title = 'ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】'
 tags = ["ChatGPT", "Claude", "AI活用", "比較"]

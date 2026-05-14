@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-06-06T10:00:00+09:00'
+date = '2026-05-04T10:00:00+09:00'
 draft = false
 title = 'ChatGPTの音声モードを使ってみた【スマホで英会話練習が変わった】'
 tags = ["ChatGPT", "AI活用", "英語学習", "スマホ"]

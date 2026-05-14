@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-23T10:00:00+09:00'
+date = '2026-04-16T10:00:00+09:00'
 draft = false
 title = '仕事でAIを使うと何が変わる？実際に試してわかった10の効果'
 tags = ["仕事効率化", "AI活用", "ChatGPT", "Claude"]

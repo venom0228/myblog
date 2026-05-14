@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-06T10:00:00+09:00'
+date = '2026-04-18T10:00:00+09:00'
 draft = false
 title = 'ChatGPTで英語学習が変わった。毎日続けられる3つの練習法'
 tags = ["ChatGPT", "英語学習", "AI活用", "習慣化"]

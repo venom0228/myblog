@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-04-30T10:00:00+09:00'
+date = '2026-04-02T10:00:00+09:00'
 draft = false
 title = 'AIツールを使い始めて半年で変わったこと'
 tags = ["AI活用", "副業", "ChatGPT", "Claude"]

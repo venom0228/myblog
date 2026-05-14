@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-11T10:00:00+09:00'
+date = '2026-04-21T10:00:00+09:00'
 draft = false
 title = 'Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想'
 tags = ["Copilot", "ChatGPT", "AI活用", "比較"]

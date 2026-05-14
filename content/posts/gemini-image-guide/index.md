@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-07T10:00:00+09:00'
+date = '2026-04-25T10:00:00+09:00'
 draft = false
 title = 'Geminiの画像生成が無料で使える！使い方と活用例を解説'
 tags = ["Gemini", "AI活用", "画像生成", "初心者"]

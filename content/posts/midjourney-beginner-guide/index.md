@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-06-08T10:00:00+09:00'
+date = '2026-05-06T10:00:00+09:00'
 draft = false
 title = 'Midjourneyの始め方【2026年版・登録から画像生成までの手順】'
 tags = ["Midjourney", "AI活用", "画像生成", "初心者"]

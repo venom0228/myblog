@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-06-16T10:00:00+09:00'
+date = '2026-05-10T10:00:00+09:00'
 draft = false
 title = '履歴書・職務経歴書をAIで書く方法【ChatGPTとClaudeを使い比べた】'
 tags = ["ChatGPT", "Claude", "AI活用", "仕事効率化"]

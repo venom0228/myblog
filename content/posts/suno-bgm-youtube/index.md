@@ -1,6 +1,6 @@
 +++
 image = "cover.png"
-date = '2026-05-30T10:00:00+09:00'
+date = '2026-05-02T10:00:00+09:00'
 draft = false
 title = 'SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった'
 tags = ["Suno", "AI活用", "YouTube", "音楽生成"]
