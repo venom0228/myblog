@@ -1,6 +1,6 @@
 baseURL = "https://myblog.5588sgfh337755jjg.workers.dev/"
 languageCode = "ja"
-title = "毎日AI"
+title = "ながら副業AI"
 theme = "hugo-theme-stack"
 defaultContentLanguage = "ja"
 buildFuture = true
@@ -8,7 +8,7 @@ buildFuture = true
 [languages]
   [languages.ja]
     languageName = "日本語"
-    title = "毎日AI"
+    title = "ながら副業AI"
     weight = 1
 
 [services]
@@ -17,12 +17,12 @@ buildFuture = true
 
 [params]
   mainSections = ["posts"]
-  description = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信。"
+  description = "忙しい毎日のすき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信。"
   author = "Makoto"
 
   [params.sidebar]
     emoji = "🤖"
-    subtitle = "AIツールを毎日使い倒す。活用法・副業・最新情報をわかりやすく発信中。"
+    subtitle = "すき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信中。"
 
   [params.article]
     readingTime = true
