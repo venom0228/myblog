@@ -76,3 +76,12 @@ AIツールは使えば使うほど上手くなります。
 - [AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】](/posts/ai-habit-tips/)
 - [仕事でAIを使うと何が変わる？実際に試してわかった10の効果](/posts/ai-work-efficiency-tips/)
 - [NotionAIを使い始めたら、メモの質が上がった話](/posts/notion-ai-guide/)
+
+---
+
+## 作業中のBGMにどうぞ
+
+副業作業や勉強中に集中したいとき、Sunoで制作した**AI作業用BGM**をYouTubeで公開しています。
+ループ再生しながら作業すると、集中力が続きますよ。
+
+▶ **[作業用BGMチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**

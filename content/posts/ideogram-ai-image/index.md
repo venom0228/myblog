@@ -79,14 +79,3 @@ Ideogramは「無料でそこそこ使える」画像生成AIとして、ブロ�
 関連記事：
 - [ChatGPT画像生成ガイド](/p/chatgpt-image-guide/)
 - [Midjourneyで画像副業を始める方法](/p/midjourney-beginner-guide/)
-
----
-
-## 動画でも解説しています
-
-この記事の内容はYouTubeでも紹介しています。
-テキストより動画のほうがわかりやすい部分もあるので、ぜひあわせてどうぞ。
-
-▶ **[YouTubeチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**
-
-チャンネル登録しておくと、新しい動画を見逃しません！

@@ -68,14 +68,3 @@ ElevenLabsは「声を使わずに音声副業を始めたい」という人に�
 関連記事：
 - [ChatGPT画像生成で副業する方法](/p/chatgpt-image-guide/)
 - [AIライティング副業の始め方](/p/ai-writing-tips/)
-
----
-
-## 動画でも解説しています
-
-この記事の内容はYouTubeでも紹介しています。
-テキストより動画のほうがわかりやすい部分もあるので、ぜひあわせてどうぞ。
-
-▶ **[YouTubeチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**
-
-チャンネル登録しておくと、新しい動画を見逃しません！

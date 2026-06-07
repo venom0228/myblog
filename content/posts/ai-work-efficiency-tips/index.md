@@ -90,3 +90,12 @@ AIを使うと、仕事の「考える時間」は減らず、「作業する時
 - [AIツールを使いこなすために続けている3つの習慣](/posts/ai-habits-for-productivity/)
 - [NotionAIを使い始めたら、メモの質が上がった話](/posts/notion-ai-guide/)
 - [私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】](/posts/ai-tools-i-use/)
+
+---
+
+## 作業中のBGMにどうぞ
+
+副業作業や勉強中に集中したいとき、Sunoで制作した**AI作業用BGM**をYouTubeで公開しています。
+ループ再生しながら作業すると、集中力が続きますよ。
+
+▶ **[作業用BGMチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**

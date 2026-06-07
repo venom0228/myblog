@@ -92,3 +92,12 @@ AIで音楽まで作れる時代になったことに、正直驚いています
 - [Canvaで無料！ブログのアイキャッチ画像を10分で作る方法](/posts/canva-eyecatch-guide/)
 - [Geminiの画像生成が無料で使える！使い方と活用例を解説](/posts/gemini-image-guide/)
 - [AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】](/posts/ai-blog-writing-workflow/)
+
+---
+
+## 作業中のBGMにどうぞ
+
+副業作業や勉強中に集中したいとき、Sunoで制作した**AI作業用BGM**をYouTubeで公開しています。
+ループ再生しながら作業すると、集中力が続きますよ。
+
+▶ **[作業用BGMチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**

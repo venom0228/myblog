@@ -77,14 +77,3 @@ RunwayはAI動画副業への入り口として最適なツールです。最初
 関連記事：
 - [Sunoで作るBGM副業](/p/suno-bgm-youtube/)
 - [Canva AIでデザイン副業](/p/canva-ai-design/)
-
----
-
-## 動画でも解説しています
-
-この記事の内容はYouTubeでも紹介しています。
-テキストより動画のほうがわかりやすい部分もあるので、ぜひあわせてどうぞ。
-
-▶ **[YouTubeチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**
-
-チャンネル登録しておくと、新しい動画を見逃しません！

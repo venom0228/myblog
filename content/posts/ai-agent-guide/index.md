@@ -72,14 +72,3 @@ AIエージェントは「作業を自動化してくれるAI」です。副業�
 関連記事：
 - [Google AI Studio活用ガイド](/p/google-ai-studio-guide/)
 - [ChatGPT GPTsガイド](/p/chatgpt-gpts-guide/)
-
----
-
-## 動画でも解説しています
-
-この記事の内容はYouTubeでも紹介しています。
-テキストより動画のほうがわかりやすい部分もあるので、ぜひあわせてどうぞ。
-
-▶ **[YouTubeチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**
-
-チャンネル登録しておくと、新しい動画を見逃しません！
