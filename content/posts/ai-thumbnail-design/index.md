@@ -84,3 +84,12 @@ AIを使えばサムネイル作成が「センスなし・デザインスキル
 関連記事：
 - [Canva AIでデザイン副業](/p/canva-ai-design/)
 - [Ideogramで無料高品質画像を作る](/p/ideogram-ai-image/)
+
+---
+
+## 作業中のBGMにどうぞ
+
+サムネイル制作など、集中して作業したいとき。Sunoで制作した**AI作業用BGM**をYouTubeで公開しています。
+ループ再生しながら作業すると、集中力が続きますよ。
+
+▶ **[作業用BGMチャンネル「16bit_chill」はこちら](https://www.youtube.com/@16bit_chill)**
