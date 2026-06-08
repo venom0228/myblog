@@ -3,11 +3,11 @@ title = "ChatGPT o3で何が変わった？実際に使ってみた正直レビ�
 date = "2026-05-29"
 description = "OpenAIの最新モデル「ChatGPT o3」を実際に使って感じた変化を正直にレビュー。副業・仕事への活用法もあわせて解説します。"
 tags = [
-  - "ChatGPT"
-  - "o3"
-  - "AIレビュー"
-  - "OpenAI"
-  - "活用法"
+  "ChatGPT",
+  "o3",
+  "AIレビュー",
+  "OpenAI",
+  "活用法",
 ]
 [cover]
   image = "cover.png"

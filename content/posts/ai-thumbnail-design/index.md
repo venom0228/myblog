@@ -3,11 +3,11 @@ title = "AIでYouTubeサムネイルを作る方法｜クリック率が上が�
 date = "2026-06-12"
 description = "AIツールを使ってYouTubeサムネイルを効率よく作る方法を解説。Canva AI・Ideogram・ChatGPT画像生成を使ったサムネイル制作のコツを紹介します。"
 tags = [
-  - "YouTubeサムネイル"
-  - "AI画像生成"
-  - "Canva"
-  - "副業"
-  - "デザイン"
+  "YouTubeサムネイル",
+  "AI画像生成",
+  "Canva",
+  "副業",
+  "デザイン",
 ]
 [cover]
   image = "cover.png"

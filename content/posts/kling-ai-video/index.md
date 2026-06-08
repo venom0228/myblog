@@ -3,11 +3,11 @@ title = "Kling AIで動画生成副業｜中国発の注目AI動画ツールを�
 date = "2026-06-13"
 description = "急速に普及している中国発AI動画生成ツール「Kling AI」の使い方と副業活用法を解説。RunwayやLuma AIと比較しながら特徴を紹介します。"
 tags = [
-  - "Kling AI"
-  - "AI動画"
-  - "動画生成"
-  - "副業"
-  - "AI"
+  "Kling AI",
+  "AI動画",
+  "動画生成",
+  "副業",
+  "AI",
 ]
 [cover]
   image = "cover.png"

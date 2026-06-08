@@ -3,12 +3,12 @@ title = "AI×X（Twitter）で発信を効率化｜フォロワーを増やし�
 date = "2026-06-01"
 description = "AIツールを使ってX（Twitter）の発信を効率化する方法を解説。投稿ネタ出し・文章作成・スケジュール管理まで、AI活用で発信が楽になります。"
 tags = [
-  - "X"
-  - "Twitter"
-  - "SNS"
-  - "AI活用"
-  - "副業"
-  - "発信"
+  "X",
+  "Twitter",
+  "SNS",
+  "AI活用",
+  "副業",
+  "発信",
 ]
 [cover]
   image = "cover.png"

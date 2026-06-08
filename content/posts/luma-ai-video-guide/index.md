@@ -3,11 +3,11 @@ title = "Luma AI（Dream Machine）で動画生成！副業への活用法を解
 date = "2026-06-07"
 description = "Luma AIのDream Machineを使ったAI動画生成の方法と副業への活用法を解説。テキストや画像から高品質な動画を作れるツールの使い方を紹介します。"
 tags = [
-  - "Luma AI"
-  - "AI動画"
-  - "動画生成"
-  - "副業"
-  - "Dream Machine"
+  "Luma AI",
+  "AI動画",
+  "動画生成",
+  "副業",
+  "Dream Machine",
 ]
 [cover]
   image = "cover.png"

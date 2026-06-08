@@ -3,11 +3,11 @@ title = "ElevenLabsで始めるAI音声副業｜ナレーション・朗読で�
 date = "2026-05-27"
 description = "AI音声生成ツール「ElevenLabs」を使って副業収入を得る方法を解説。ナレーション・朗読・音声素材販売まで、初心者でも始められる手順を紹介。"
 tags = [
-  - "ElevenLabs"
-  - "AI音声"
-  - "副業"
-  - "ナレーション"
-  - "音声生成"
+  "ElevenLabs",
+  "AI音声",
+  "副業",
+  "ナレーション",
+  "音声生成",
 ]
 [cover]
   image = "cover.png"

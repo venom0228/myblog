@@ -3,11 +3,11 @@ title = "ChatGPTのカスタム指示を使いこなす｜毎回説明不要に�
 date = "2026-06-09"
 description = "ChatGPTのカスタム指示（Custom Instructions）の設定方法と活用法を解説。副業・ブログ運営に合わせた設定で、毎回の指示入力を省略できます。"
 tags = [
-  - "ChatGPT"
-  - "カスタム指示"
-  - "設定"
-  - "効率化"
-  - "副業"
+  "ChatGPT",
+  "カスタム指示",
+  "設定",
+  "効率化",
+  "副業",
 ]
 [cover]
   image = "cover.png"

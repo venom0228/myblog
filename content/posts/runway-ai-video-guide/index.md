@@ -3,11 +3,11 @@ title = "RunwayでAI動画副業を始める方法｜動画生成AIの使い方�
 date = "2026-05-28"
 description = "AI動画生成ツール「Runway」の使い方と副業への活用法を解説。動画編集スキルなしでもクオリティの高い動画を作れる方法を紹介します。"
 tags = [
-  - "Runway"
-  - "AI動画"
-  - "副業"
-  - "動画生成"
-  - "AI"
+  "Runway",
+  "AI動画",
+  "副業",
+  "動画生成",
+  "AI",
 ]
 [cover]
   image = "cover.png"

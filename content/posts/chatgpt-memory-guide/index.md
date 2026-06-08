@@ -3,11 +3,11 @@ title = "ChatGPTのメモリ機能を副業に活用する方法｜会話をま�
 date = "2026-06-15"
 description = "ChatGPTのメモリ機能（Memory）の設定方法と副業への活用法を解説。会話をまたいでAIに自分の情報を記憶させ、毎回の説明を省略する方法を紹介します。"
 tags = [
-  - "ChatGPT"
-  - "メモリ機能"
-  - "Memory"
-  - "設定"
-  - "AI活用"
+  "ChatGPT",
+  "メモリ機能",
+  "Memory",
+  "設定",
+  "AI活用",
 ]
 [cover]
   image = "cover.png"

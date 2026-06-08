@@ -3,11 +3,11 @@ title = "Ideogramで無料高品質画像を作る方法｜ブログ・副業に
 date = "2026-06-03"
 description = "AI画像生成ツール「Ideogram」の使い方を解説。無料で高品質な画像が作れるIdeogramを、ブログのアイキャッチや副業に活用する方法を紹介します。"
 tags = [
-  - "Ideogram"
-  - "AI画像生成"
-  - "画像生成AI"
-  - "副業"
-  - "ブログ"
+  "Ideogram",
+  "AI画像生成",
+  "画像生成AI",
+  "副業",
+  "ブログ",
 ]
 [cover]
   image = "cover.png"
