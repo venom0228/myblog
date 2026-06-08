@@ -9,9 +9,7 @@ tags = [
   "副業",
   "ブログ",
 ]
-[cover]
-  image = "cover.png"
-  alt = "Ideogramで無料高品質画像を作る方法｜ブログ・副業に使えるAI画像生成"
+image = "cover.png"
 +++
 
 「Midjourney使いたいけど有料だし…」という方に朗報です。

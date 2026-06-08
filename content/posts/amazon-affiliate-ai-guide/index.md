@@ -9,9 +9,7 @@ tags = [
   "副業",
   "ブログ収益化",
 ]
-[cover]
-  image = "cover.png"
-  alt = "AIでAmazonアフィリエイト記事を量産する方法｜効率的に稼ぐコツ"
+image = "cover.png"
 +++
 
 Amazonアソシエイト（アフィリエイト）は、ブログ収益化の定番手段です。

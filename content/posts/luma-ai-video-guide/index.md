@@ -9,9 +9,7 @@ tags = [
   "副業",
   "Dream Machine",
 ]
-[cover]
-  image = "cover.png"
-  alt = "Luma AI（Dream Machine）で動画生成！副業への活用法を解説"
+image = "cover.png"
 +++
 
 AI動画生成ツールの中で、いま最も注目されているのが**Luma AI（Dream Machine）**です。

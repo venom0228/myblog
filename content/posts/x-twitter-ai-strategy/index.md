@@ -10,9 +10,7 @@ tags = [
   "副業",
   "発信",
 ]
-[cover]
-  image = "cover.png"
-  alt = "AI×X（Twitter）で発信を効率化｜フォロワーを増やしながら副業収入も"
+image = "cover.png"
 +++
 
 「X（Twitter）で発信したいけど、毎日ネタを考えるのがしんどい」

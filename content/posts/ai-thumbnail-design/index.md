@@ -9,9 +9,7 @@ tags = [
   "副業",
   "デザイン",
 ]
-[cover]
-  image = "cover.png"
-  alt = "AIでYouTubeサムネイルを作る方法｜クリック率が上がる画像の作り方"
+image = "cover.png"
 +++
 
 YouTubeの再生数を左右する最大の要因の1つが**サムネイル**です。

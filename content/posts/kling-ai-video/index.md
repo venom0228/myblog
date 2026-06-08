@@ -9,9 +9,7 @@ tags = [
   "副業",
   "AI",
 ]
-[cover]
-  image = "cover.png"
-  alt = "Kling AIで動画生成副業｜中国発の注目AI動画ツールを徹底解説"
+image = "cover.png"
 +++
 
 AI動画生成ツールの新星、**Kling AI**をご存知ですか？

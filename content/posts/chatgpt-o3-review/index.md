@@ -9,9 +9,7 @@ tags = [
   "OpenAI",
   "活用法",
 ]
-[cover]
-  image = "cover.png"
-  alt = "ChatGPT o3で何が変わった？実際に使ってみた正直レビュー"
+image = "cover.png"
 +++
 
 OpenAIがリリースした**ChatGPT o3**。「すごい」「推論力が段違い」という声をよく見かけるけど、実際のところどうなの？

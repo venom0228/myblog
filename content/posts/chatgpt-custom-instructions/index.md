@@ -9,9 +9,7 @@ tags = [
   "効率化",
   "副業",
 ]
-[cover]
-  image = "cover.png"
-  alt = "ChatGPTのカスタム指示を使いこなす｜毎回説明不要になる設定方法"
+image = "cover.png"
 +++
 
 ChatGPTを使うたびに「私はブログを運営していて…」と毎回説明するのって面倒ですよね。

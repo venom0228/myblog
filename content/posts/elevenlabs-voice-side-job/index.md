@@ -9,9 +9,7 @@ tags = [
   "ナレーション",
   "音声生成",
 ]
-[cover]
-  image = "cover.png"
-  alt = "ElevenLabsで始めるAI音声副業｜ナレーション・朗読で稼ぐ方法"
+image = "cover.png"
 +++
 
 副業の選択肢として「AI音声」が注目されています。

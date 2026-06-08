@@ -9,9 +9,7 @@ tags = [
   "動画生成",
   "AI",
 ]
-[cover]
-  image = "cover.png"
-  alt = "RunwayでAI動画副業を始める方法｜動画生成AIの使い方と稼ぎ方"
+image = "cover.png"
 +++
 
 「動画編集が得意じゃないけど、動画系の副業をしたい」

@@ -9,9 +9,7 @@ tags = [
   "AI副業",
   "英語",
 ]
-[cover]
-  image = "cover.png"
-  alt = "Fiverrで海外向けAI副業を始める方法｜英語スキル不要で稼ぐコツ"
+image = "cover.png"
 +++
 
 「英語が苦手だから海外の副業は無理…」

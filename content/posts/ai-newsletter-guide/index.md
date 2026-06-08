@@ -9,9 +9,7 @@ tags = [
   "AI活用",
   "収益化",
 ]
-[cover]
-  image = "cover.png"
-  alt = "AIでニュースレター副業を始める方法｜メルマガで安定収入を作る"
+image = "cover.png"
 +++
 
 ブログ・SNS・YouTubeに続く発信手段として、**ニュースレター（メルマガ）**が再注目されています。

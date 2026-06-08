@@ -9,9 +9,7 @@ tags = [
   "設定",
   "AI活用",
 ]
-[cover]
-  image = "cover.png"
-  alt = "ChatGPTのメモリ機能を副業に活用する方法｜会話をまたいで記憶させる"
+image = "cover.png"
 +++
 
 ChatGPTに「また最初から説明しなきゃいけない…」と感じたことはありませんか？

@@ -9,9 +9,7 @@ tags = [
   "副業",
   "ChatGPT",
 ]
-[cover]
-  image = "cover.png"
-  alt = "AIでポッドキャスト台本を作る方法｜音声副業の新しい形"
+image = "cover.png"
 +++
 
 「ポッドキャストって面白そうだけど、毎回台本を考えるのが大変そう」
