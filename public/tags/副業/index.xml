@@ -1,19 +1,1483 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>副業 on 毎日AI</title>
-    <link>http://localhost:1313/tags/%E5%89%AF%E6%A5%AD/</link>
-    <description>Recent content in 副業 on 毎日AI</description>
-    <generator>Hugo</generator>
-    <language>ja</language>
-    <lastBuildDate>Fri, 08 May 2026 00:56:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%89%AF%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AIツールを使い始めて半年で変わったこと</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Fri, 08 May 2026 00:56:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>40代在宅ワーカーがAIツールを使い始めて半年。実際に何が変わったのかを正直に書いてみます。</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>副業 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E5%89%AF%E6%A5%AD/</link><description>Recent content in 副業 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 26 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E5%89%AF%E6%A5%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>AI副業3ヶ月の収支を正直に公開【初心者リアルレポート】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-3months/</link><pubDate>Tue, 26 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-3months/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-3months/cover.png" alt="Featured image of post AI副業3ヶ月の収支を正直に公開【初心者リアルレポート】" /&gt;&lt;p&gt;AI副業を始めてから3ヶ月が経ちました。「実際どれくらい稼げるの？」という疑問に正直に答えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3ヶ月間の収益まとめ"&gt;3ヶ月間の収益まとめ
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;月&lt;/th&gt;
+ &lt;th&gt;内容&lt;/th&gt;
+ &lt;th&gt;収益&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1ヶ月目&lt;/td&gt;
+ &lt;td&gt;KDP出版（1冊）・ライティング開始&lt;/td&gt;
+ &lt;td&gt;約500円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2ヶ月目&lt;/td&gt;
+ &lt;td&gt;KDP2冊目・ライティング継続&lt;/td&gt;
+ &lt;td&gt;約4,500円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3ヶ月目&lt;/td&gt;
+ &lt;td&gt;ブログアフィリエイト開始・ライティング増加&lt;/td&gt;
+ &lt;td&gt;約12,000円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;合計&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;約17,000円&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="収益源の内訳"&gt;収益源の内訳
+&lt;/h2&gt;&lt;h3 id="kdp電子書籍"&gt;KDP（電子書籍）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;出版冊数：2冊&lt;/li&gt;
+&lt;li&gt;収益：約3,000円&lt;/li&gt;
+&lt;li&gt;感想：1冊あたりの収益は少ないが、一度作れば継続的に入ってくる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ライティング副業"&gt;ライティング副業
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;案件数：12件&lt;/li&gt;
+&lt;li&gt;収益：約11,000円&lt;/li&gt;
+&lt;li&gt;感想：単価は最初低いが、実績を積むと徐々に上がってくる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ブログアフィリエイト"&gt;ブログアフィリエイト
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;収益：約3,000円（3ヶ月目から開始）&lt;/li&gt;
+&lt;li&gt;感想：すぐには稼げないが、積み上げ型で面白い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="使ったaiツールと月額コスト"&gt;使ったAIツールと月額コスト
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;ツール&lt;/th&gt;
+ &lt;th&gt;費用&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ChatGPT Plus&lt;/td&gt;
+ &lt;td&gt;3,000円/月&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Canva Pro&lt;/td&gt;
+ &lt;td&gt;1,500円/月&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;その他（無料ツール）&lt;/td&gt;
+ &lt;td&gt;0円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;合計&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;4,500円/月&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;3ヶ月の投資額：約13,500円
+3ヶ月の収益：約17,000円
+&lt;strong&gt;純利益：約3,500円&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="正直な感想"&gt;正直な感想
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;よかったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ゼロから始めて3ヶ月で黒字になれた&lt;/li&gt;
+&lt;li&gt;作業しながらAIの使い方が上達した&lt;/li&gt;
+&lt;li&gt;「自分にも稼げる」という自信がついた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;大変だったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;最初の1ヶ月はほぼ収益ゼロでモチベ維持が難しい&lt;/li&gt;
+&lt;li&gt;どの副業に集中するか迷った時期があった&lt;/li&gt;
+&lt;li&gt;KDPは思ったより売れるまでに時間がかかる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="4ヶ月目以降の戦略"&gt;4ヶ月目以降の戦略
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;ブログに注力&lt;/strong&gt;してアフィリエイト収益を伸ばす&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KDPは月1冊ペース&lt;/strong&gt;で数を増やす&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ライティングは単価アップ&lt;/strong&gt;を目指す&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;副業は最初の3ヶ月が一番きつい。でも続ければ必ず数字が動き始めます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AI副業は「すぐに大きく稼げる」ものではありません。でも、&lt;strong&gt;コツコツ続ければ確実に収益は上がります&lt;/strong&gt;。一番大事なのは続けること。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/" &gt;AIで写真集を作ってKDPで出版してみた話【完全レポート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</link><pubDate>Sun, 24 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/cover.png" alt="Featured image of post AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】" /&gt;&lt;p&gt;AIライティングは今もっとも始めやすい副業の一つです。ゼロから月3万円を目指す具体的な方法を解説します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiライティング副業の現実"&gt;AIライティング副業の現実
+&lt;/h2&gt;&lt;p&gt;まず正直に言います。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AIで書いた文章をそのまま納品するのはNG&lt;/strong&gt;です。クライアントはAI丸投げ記事を嫌います。Googleもそれを評価しません。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正しい使い方：&lt;/strong&gt;
+AIを「下書き生成ツール」として使い、自分でリライト・加筆して完成させる。これが品質と効率の両立です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="月3万円の目安"&gt;月3万円の目安
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;単価&lt;/th&gt;
+ &lt;th&gt;必要文字数&lt;/th&gt;
+ &lt;th&gt;月の作業時間&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1文字1.5円&lt;/td&gt;
+ &lt;td&gt;約20,000文字&lt;/td&gt;
+ &lt;td&gt;約20〜30時間&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1文字2円&lt;/td&gt;
+ &lt;td&gt;約15,000文字&lt;/td&gt;
+ &lt;td&gt;約15〜25時間&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1文字3円&lt;/td&gt;
+ &lt;td&gt;約10,000文字&lt;/td&gt;
+ &lt;td&gt;約10〜20時間&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;月3万円は1日1〜2時間で十分届く範囲です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="案件の見つけ方"&gt;案件の見つけ方
+&lt;/h2&gt;&lt;h3 id="-クラウドワークス"&gt;① クラウドワークス
+&lt;/h3&gt;&lt;p&gt;「記事作成」「ライター」で検索。初心者向けの案件も多数。&lt;/p&gt;
+&lt;h3 id="-ランサーズ"&gt;② ランサーズ
+&lt;/h3&gt;&lt;p&gt;同様に「ライター」で検索。継続案件をとれると安定しやすい。&lt;/p&gt;
+&lt;h3 id="-直接営業snsブログ"&gt;③ 直接営業（SNS・ブログ）
+&lt;/h3&gt;&lt;p&gt;自分のブログやSNSでライター活動を発信。依頼が来ることも。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使ったライティングの流れ"&gt;AIを使ったライティングの流れ
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;STEP1：テーマ・キーワードを確認&lt;/strong&gt;
+クライアントから「〇〇について2000文字で」という指示が届く。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STEP2：ChatGPTで構成を作る&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「〇〇について、初心者向けブログ記事の構成（見出し5つ）を作って」
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP3：各見出しをChatGPTで下書き&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「上の構成で、『〇〇』の見出しの本文を400文字で書いて」
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP4：自分でリライト・加筆&lt;/strong&gt;
+AIの文章を読んで、不自然な部分・薄い部分を自分の言葉で補強。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STEP5：誤字脱字チェックして納品&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="単価アップのコツ"&gt;単価アップのコツ
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;専門ジャンルを作る&lt;/strong&gt;（AI・副業・健康など）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;実績を積んでポートフォリオを作る&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WordPressで入稿できるようにする&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEOの基礎知識を身につける&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ジャンル特化ライターは1文字3〜5円も狙えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIライティングは「AIに書かせる」ではなく「AIと一緒に書く」がポイント。最初の1ヶ月は実績づくりと割り切り、まず5記事納品を目標にしましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/" &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ChatGPTの画像生成の使い方【DALL-Eで何が作れるか全部試した】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-image-guide/</link><pubDate>Sat, 23 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-image-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-image-guide/cover.png" alt="Featured image of post ChatGPTの画像生成の使い方【DALL-Eで何が作れるか全部試した】" /&gt;&lt;p&gt;ChatGPTには画像生成機能（DALL-E）が内蔵されています。「こんな絵を描いて」と言葉で伝えるだけで、オリジナル画像が生成されます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptの画像生成とは"&gt;ChatGPTの画像生成とは？
+&lt;/h2&gt;&lt;p&gt;ChatGPTのDALL-Eは、テキストの指示から画像を生成するAIです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;無料版&lt;/strong&gt;：限定的に使用可能&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plus（有料版）&lt;/strong&gt;：より多く・高品質に生成可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="基本の使い方"&gt;基本の使い方
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;ChatGPTを開く&lt;/li&gt;
+&lt;li&gt;「〜の画像を作って」と普通に入力&lt;/li&gt;
+&lt;li&gt;数秒で画像が生成される&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;シンプルな例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;日本の桜の木の下でコーヒーを飲んでいる人のイラスト。
+水彩画風で、やわらかい色使いで。
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="品質を上げるプロンプトのコツ"&gt;品質を上げるプロンプトのコツ
+&lt;/h2&gt;&lt;h3 id="-スタイルを指定する"&gt;① スタイルを指定する
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;「水彩画風」&lt;/li&gt;
+&lt;li&gt;「リアルな写真風」&lt;/li&gt;
+&lt;li&gt;「フラットデザイン」&lt;/li&gt;
+&lt;li&gt;「油絵風」&lt;/li&gt;
+&lt;li&gt;「アニメ風」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-構図を指定する"&gt;② 構図を指定する
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;「正面から」&lt;/li&gt;
+&lt;li&gt;「俯瞰（上から見下ろした）アングル」&lt;/li&gt;
+&lt;li&gt;「クローズアップ」&lt;/li&gt;
+&lt;li&gt;「広角で」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-雰囲気色を指定する"&gt;③ 雰囲気・色を指定する
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;「明るく暖かい色合い」&lt;/li&gt;
+&lt;li&gt;「モノクロ」&lt;/li&gt;
+&lt;li&gt;「夕暮れのオレンジ色」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="副業での活用法"&gt;副業での活用法
+&lt;/h2&gt;&lt;h3 id="ブログのアイキャッチ"&gt;ブログのアイキャッチ
+&lt;/h3&gt;&lt;p&gt;記事のテーマに合った画像を生成。フリー素材の代わりに使えます。&lt;/p&gt;
+&lt;h3 id="sns投稿用画像"&gt;SNS投稿用画像
+&lt;/h3&gt;&lt;p&gt;InstagramやXの投稿に使えるオリジナル画像を量産。&lt;/p&gt;
+&lt;h3 id="kdp電子書籍の表紙"&gt;KDP電子書籍の表紙
+&lt;/h3&gt;&lt;p&gt;写真集や絵本の素材として活用。&lt;/p&gt;
+&lt;h3 id="ハンドメイドのデザイン素材"&gt;ハンドメイドのデザイン素材
+&lt;/h3&gt;&lt;p&gt;Tシャツやステッカーのデザインとして販売（SUZURI・Redbubbleなど）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="他の画像生成aiとの比較"&gt;他の画像生成AIとの比較
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;ツール&lt;/th&gt;
+ &lt;th&gt;得意なこと&lt;/th&gt;
+ &lt;th&gt;料金&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ChatGPT（DALL-E）&lt;/td&gt;
+ &lt;td&gt;簡単な指示でも高品質&lt;/td&gt;
+ &lt;td&gt;無料〜&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Midjourney&lt;/td&gt;
+ &lt;td&gt;アート・ファッション系&lt;/td&gt;
+ &lt;td&gt;有料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Stable Diffusion&lt;/td&gt;
+ &lt;td&gt;カスタマイズ性が高い&lt;/td&gt;
+ &lt;td&gt;無料（ローカル）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Gemini&lt;/td&gt;
+ &lt;td&gt;Googleサービスとの連携&lt;/td&gt;
+ &lt;td&gt;無料〜&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;ChatGPTの画像生成は「ちょっとした素材作り」に最適です。凝ったデザインが必要なければ、これ1つで十分な場面も多いです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="何を入力すればいいか分からないを解決したい方へ"&gt;「何を入力すればいいか分からない」を解決したい方へ
+&lt;/h2&gt;&lt;p&gt;ChatGPTの画像生成は「何を書くか」が8割です。でも最初は何を入力すればいいか迷いますよね。&lt;/p&gt;
+&lt;p&gt;そこで、コピペして [ ] を埋めるだけで使える**「最初の一言」フレーズ集**を作りました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;生成・編集・立て直しの全20パターン収録&lt;/li&gt;
+&lt;li&gt;各フレーズに記入例＋失敗を防ぐコツ付き&lt;/li&gt;
+&lt;li&gt;PDF特典付きでスマホでも見ながら使える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://note.com/16bit_chill/n/n7a36b3977bcd" target="_blank" rel="noopener"
+ &gt;コピペで使える「最初の一言」フレーズ集｜ChatGPT画像生成・編集 全20テンプレ&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/" &gt;GeminiのAI画像生成の使い方【Imagen活用法】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/midjourney-beginner-guide/" &gt;Midjourneyの始め方【初心者向けガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/stable-diffusion-guide/" &gt;Stable Diffusionの始め方【ローカル画像生成AI】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI翻訳で副業する方法【英語が苦手でも稼げる】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-translate-side-job/</link><pubDate>Wed, 20 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-translate-side-job/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-translate-side-job/cover.png" alt="Featured image of post AI翻訳で副業する方法【英語が苦手でも稼げる】" /&gt;&lt;p&gt;「英語が苦手だから翻訳副業は無理」と思っていませんか？AIを使えば英語力が低くても翻訳の仕事ができます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ai翻訳副業の仕組み"&gt;AI翻訳副業の仕組み
+&lt;/h2&gt;&lt;p&gt;AI翻訳副業は、以下の流れで成り立っています。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;DeepL・ChatGPTで翻訳&lt;/strong&gt;（下訳を作る）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自分で確認・修正&lt;/strong&gt;（日本語として自然かチェック）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;クライアントに納品&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完全にゼロから翻訳するのではなく、&lt;strong&gt;AIが作った翻訳を人間がチェック・改善する&lt;/strong&gt;という形です。これを「ポストエディット（MTPE）」と呼びます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="使うツール"&gt;使うツール
+&lt;/h2&gt;&lt;h3 id="deeplおすすめ度"&gt;DeepL（おすすめ度：★★★★★）
+&lt;/h3&gt;&lt;p&gt;精度が高い機械翻訳ツール。無料版でも十分使えます。特にビジネス文書・技術文書に強い。&lt;/p&gt;
+&lt;h3 id="chatgptおすすめ度"&gt;ChatGPT（おすすめ度：★★★★☆）
+&lt;/h3&gt;&lt;p&gt;ニュアンスの調整や文脈を理解した翻訳が得意。「〜というトーンで翻訳して」などの指示が通る。&lt;/p&gt;
+&lt;h3 id="google翻訳おすすめ度"&gt;Google翻訳（おすすめ度：★★★☆☆）
+&lt;/h3&gt;&lt;p&gt;無料で手軽。精度はDeepLに劣るが、大意を掴む用途には十分。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="案件の探し方"&gt;案件の探し方
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;クラウドワークス：&lt;/strong&gt;
+「翻訳」で検索すると多数の案件が見つかります。単価は1文字1〜3円が相場。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ランサーズ：&lt;/strong&gt;
+同様に「翻訳」で案件検索。継続案件が多い印象。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gengo：&lt;/strong&gt;
+翻訳専門のクラウドソーシング。テスト合格後に案件を受けられる。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="稼ぎやすいジャンル"&gt;稼ぎやすいジャンル
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;ジャンル&lt;/th&gt;
+ &lt;th&gt;単価&lt;/th&gt;
+ &lt;th&gt;難易度&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;アプリ・ゲームのUI文字&lt;/td&gt;
+ &lt;td&gt;普通&lt;/td&gt;
+ &lt;td&gt;低&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;商品説明文&lt;/td&gt;
+ &lt;td&gt;普通&lt;/td&gt;
+ &lt;td&gt;低〜中&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ビジネスメール&lt;/td&gt;
+ &lt;td&gt;高め&lt;/td&gt;
+ &lt;td&gt;中&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;医療・法律文書&lt;/td&gt;
+ &lt;td&gt;高い&lt;/td&gt;
+ &lt;td&gt;高&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;初心者はアプリUI・商品説明文から始めるのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ai翻訳のコツ"&gt;AI翻訳のコツ
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;プロンプト例（ChatGPT）：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;以下の英文を、Amazonの商品説明として自然な日本語に翻訳してください。
+読者は一般消費者です。専門用語は避けて、わかりやすく訳してください。
+
+[英文をここに貼る]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;DeepLで下訳→ChatGPTで調整→自分でチェックの3段階が品質を上げるコツです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AI翻訳副業は英語力より「日本語力」が大事です。AIの翻訳がおかしくないかを判断できれば仕事になります。まずはクラウドワークスで小さな案件から始めてみましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/" &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Canva AIの使い方【デザイン初心者でもプロっぽく作れる】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-ai-design/</link><pubDate>Tue, 19 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-ai-design/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-ai-design/cover.png" alt="Featured image of post Canva AIの使い方【デザイン初心者でもプロっぽく作れる】" /&gt;&lt;p&gt;CanvaにはAI機能が続々と追加されています。デザインが苦手な人でも、AIを使えばプロっぽい素材が短時間で作れます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="canva-aiの主な機能"&gt;Canva AIの主な機能
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;機能名&lt;/th&gt;
+ &lt;th&gt;できること&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Magic Write&lt;/td&gt;
+ &lt;td&gt;テキストをAIが自動生成&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Magic Design&lt;/td&gt;
+ &lt;td&gt;テーマを入力するとデザインを自動生成&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Text to Image&lt;/td&gt;
+ &lt;td&gt;テキストから画像を生成&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Background Remover&lt;/td&gt;
+ &lt;td&gt;背景を1クリックで削除&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Magic Eraser&lt;/td&gt;
+ &lt;td&gt;不要な部分を消去&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Magic Expand&lt;/td&gt;
+ &lt;td&gt;画像を拡張&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Translate&lt;/td&gt;
+ &lt;td&gt;デザイン内テキストを翻訳&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="magic-writeの使い方"&gt;Magic Writeの使い方
+&lt;/h2&gt;&lt;p&gt;ブログのアイキャッチやSNS投稿を作るとき、キャプションや説明文をAIに書かせられます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Canvaのテキストボックスをクリック&lt;/li&gt;
+&lt;li&gt;「/」を入力するとMagic Writeが起動&lt;/li&gt;
+&lt;li&gt;「〇〇について100文字で書いて」と入力&lt;/li&gt;
+&lt;li&gt;生成されたテキストをそのまま使うか編集&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="magic-designの使い方"&gt;Magic Designの使い方
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Canvaトップ画面の検索バーに「Magic Design」&lt;/li&gt;
+&lt;li&gt;作りたいもの（プレゼン・SNS投稿・チラシなど）を選択&lt;/li&gt;
+&lt;li&gt;テキストやイメージをざっくり入力&lt;/li&gt;
+&lt;li&gt;AIが複数のデザイン案を生成してくれる&lt;/li&gt;
+&lt;li&gt;気に入ったものを選んで編集&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="text-to-image画像生成の使い方"&gt;Text to Image（画像生成）の使い方
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Canvaのデザイン編集画面を開く&lt;/li&gt;
+&lt;li&gt;左メニュー「アプリ」→「Text to Image」&lt;/li&gt;
+&lt;li&gt;生成したい画像の説明を入力&lt;/li&gt;
+&lt;li&gt;スタイル（フォト・イラスト・水彩など）を選択&lt;/li&gt;
+&lt;li&gt;生成ボタンをクリック&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="副業での活用法"&gt;副業での活用法
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ブログのアイキャッチ画像作り：&lt;/strong&gt; テンプレート＋Text to Imageで差別化された画像を作れます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SNS素材作り：&lt;/strong&gt; Instagram・X（旧Twitter）用の画像を量産。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;電子書籍の表紙：&lt;/strong&gt; KDPで出版する本の表紙もCanvaで作れます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="無料版と有料版の違い"&gt;無料版と有料版の違い
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;機能&lt;/th&gt;
+ &lt;th&gt;無料版&lt;/th&gt;
+ &lt;th&gt;有料版（Pro）&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;テンプレート&lt;/td&gt;
+ &lt;td&gt;一部&lt;/td&gt;
+ &lt;td&gt;全て&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Background Remover&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
+ &lt;td&gt;✅&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Magic Write&lt;/td&gt;
+ &lt;td&gt;月25回まで&lt;/td&gt;
+ &lt;td&gt;無制限&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ストレージ&lt;/td&gt;
+ &lt;td&gt;5GB&lt;/td&gt;
+ &lt;td&gt;1TB&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;まずは無料版で十分使えます。本格的に副業で使うなら有料版を検討する価値あり。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;CanvaのAI機能を使えば、デザインの時間が大幅に短縮できます。ブログ・SNS・KDP出版など、副業のあらゆる場面で活躍します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/" &gt;CanvaでブログのアイキャッチをAIで作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/" &gt;AIで写真集を作ってKDPで出版してみた話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/midjourney-beginner-guide/" &gt;Midjourneyの始め方【初心者向けガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIでYouTube台本を作る方法【動画副業の始め方】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-youtube-script/</link><pubDate>Sun, 17 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-youtube-script/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-youtube-script/cover.png" alt="Featured image of post AIでYouTube台本を作る方法【動画副業の始め方】" /&gt;&lt;p&gt;「YouTube副業って難しそう」と思っていませんか？AIを使えば、台本作りの壁はほぼなくなります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiでyoutube台本を作るメリット"&gt;AIでYouTube台本を作るメリット
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;構成を考える時間が1/5以下&lt;/strong&gt;に短縮&lt;/li&gt;
+&lt;li&gt;話し言葉のナチュラルな文体に変換できる&lt;/li&gt;
+&lt;li&gt;複数パターンを瞬時に生成して比較できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="動画台本の作り方chatgpt活用"&gt;動画台本の作り方（ChatGPT活用）
+&lt;/h2&gt;&lt;h3 id="step1テーマとターゲットを決める"&gt;STEP1：テーマとターゲットを決める
+&lt;/h3&gt;&lt;p&gt;まずChatGPTに相談します。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「在宅ワーカー向けのYouTubeチャンネルを始めたい。
+視聴者は30〜40代の副業初心者。
+最初の10本の動画テーマを提案して」
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="step2台本の構成を作る"&gt;STEP2：台本の構成を作る
+&lt;/h3&gt;&lt;p&gt;テーマが決まったら構成を依頼します。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「『ChatGPTで副業を始める方法』という5分動画の台本構成を作って。
+オープニング・本編3つのポイント・まとめ の構成で」
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="step3台本の本文を書かせる"&gt;STEP3：台本の本文を書かせる
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;「上の構成で実際の台本を書いて。
+話し言葉で、初心者にわかりやすく。
+読み上げ時間5分を目安に」
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="step4自分の言葉に直す"&gt;STEP4：自分の言葉に直す
+&lt;/h3&gt;&lt;p&gt;AIの文章をそのまま使わず、自分の経験談や言い回しに書き換えます。これで一気にオリジナリティが上がります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="顔出しなしでも始められる動画形式"&gt;顔出しなしでも始められる動画形式
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;形式&lt;/th&gt;
+ &lt;th&gt;難易度&lt;/th&gt;
+ &lt;th&gt;特徴&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;スライド動画&lt;/td&gt;
+ &lt;td&gt;★☆☆&lt;/td&gt;
+ &lt;td&gt;Canvaで作ったスライドをそのまま録画&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;テキスト動画&lt;/td&gt;
+ &lt;td&gt;★☆☆&lt;/td&gt;
+ &lt;td&gt;文字だけの動画。CapCutで簡単に作れる&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;声だけ動画&lt;/td&gt;
+ &lt;td&gt;★★☆&lt;/td&gt;
+ &lt;td&gt;画面収録＋ナレーション&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Vlog風&lt;/td&gt;
+ &lt;td&gt;★★★&lt;/td&gt;
+ &lt;td&gt;顔出し・生活密着型&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;初心者はスライド動画かテキスト動画から始めるのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="bgm効果音もaiで"&gt;BGM・効果音もAIで
+&lt;/h2&gt;&lt;p&gt;動画に使うBGMはSunoなどのAI音楽生成サービスで作れます。著作権フリーのオリジナル曲がすぐできます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;台本作り → AIにお任せ。撮影 → スライド録画。編集 → CapCutの自動字幕。これだけでYouTubeを始められる時代になりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/" &gt;SunoでYouTube用BGMを無料で作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/" &gt;AIでSNS投稿を量産する方法【ストック型発信のすすめ】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ChatGPTのGPTsの使い方【おすすめカスタムAI10選】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-gpts-guide/</link><pubDate>Sat, 16 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-gpts-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-gpts-guide/cover.png" alt="Featured image of post ChatGPTのGPTsの使い方【おすすめカスタムAI10選】" /&gt;&lt;p&gt;ChatGPTには「GPTs」という機能があります。目的に特化したカスタムAIを使ったり、自分で作ったりできる仕組みです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="gptsとは"&gt;GPTsとは？
+&lt;/h2&gt;&lt;p&gt;GPTsは、ChatGPTを特定の用途向けにカスタマイズしたバージョンです。&lt;/p&gt;
+&lt;p&gt;たとえば「英語添削専用GPT」「SEO記事作成GPT」「ロゴデザインGPT」など、用途に特化した設定があらかじめ入っています。&lt;/p&gt;
+&lt;p&gt;**ChatGPT Plus（有料）またはChatGPT無料版（一部利用可能）**で使えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="gptsの探し方"&gt;GPTsの探し方
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;ChatGPTを開く&lt;/li&gt;
+&lt;li&gt;左メニューの「GPTを探す」をクリック&lt;/li&gt;
+&lt;li&gt;検索バーに目的のキーワードを入力&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="副業仕事に役立つおすすめgpts-10選"&gt;副業・仕事に役立つおすすめGPTs 10選
+&lt;/h2&gt;&lt;h3 id="1-canva"&gt;1. Canva
+&lt;/h3&gt;&lt;p&gt;CanvaのデザインをAIで作成。テンプレートの選択からテキスト編集まで会話形式でできます。&lt;/p&gt;
+&lt;h3 id="2-webpilot"&gt;2. WebPilot
+&lt;/h3&gt;&lt;p&gt;URLを渡すとWebページを読み込んで要約・分析。リサーチに最適。&lt;/p&gt;
+&lt;h3 id="3-consensus"&gt;3. Consensus
+&lt;/h3&gt;&lt;p&gt;学術論文を検索して要約。信頼性の高い情報収集に。&lt;/p&gt;
+&lt;h3 id="4-dall-e"&gt;4. DALL-E
+&lt;/h3&gt;&lt;p&gt;ChatGPT内で画像を生成。ブログのアイキャッチやSNS画像作りに。&lt;/p&gt;
+&lt;h3 id="5-seo-content-master"&gt;5. SEO Content Master
+&lt;/h3&gt;&lt;p&gt;SEOを意識したブログ記事の構成・執筆をサポート。&lt;/p&gt;
+&lt;h3 id="6-code-copilot"&gt;6. Code Copilot
+&lt;/h3&gt;&lt;p&gt;プログラミングのサポート。Pythonスクリプトの作成やエラー解決に。&lt;/p&gt;
+&lt;h3 id="7-pdf-ai-pdf"&gt;7. PDF Ai PDF
+&lt;/h3&gt;&lt;p&gt;PDFをアップして要約・質問。契約書や説明書の確認に。&lt;/p&gt;
+&lt;h3 id="8-translate-gpt"&gt;8. Translate GPT
+&lt;/h3&gt;&lt;p&gt;多言語翻訳に特化。KDP出版の英語説明文作りにも使えます。&lt;/p&gt;
+&lt;h3 id="9-resume-worded"&gt;9. Resume Worded
+&lt;/h3&gt;&lt;p&gt;履歴書・職務経歴書のレビューと改善提案。&lt;/p&gt;
+&lt;h3 id="10-presentation-and-slides-gpt"&gt;10. Presentation and Slides GPT
+&lt;/h3&gt;&lt;p&gt;プレゼン資料の構成をAIが提案。副業の提案書作りに。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="自分でgptsを作る方法"&gt;自分でGPTsを作る方法
+&lt;/h2&gt;&lt;p&gt;有料プラン（Plus）なら自分だけのGPTを作ることもできます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ChatGPTトップ画面「GPTを作成」をクリック&lt;/li&gt;
+&lt;li&gt;用途・名前・指示を入力&lt;/li&gt;
+&lt;li&gt;完成したGPTを自分用・または公開用として保存&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自作GPTをGPTsストアで公開して収益化することもできます（一定条件あり）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;GPTsを使いこなすと、毎回プロンプトを書かなくても目的に特化したAIをすぐ呼び出せます。特にブログ執筆・翻訳・デザインの3分野は効果絶大です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/" &gt;ChatGPTの始め方【初心者向け完全ガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTのプロンプトの書き方【基本から応用まで】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/" &gt;プロンプトの保存・管理方法【再利用して作業効率アップ】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</link><pubDate>Thu, 14 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/cover.png" alt="Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】" /&gt;&lt;p&gt;「SNSを毎日更新したいけど、ネタと時間がない」&lt;/p&gt;
+&lt;p&gt;ブログと並行してSNSも運営しようとすると、投稿作成に時間がかかりすぎる問題が出てきます。AIを使い始めてからこの問題が大幅に解消されました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiでsns投稿を作る流れ"&gt;AIでSNS投稿を作る流れ
+&lt;/h2&gt;&lt;p&gt;私が使っているシンプルな流れです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;①テーマ・ネタを決める（5分）
+　　↓
+②AIに下書きを生成させる（2〜3分）
+　　↓
+③自分でトーンを調整して投稿（5分）
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1投稿あたり10〜15分で仕上がります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="x旧twitter向けのプロンプト"&gt;X（旧Twitter）向けのプロンプト
+&lt;/h2&gt;&lt;h3 id="情報発信ツイートを作る"&gt;情報発信ツイートを作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のテーマについて、Xに投稿するツイートを3パターン作ってください。
+・テーマ：[テーマ]
+・対象：[ターゲット読者]
+・文字数：140字以内
+・口調：親しみやすく、断定的すぎない
+・最後に読者への問いかけを入れる
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="ブログ記事の告知ツイートを作る"&gt;ブログ記事の告知ツイートを作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のブログ記事を紹介するツイートを2パターン作成してください。
+・記事タイトル：[タイトル]
+・記事の概要：[2〜3行で内容を説明]
+・文字数：140字以内（URLを除く）
+・リンクを踏みたくなる一言を入れる
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="instagram向けのプロンプト"&gt;Instagram向けのプロンプト
+&lt;/h2&gt;&lt;h3 id="キャプション本文を作る"&gt;キャプション（本文）を作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;Instagramのキャプションを作成してください。
+・テーマ：[テーマ]
+・投稿する画像のイメージ：[どんな画像か]
+・文字数：200〜400字
+・改行を多用して読みやすく
+・最後にハッシュタグを10個
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="1週間分をまとめて作る"&gt;1週間分をまとめて作る
+&lt;/h2&gt;&lt;p&gt;毎日考えるより、週に1回まとめて作る「バッチ処理」がおすすめです。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;私のブログのSNS投稿を、今週1週間分（7日分）提案してください。
+ブログテーマ：AIツール活用・副業
+各投稿：X向け（140字以内）
+月〜日で投稿テーマが重ならないように工夫してください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一度に7日分の素材が揃うので、後は微調整して予約投稿するだけです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="投稿のトーンを自分らしくする"&gt;投稿のトーンを自分らしくする
+&lt;/h2&gt;&lt;p&gt;AIが作った下書きは少し硬い場合があります。以下の調整を加えると「自分らしさ」が出やすくなります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;語尾を「〜です」から「〜だよ」「〜でした」などに変える&lt;/li&gt;
+&lt;li&gt;自分の実体験を1文追加する&lt;/li&gt;
+&lt;li&gt;絵文字を適宜追加する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完全な原文よりも「たたき台を自分でアレンジする」のがポイントです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="使うaiのおすすめ"&gt;使うAIのおすすめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：バリエーションを複数出してくれるのが得意&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt;：文章が自然で、読みやすいトーンになりやすい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Claudeで下書きを作ってChatGPTでバリエーションを増やすのが好きな流れです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIを使えば、SNS投稿の下書きを10分以下で作れます。「毎日投稿しなければ」というプレッシャーも減って、SNS運営が楽になりました。まず次回の投稿1本だけ、AIに下書きを作ってもらってみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI副業で稼いだら税金はどうなる？確定申告の基本まとめ</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-tax/</link><pubDate>Thu, 07 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-tax/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-tax/cover.png" alt="Featured image of post AI副業で稼いだら税金はどうなる？確定申告の基本まとめ" /&gt;&lt;p&gt;「副業で稼いだお金、税金はどうなるんだろう？」&lt;/p&gt;
+&lt;p&gt;AI副業を始めると、こんな疑問が出てきます。ブログ収益、アフィリエイト、KDP、クラウドソーシング…収入が増えると確定申告が必要になります。今回は、AI副業での税金の基本をまとめました。&lt;/p&gt;
+&lt;p&gt;※ この記事は一般的な情報提供を目的としています。個別の税務相談は税理士にご確認ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="確定申告が必要になる基準"&gt;確定申告が必要になる基準
+&lt;/h2&gt;&lt;p&gt;会社員が副業をしている場合、&lt;strong&gt;副業の年間所得が20万円を超えると確定申告が必要&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;「所得」とは、収入から経費を引いた金額。たとえば年間30万円の収益があっても、経費が15万円あれば所得は15万円になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="副業の種類と収入の分類"&gt;副業の種類と収入の分類
+&lt;/h2&gt;&lt;p&gt;AI副業の収入は基本的に&lt;strong&gt;雑所得&lt;/strong&gt;に分類されます。&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;副業の種類&lt;/th&gt;
+ &lt;th&gt;所得の種類&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ブログアフィリエイト&lt;/td&gt;
+ &lt;td&gt;雑所得&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KDP電子書籍&lt;/td&gt;
+ &lt;td&gt;雑所得&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;クラウドソーシング&lt;/td&gt;
+ &lt;td&gt;雑所得&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;プロンプト販売&lt;/td&gt;
+ &lt;td&gt;雑所得&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;副業の規模が大きくなり「事業として継続している」と認められれば事業所得になりますが、始めたばかりの段階はほとんどの場合、雑所得です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="経費にできるものは"&gt;経費にできるものは？
+&lt;/h2&gt;&lt;p&gt;副業に関係する支出は経費として収入から差し引けます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI副業で経費になりうるもの：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPT Plusなどの有料AIツール代&lt;/li&gt;
+&lt;li&gt;ブログのドメイン・サーバー代&lt;/li&gt;
+&lt;li&gt;副業に使ったパソコン・周辺機器（按分）&lt;/li&gt;
+&lt;li&gt;参考書籍・オンライン学習費&lt;/li&gt;
+&lt;li&gt;副業専用で使った通信費（按分）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;按分（あんぶん）とは？&lt;/strong&gt;
+プライベートと仕事で兼用しているものは、使用割合に応じて経費に算入します。たとえばパソコンを仕事50%・プライベート50%で使っているなら、購入費の50%が経費になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="確定申告の手順概要"&gt;確定申告の手順（概要）
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;1年間の収支を記録しておく&lt;/strong&gt;（月ごとにまとめるとラク）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;翌年2月〜3月に確定申告書を作成・提出&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;e-Tax（オンライン）で提出するのが便利&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使って経費管理する方法"&gt;AIを使って経費管理する方法
+&lt;/h2&gt;&lt;p&gt;収支の記録はAIを活用すると楽になります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私がやっていること：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Notionで月ごとの収支表を作る&lt;/li&gt;
+&lt;li&gt;月末にChatGPTに「この月の収支をまとめて」と入力して集計を手伝ってもらう&lt;/li&gt;
+&lt;li&gt;経費の分類（AIツール代・通信費など）もAIに振り分けてもらう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;副業収入が年間20万円を超えたら確定申告が必要です。経費をきちんと記録しておくと節税になります。難しく考えすぎず、「月ごとに収支をメモする習慣」だけ今から始めておきましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</link><pubDate>Fri, 01 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/cover.png" alt="Featured image of post PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】" /&gt;&lt;p&gt;「AIプロンプトって売れるの？」&lt;/p&gt;
+&lt;p&gt;売れます。しかも一度作れば繰り返し売れる資産型の収入になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="promptbaseとは"&gt;PromptBaseとは？
+&lt;/h2&gt;&lt;p&gt;AIへの指示文（プロンプト）を売買できるマーケットプレイスです。&lt;/p&gt;
+&lt;p&gt;ChatGPT・Midjourney・Stable Diffusionなど、さまざまなAI向けのプロンプトが出品されています。価格は1本$1.99〜$4.99が相場です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="出品の流れ"&gt;出品の流れ
+&lt;/h2&gt;&lt;h3 id="ステップ1アカウント作成"&gt;ステップ1：アカウント作成
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a class="link" href="https://promptbase.com" target="_blank" rel="noopener"
+ &gt;https://promptbase.com&lt;/a&gt;&lt;/strong&gt; にアクセスして、Googleアカウントで登録します。&lt;/p&gt;
+&lt;h3 id="ステップ2プロンプトを作る"&gt;ステップ2：プロンプトを作る
+&lt;/h3&gt;&lt;p&gt;「このAIツールで、こういう結果が出るプロンプト」を作ります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;売れやすいジャンル：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;画像生成（Midjourney・Stable Diffusion）&lt;/li&gt;
+&lt;li&gt;ビジネス文書・メール作成&lt;/li&gt;
+&lt;li&gt;SNS投稿文の生成&lt;/li&gt;
+&lt;li&gt;特定スタイルのイラスト生成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ステップ3英語で説明文を書いて出品"&gt;ステップ3：英語で説明文を書いて出品
+&lt;/h3&gt;&lt;p&gt;タイトル・説明文・サンプル画像を英語で用意して出品します。説明文はChatGPTやClaudeに翻訳してもらえばOKです。&lt;/p&gt;
+&lt;h3 id="ステップ4売れたら報酬が入る"&gt;ステップ4：売れたら報酬が入る
+&lt;/h3&gt;&lt;p&gt;売れるたびに報酬が入ります。PromptBaseの手数料は20%で、残り80%が収入になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="収入の目安"&gt;収入の目安
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;月の販売数&lt;/th&gt;
+ &lt;th&gt;単価$2.99&lt;/th&gt;
+ &lt;th&gt;単価$4.99&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;10本&lt;/td&gt;
+ &lt;td&gt;約3,500円&lt;/td&gt;
+ &lt;td&gt;約5,800円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;30本&lt;/td&gt;
+ &lt;td&gt;約10,500円&lt;/td&gt;
+ &lt;td&gt;約17,400円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;最初は少ないですが、人気プロンプトが1本あれば毎月安定して売れ続けます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="成功のコツ"&gt;成功のコツ
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;サンプル画像が大事&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成系のプロンプトは、実際に生成した画像をサンプルとして掲載するとクリック率が上がります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ニッチを狙う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「プロダクト写真風」「和風イラスト」など、具体的なジャンルに絞ったほうが売れやすいです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;登録・出品は無料&lt;/li&gt;
+&lt;li&gt;一度作れば繰り返し売れる&lt;/li&gt;
+&lt;li&gt;英語で出品すれば世界中に売れる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;プロンプトを1本作って試してみるだけで、副業の第一歩になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIで写真集を作ってKDPで出版してみた話【完全レポート】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/</link><pubDate>Tue, 28 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/cover.png" alt="Featured image of post AIで写真集を作ってKDPで出版してみた話【完全レポート】" /&gt;&lt;p&gt;「AIで本を作ってAmazonで売る」&lt;/p&gt;
+&lt;p&gt;半信半疑で始めてみたら、本当に出版できました。今回はその全工程を正直にレポートします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="作った本はこれです"&gt;作った本はこれです
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「The Secret Beauty of Moths — 50 Macro Portraits of Japanese Moths」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日本の蛾を題材にしたマクロポートレート写真集です。AIで生成した50枚の画像を1冊にまとめました。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://www.amazon.co.jp/dp/B0GZQQY2D3" target="_blank" rel="noopener"
+ &gt;Amazonで見る&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜ蛾だったのか"&gt;なぜ「蛾」だったのか
+&lt;/h2&gt;&lt;p&gt;正直なところ、最初は蛾を選ぶ予定はありませんでした。&lt;/p&gt;
+&lt;p&gt;「売れそうなニッチなテーマ」を考えていたとき、「日本の蛾」というキーワードが目に留まりました。蛾は見た目が地味なイメージがありますが、実はマクロで見ると驚くほど美しい模様を持っています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;しかも写真集としてまとめた本がほとんどない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはチャンスだと思いました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="制作の流れ"&gt;制作の流れ
+&lt;/h2&gt;&lt;h3 id="step1テーマとコンセプトを決める"&gt;STEP1：テーマとコンセプトを決める
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;ジャンル：写真集（ノンフィクション）&lt;/li&gt;
+&lt;li&gt;テーマ：日本の蛾のマクロポートレート&lt;/li&gt;
+&lt;li&gt;ターゲット：昆虫好き・自然写真好きの英語圏読者&lt;/li&gt;
+&lt;li&gt;販売価格：$2.99〜$4.99&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;英語で出版すれば世界中の人に読んでもらえます。&lt;/p&gt;
+&lt;h3 id="step2aiで画像を生成する"&gt;STEP2：AIで画像を生成する
+&lt;/h3&gt;&lt;p&gt;GeminiやChatGPTの画像生成機能を使って、蛾のマクロ写真風の画像を生成しました。&lt;/p&gt;
+&lt;p&gt;プロンプトはこんな感じです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;Extreme macro photography of a Japanese moth, 
+highly detailed wing patterns, dark background, 
+studio lighting, scientific illustration style
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;50枚の画像を生成するのに、だいたい2〜3時間かかりました。&lt;/p&gt;
+&lt;h3 id="step3pdfにまとめる"&gt;STEP3：PDFにまとめる
+&lt;/h3&gt;&lt;p&gt;生成した画像をPythonスクリプトを使ってPDFにまとめました。レイアウトはシンプルに、1ページ1枚の画像＋英語キャプション形式にしました。&lt;/p&gt;
+&lt;h3 id="step4kdpに登録して出版申請"&gt;STEP4：KDPに登録して出版申請
+&lt;/h3&gt;&lt;p&gt;KDP（Kindle Direct Publishing）は無料で使えるAmazonの出版プラットフォームです。&lt;/p&gt;
+&lt;p&gt;登録から出版申請まで約1時間。審査は24〜72時間で完了しました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="かかった費用"&gt;かかった費用
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;項目&lt;/th&gt;
+ &lt;th&gt;費用&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;AIツール（Gemini）&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KDP登録・出版&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;合計&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;0円&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;本当に0円で出版できました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に売れているか"&gt;実際に売れているか？
+&lt;/h2&gt;&lt;p&gt;正直に言います。まだ始まったばかりで、大きな収益はありません。&lt;/p&gt;
+&lt;p&gt;ただ、&lt;strong&gt;一度作った本は24時間365日Amazonで販売され続けます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1冊売れるたびに報酬が入るストック型の収入になります。本の数を増やすほど、収入の積み上がりが期待できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="やってみてわかったこと"&gt;やってみてわかったこと
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;良かったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;費用ゼロで出版できた&lt;/li&gt;
+&lt;li&gt;作業のほとんどをAIが手伝ってくれた&lt;/li&gt;
+&lt;li&gt;世界中に販売できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;大変だったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;英語の説明文を書くのが少し手間&lt;/li&gt;
+&lt;li&gt;50枚分の画像生成に時間がかかった&lt;/li&gt;
+&lt;li&gt;どんなテーマが売れるか、最初は読めない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="次にやること"&gt;次にやること
+&lt;/h2&gt;&lt;p&gt;1冊目の経験を活かして、すでに2冊目も出版しました。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://amzn.to/4tsbnRY" target="_blank" rel="noopener"
+ &gt;REBEL &amp;amp; ROYAL: London Street Snap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;蛾とは打って変わって、ロンドンのストリートスナップ写真集です。テーマをガラッと変えることで、全く異なる読者層にアプローチできるのもKDPの面白さだと感じています。&lt;/p&gt;
+&lt;p&gt;「1ジャンル1冊」のペースで本を増やしていくのが目標です。100冊出版できれば、少額でも積み重なって安定した収入になると考えています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIとKDPを組み合わせれば、費用ゼロで電子書籍を出版できます。大切なのは「売れそうなニッチなテーマ」を見つけること。&lt;/p&gt;
+&lt;p&gt;興味がある方はぜひ挑戦してみてください。わからないことがあればコメントで聞いてもらえると嬉しいです😊&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/" &gt;AIでKindle本を作る手順を全部公開【KDP副業の始め方】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIでKindle本を作る手順を全部公開【KDP副業の始め方】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/</link><pubDate>Mon, 27 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/cover.png" alt="Featured image of post AIでKindle本を作る手順を全部公開【KDP副業の始め方】" /&gt;&lt;p&gt;「本を書くなんて自分には無理」&lt;/p&gt;
+&lt;p&gt;半年前の私もそう思っていました。でも今はAIのおかげで、電子書籍を3冊出版しています。&lt;/p&gt;
+&lt;p&gt;この記事では、AIを使ったKDP（Kindle Direct Publishing）副業の手順を全部公開します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="kdpって何"&gt;KDPって何？
+&lt;/h2&gt;&lt;p&gt;Amazon Kindle Direct Publishingの略で、Amazonで電子書籍を自己出版できるサービスです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;登録料・出版費用：&lt;strong&gt;完全無料&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ロイヤリティ：&lt;strong&gt;売上の35〜70%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;出版審査：&lt;strong&gt;通常24〜72時間&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一度出版した本は、半永久的に売れ続けます。ストック型の収入源として人気です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使った制作フロー"&gt;AIを使った制作フロー
+&lt;/h2&gt;&lt;h3 id="ステップ1ジャンルとテーマを決める30分"&gt;ステップ1：ジャンルとテーマを決める（30分）
+&lt;/h3&gt;&lt;p&gt;売れやすいジャンルを選ぶのが最重要です。私が調べた狙い目は以下の通り。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;売れやすいジャンル：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ハウツー・実用（お金、副業、健康、時短）&lt;/li&gt;
+&lt;li&gt;子供向け絵本&lt;/li&gt;
+&lt;li&gt;資格・語学&lt;/li&gt;
+&lt;li&gt;趣味・ライフスタイル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;テーマが決まったら、ChatGPTに「このテーマで電子書籍のタイトル案を10個出して」と聞きます。&lt;/p&gt;
+&lt;h3 id="ステップ2構成を作る15分"&gt;ステップ2：構成を作る（15分）
+&lt;/h3&gt;&lt;p&gt;タイトルが決まったら目次（章立て）を作ります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「ズボラさんのための家計管理術」という電子書籍の目次を作ってください。
+対象：一人暮らしの20〜30代
+章数：5章
+各章のサブタイトル：3つ程度
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="ステップ3本文を執筆する23時間"&gt;ステップ3：本文を執筆する（2〜3時間）
+&lt;/h3&gt;&lt;p&gt;各章をAIに書いてもらいます。一気に全部書かせるより、章ごとに書いてもらう方が品質が安定します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大事なこと：&lt;/strong&gt; AIの文章をそのまま使わず、必ず自分でリライトすること。「自分の言葉」に変えることで品質が上がり、Amazonのガイドラインにも沿えます。&lt;/p&gt;
+&lt;h3 id="ステップ4表紙を作る30分"&gt;ステップ4：表紙を作る（30分）
+&lt;/h3&gt;&lt;p&gt;Canvaの無料テンプレートを使えば、プロっぽい表紙が作れます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;表紙のポイント：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;タイトルは大きく、遠くから見ても読めるサイズ&lt;/li&gt;
+&lt;li&gt;背景はシンプルに&lt;/li&gt;
+&lt;li&gt;600×800px（KDPの推奨サイズ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ステップ5kdpにアップロードして出版30分"&gt;ステップ5：KDPにアップロードして出版（30分）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Amazon KDP（kdp.amazon.co.jp）にアカウント登録&lt;/li&gt;
+&lt;li&gt;新しいタイトルを追加&lt;/li&gt;
+&lt;li&gt;原稿（WordまたはEPUB）と表紙をアップロード&lt;/li&gt;
+&lt;li&gt;価格設定（99〜990円が売れやすい）&lt;/li&gt;
+&lt;li&gt;出版申請 → 24〜72時間で公開&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="収益を上げるコツ"&gt;収益を上げるコツ
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;シリーズ化する：&lt;/strong&gt; 1冊目が売れたら続編を出す。固定読者がつきやすい。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KDPセレクトに登録：&lt;/strong&gt; 無料キャンペーンを活用してダウンロード数を増やし、レビューを集める。レビュー5件以上で売れ方が変わります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;薄くて安い本を量産：&lt;/strong&gt; 1冊あたりの収益より、冊数を増やす戦略の方が安定します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="注意点"&gt;注意点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;AIで書いた文章はそのまま出版しないこと（必ず人間がリライト）&lt;/li&gt;
+&lt;li&gt;著作権に引っかかる内容は避ける&lt;/li&gt;
+&lt;li&gt;品質の低い本を大量出版するとアカウント停止のリスクあり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="私が実際に出版した本"&gt;私が実際に出版した本
+&lt;/h2&gt;&lt;p&gt;参考までに、私がKDPで出版した写真集です。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://amzn.to/4tsbnRY" target="_blank" rel="noopener"
+ &gt;REBEL &amp;amp; ROYAL: London Street Snap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ロンドンのストリートスナップをまとめた写真集で、AIと自分の中のイメージを組み合わせて制作しました。「こんな本でも出版できるんだ」という参考になれば嬉しいです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;私がKDPで最初に稼いだのは出版から2週間後で、500円でした。小さい金額ですが「自分が作った本が売れた」という感覚は格別でした。&lt;/p&gt;
+&lt;p&gt;まずは1冊、薄い実用書から始めてみましょう。AIがいればあなたにも書けます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/" &gt;AIで写真集を作ってKDPで出版してみた話【完全レポート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/</link><pubDate>Thu, 23 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/cover.png" alt="Featured image of post 無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】" /&gt;&lt;p&gt;「AIを使って副業したいけど、有料プランを買う余裕がない」&lt;/p&gt;
+&lt;p&gt;安心してください。私も最初は完全無料で始めました。2026年現在、無料のAIツールだけでも十分に副業をスタートできます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="無料で使える主なaiツール"&gt;無料で使える主なAIツール
+&lt;/h2&gt;&lt;h3 id="文章生成"&gt;文章生成
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT（GPT-4o）&lt;/strong&gt;：一定量まで無料、最もポピュラー&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude（3.5 Sonnet）&lt;/strong&gt;：一定量まで無料、日本語が自然&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gemini&lt;/strong&gt;：Googleアカウントがあれば無料&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copilot&lt;/strong&gt;：Microsoftアカウントで無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="画像生成"&gt;画像生成
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Canva（AI機能）&lt;/strong&gt;：基本無料、デザインと一体型&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adobe Firefly&lt;/strong&gt;：月25クレジット無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="その他"&gt;その他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ElevenLabs&lt;/strong&gt;：月10,000文字まで音声生成無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="無料aiで始めやすい副業3選"&gt;無料AIで始めやすい副業3選
+&lt;/h2&gt;&lt;h3 id="副業1記事ブログライター"&gt;副業1：記事・ブログライター
+&lt;/h3&gt;&lt;p&gt;クラウドワークスやランサーズで記事作成の案件を受注し、ClaudeやChatGPTで下書きを作成してリライトして納品します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;報酬目安：&lt;/strong&gt; 1記事1,000〜5,000円&lt;br&gt;
+&lt;strong&gt;ツール：&lt;/strong&gt; Claude or ChatGPT（どちらも無料版でOK）&lt;/p&gt;
+&lt;h3 id="副業2sns投稿文の代行"&gt;副業2：SNS投稿文の代行
+&lt;/h3&gt;&lt;p&gt;企業や個人のInstagram・X（旧Twitter）の投稿文をAIで作成し、代行する仕事です。月数本の契約から始められます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;報酬目安：&lt;/strong&gt; 月3,000〜30,000円&lt;br&gt;
+&lt;strong&gt;ツール：&lt;/strong&gt; ChatGPT + Canva（ともに無料）&lt;/p&gt;
+&lt;h3 id="副業3プロンプト販売"&gt;副業3：プロンプト販売
+&lt;/h3&gt;&lt;p&gt;効果的なAIプロンプトを作成して、noteやBrainで販売します。一度作れば繰り返し売れます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;報酬目安：&lt;/strong&gt; 1本300〜3,000円&lt;br&gt;
+&lt;strong&gt;ツール：&lt;/strong&gt; ChatGPT（無料版で試作・検証できる）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="無料プランの制限を乗り越えるコツ"&gt;無料プランの制限を乗り越えるコツ
+&lt;/h2&gt;&lt;p&gt;無料プランには使用制限があります。私がやっている対策はこれです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;複数のAIを使い回す&lt;/strong&gt;
+ChatGPTの制限に達したらClaude、Claudeが重くなったらGemini。3つ使い回せば実質ほぼ無制限です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;朝と夜に分けて作業する&lt;/strong&gt;
+多くのAIは使用上限がリセットされます。朝の制限に達したら夜また使うスタイルで乗り切れます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="有料化するタイミング"&gt;有料化するタイミング
+&lt;/h2&gt;&lt;p&gt;月5,000円以上副業で稼げるようになったら、有料プランへの切り替えを検討しましょう。&lt;/p&gt;
+&lt;p&gt;有料プランにすると：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用制限がなくなる&lt;/li&gt;
+&lt;li&gt;より高性能なモデルが使える&lt;/li&gt;
+&lt;li&gt;処理速度が上がる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;副業で稼いだお金でAIに投資する、この順番が正解です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;まずは無料ツールで副業の感覚をつかむ。それが最もリスクの低いスタートです。初期費用ゼロで始められるのがAI副業の最大のメリット。今日から一歩踏み出してみましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/" &gt;クラウドワークスで最初の仕事を取るまでにやったこと&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>クラウドワークスで最初の仕事を取るまでにやったこと</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</link><pubDate>Wed, 22 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/cover.png" alt="Featured image of post クラウドワークスで最初の仕事を取るまでにやったこと" /&gt;&lt;p&gt;クラウドソーシングを始めて最初の壁は「最初の1件を取ること」です。&lt;/p&gt;
+&lt;p&gt;実績ゼロの状態でどうやって受注するか、私がやった方法をまとめます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="最初の1件が難しい理由"&gt;最初の1件が難しい理由
+&lt;/h2&gt;&lt;p&gt;クラウドワークスでは、クライアントは実績を見て発注先を選びます。&lt;/p&gt;
+&lt;p&gt;実績ゼロだと選ばれにくい。でも実績を作るには仕事を受注しないといけない。この「鶏と卵」状態が最初の壁です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="解決策単価を気にせず実績を作る"&gt;解決策：単価を気にせず実績を作る
+&lt;/h2&gt;&lt;p&gt;最初は単価より「実績を作ること」を優先しました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体的にやったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;タスク形式の案件を選ぶ&lt;/strong&gt;
+提案文不要でその場で仕事ができる案件です。1記事500円以下でも、まずは経験を積む。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;コンペ形式に参加する&lt;/strong&gt;
+採用されなくても経験になります。採用されれば実績と報酬の両方が手に入ります。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;丁寧な提案文を書く&lt;/strong&gt;
+実績がない分、提案文で誠実さをアピール。「AIを活用して期日より早く納品します」と具体的に書く。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使った提案文の構成"&gt;実際に使った提案文の構成
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;【はじめまして】
+〇〇と申します。
+
+【できること】
+AIツールを活用したライティングが得意です。
+SEOを意識した読みやすい記事を作成します。
+
+【対応できる内容】
+・ブログ記事（1,000〜3,000文字）
+・商品説明文
+・SNS投稿文
+
+【納品について】
+ご希望の期日より1〜2日早い納品を心がけています。
+
+ご不明点はお気軽にご質問ください。
+よろしくお願いします。
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="最初の1件を取ったあとは"&gt;最初の1件を取ったあとは
+&lt;/h2&gt;&lt;p&gt;1件実績ができると、次の受注がぐっとラクになります。&lt;/p&gt;
+&lt;p&gt;評価を★5でもらえるよう、最初の案件は特に丁寧に対応しました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;最初は単価より「実績作り」を優先&lt;/li&gt;
+&lt;li&gt;タスク形式・コンペから始めると入りやすい&lt;/li&gt;
+&lt;li&gt;丁寧な提案文＋AIで品質を担保する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;焦らず、1件ずつ積み上げていきましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/</link><pubDate>Tue, 14 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/cover.png" alt="Featured image of post AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか" /&gt;&lt;p&gt;「実際のところ、どのくらい稼げるの？」&lt;/p&gt;
+&lt;p&gt;これが一番気になるところだと思います。2ヶ月やってみた結果を正直に書きます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="やってみた副業3つ"&gt;やってみた副業3つ
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;KDP（電子書籍の出版）&lt;/li&gt;
+&lt;li&gt;PromptBase（プロンプト販売）&lt;/li&gt;
+&lt;li&gt;クラウドワークス（ライティング受注）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="2ヶ月の収支"&gt;2ヶ月の収支
+&lt;/h2&gt;&lt;h3 id="kdp"&gt;KDP
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;出版した本：1冊（蛾のマクロ写真集）&lt;/li&gt;
+&lt;li&gt;売上：$2.39（約350円）&lt;/li&gt;
+&lt;li&gt;かかった費用：0円&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;まだまだ少ないですが、本は24時間365日売れ続けます。本数を増やすことが大事だと実感しました。&lt;/p&gt;
+&lt;h3 id="promptbase"&gt;PromptBase
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;出品したプロンプト：2本&lt;/li&gt;
+&lt;li&gt;売上：$5.98（約900円）&lt;/li&gt;
+&lt;li&gt;かかった費用：0円&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1本売れると嬉しいです。英語の説明文がうまく書けると売れやすい印象。&lt;/p&gt;
+&lt;h3 id="クラウドワークス"&gt;クラウドワークス
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;受注した案件：3件&lt;/li&gt;
+&lt;li&gt;売上：8,500円&lt;/li&gt;
+&lt;li&gt;かかった費用：0円&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一番安定して稼げます。初心者でもやりやすく、AIで作業時間も短縮できています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2ヶ月の合計"&gt;2ヶ月の合計
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;副業&lt;/th&gt;
+ &lt;th&gt;収入&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KDP&lt;/td&gt;
+ &lt;td&gt;約350円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;PromptBase&lt;/td&gt;
+ &lt;td&gt;約900円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;クラウドワークス&lt;/td&gt;
+ &lt;td&gt;8,500円&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;合計&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;約9,750円&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="正直な感想"&gt;正直な感想
+&lt;/h2&gt;&lt;p&gt;月1万円に届きませんでしたが、費用ゼロで始めてこれだけ稼げたのは素直に驚きです。&lt;/p&gt;
+&lt;p&gt;特にクラウドワークスは即効性があります。KDPとPromptBaseは資産型なので、時間をかけて積み上げていく方針です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="次の目標"&gt;次の目標
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;KDP：5冊出版&lt;/li&gt;
+&lt;li&gt;PromptBase：10本出品&lt;/li&gt;
+&lt;li&gt;クラウドワークス：月10,000円安定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「コツコツ積み上げる」が今のスタンスです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AI副業は費用ゼロで始められます。最初から大きく稼ごうとせず、小さく始めて経験を積むのが長続きのコツだと感じています。&lt;/p&gt;
+&lt;p&gt;興味がある方はまず1つだけ試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/" &gt;AIで写真集を作ってKDPで出版してみた話【完全レポート】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>2026年に注目のAI副業5選【今始めると有利な理由】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/cover.png" alt="Featured image of post 2026年に注目のAI副業5選【今始めると有利な理由】" /&gt;&lt;p&gt;2026年、AI副業の世界は去年と比べても大きく変わっています。&lt;/p&gt;
+&lt;p&gt;新しい副業の形が生まれる一方で「もう遅いのでは？」と思う方もいるかもしれません。でも結論から言うと、&lt;strong&gt;今がまだ早期参入のチャンス&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;注目している5つのAI副業と、その理由を紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-aiプロンプト販売"&gt;1. AIプロンプト販売
+&lt;/h2&gt;&lt;p&gt;ChatGPTやMidjourneyで高品質な結果を引き出す「プロンプト（指示文）」を作成して販売する副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AIツールが普及するほど「うまく使えない人」が増える。良いプロンプトへの需要は伸び続けています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;販売先：&lt;/strong&gt; note、Brain、独自ブログ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1本300〜3,000円。ヒット商品が出れば月数万円も可能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自分がよく使うプロンプトを磨いて実例を作る&lt;/li&gt;
+&lt;li&gt;「このプロンプトを使ったらこう変わった」という比較を記事化&lt;/li&gt;
+&lt;li&gt;noteで500〜1,000円で販売開始&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="2-ai動画クリエイター"&gt;2. AI動画クリエイター
+&lt;/h2&gt;&lt;p&gt;AIを使ってショート動画やYouTube動画を制作・代行する副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使うツール：&lt;/strong&gt; Runway、Pika（テキスト→動画）、ElevenLabs（AI音声）、CapCut（自動編集）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; ショート動画の需要は右肩上がりで、「動画を作りたいがリソースのない個人・企業」が増えています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1本2,000〜30,000円（クオリティと依頼主による）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt; まず自分のアカウントで10本以上投稿して実績を作り、ランサーズやSNSで営業。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3-個人向けai活用コンサル"&gt;3. 個人向けAI活用コンサル
+&lt;/h2&gt;&lt;p&gt;「AIを使いたいけど何から始めればいいかわからない」という個人や中小企業に、活用法を教えるコンサルティング副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AIの波が来ているのに「自分には関係ない」と思っている人がまだ多い。少し先に進んでいるだけで価値になります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1時間3,000〜15,000円&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;友人・知人に無料でAIの使い方を教えて感想をもらう&lt;/li&gt;
+&lt;li&gt;口コミで有料化&lt;/li&gt;
+&lt;li&gt;ストアカやタイムチケットでセミナー・相談を販売&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="4-ai翻訳のポストエディティング"&gt;4. AI×翻訳のポストエディティング
+&lt;/h2&gt;&lt;p&gt;AIで翻訳した文章を人間が編集・修正する「ポストエディティング（PE）」という仕事が注目されています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AI翻訳の精度は上がったが、専門分野や文化的ニュアンスはまだ人間が必要。翻訳者の仕事は「なくなる」のではなく「変わる」段階です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1文字3〜8円&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt; Gengoやクラウドワークスで「翻訳・ポストエディティング」案件を探す。語学力があれば有利。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="5-ai活用情報ブログsns発信"&gt;5. AI活用情報ブログ・SNS発信
+&lt;/h2&gt;&lt;p&gt;AIの使い方・副業情報を発信するブログやSNSアカウントを育て、広告収入やアフィリエイト、デジタル商品販売で稼ぐ方法です。&lt;/p&gt;
+&lt;p&gt;まさにこのブログが目指しているスタイルです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AI情報への需要はまだピーク前。今始めれば先行者として積み上げられます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 初期は月0〜数千円、半年〜1年で月3〜30万円も可能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ブログを開設（このブログのように）&lt;/li&gt;
+&lt;li&gt;週2〜3記事のペースで投稿を続ける&lt;/li&gt;
+&lt;li&gt;GoogleアドセンスとAmazonアフィリエイトで収益化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="今始めるべき理由"&gt;今始めるべき理由
+&lt;/h2&gt;&lt;p&gt;AI副業はまだ「早期参入が有利な時期」です。&lt;/p&gt;
+&lt;p&gt;1年後には競争が激化している可能性が高く、今始めることで実績・読者・スキルの「貯金」ができます。5つの中でどれか1つだけ選ぶなら、リスクゼロで始められる&lt;strong&gt;AI活用情報ブログ&lt;/strong&gt;がおすすめです。&lt;/p&gt;
+&lt;p&gt;まず今日、最初の一歩を踏み出してみましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/" &gt;AIでKindle本を作る手順を全部公開【KDP副業の始め方】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIを使った副業、初心者におすすめの3つの始め方</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/</link><pubDate>Wed, 08 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/cover.png" alt="Featured image of post AIを使った副業、初心者におすすめの3つの始め方" /&gt;&lt;p&gt;「AIで副業したいけど、何から始めればいいかわからない」&lt;/p&gt;
+&lt;p&gt;半年前の私もそうでした。今回は実際に試してみた中で、初心者でも始めやすかった方法を3つ紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前提aiツールは道具使うのは人間"&gt;前提：AIツールは道具、使うのは人間
+&lt;/h2&gt;&lt;p&gt;まず大事なことをお伝えします。&lt;/p&gt;
+&lt;p&gt;AIは文章を書いたり、画像を作ったり、アイデアを出したりするのを手伝ってくれます。でも&lt;strong&gt;最終的な判断や修正、クライアントとのやりとりは人間の仕事&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;「AIに丸投げすれば稼げる」という考え方では長続きしません。AIを道具として使いこなす意識が大切です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="方法1クラウドワークスでライティング受注"&gt;方法1：クラウドワークスでライティング受注
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;おすすめ度：★★★★★&lt;/strong&gt;
+&lt;strong&gt;始めやすさ：★★★★★&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;クラウドワークスやランサーズなどのクラウドソーシングサービスで、文章作成の仕事を受注する方法です。&lt;/p&gt;
+&lt;h3 id="流れ"&gt;流れ
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;クラウドワークスに登録（無料）&lt;/li&gt;
+&lt;li&gt;「記事作成」カテゴリで案件を探す&lt;/li&gt;
+&lt;li&gt;提案文を送って受注&lt;/li&gt;
+&lt;li&gt;AIで下書きを作り、自分で修正して納品&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="収入の目安"&gt;収入の目安
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;初月：5,000〜20,000円&lt;/li&gt;
+&lt;li&gt;3ヶ月後：20,000〜50,000円（実績が増えれば単価も上がる）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="aiの使い方"&gt;AIの使い方
+&lt;/h3&gt;&lt;p&gt;「この案件の記事を書いて」とAIに依頼するだけで下書きが完成します。あとは自分の言葉に修正して納品するだけ。作業時間が大幅に短縮されます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="方法2プロンプト販売promptbase"&gt;方法2：プロンプト販売（PromptBase）
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;おすすめ度：★★★★☆&lt;/strong&gt;
+&lt;strong&gt;始めやすさ：★★★☆☆&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIへの指示文（プロンプト）を商品として売るサービスです。一度作れば繰り返し売れる「資産型」の副業です。&lt;/p&gt;
+&lt;h3 id="流れ-1"&gt;流れ
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;PromptBaseに登録&lt;/li&gt;
+&lt;li&gt;売れそうなプロンプトを作る&lt;/li&gt;
+&lt;li&gt;英語で説明文を書いて出品&lt;/li&gt;
+&lt;li&gt;売れたら報酬が入る&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="収入の目安-1"&gt;収入の目安
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;価格：1本$1.99〜$4.99&lt;/li&gt;
+&lt;li&gt;月10本売れれば：約3,000〜7,000円&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ポイント"&gt;ポイント
+&lt;/h3&gt;&lt;p&gt;英語圏がメインのマーケットなので、説明文は英語で書く必要があります。AIに翻訳してもらえばOKです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="方法3kdpkindleで電子書籍を出版"&gt;方法3：KDP（Kindle）で電子書籍を出版
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;おすすめ度：★★★★☆&lt;/strong&gt;
+&lt;strong&gt;始めやすさ：★★★☆☆&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Amazonの電子書籍プラットフォームで本を出版する方法です。一度出版すれば半永久的に売れ続ける「完全資産型」の副業です。&lt;/p&gt;
+&lt;h3 id="流れ-2"&gt;流れ
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;KDPに登録&lt;/li&gt;
+&lt;li&gt;テーマを決めてAIと一緒に原稿を作る&lt;/li&gt;
+&lt;li&gt;表紙を作成（Canvaなどで無料で作れる）&lt;/li&gt;
+&lt;li&gt;KDPから出版申請&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="収入の目安-2"&gt;収入の目安
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;価格：99〜399円&lt;/li&gt;
+&lt;li&gt;月10冊売れれば：約500〜2,000円（ロイヤリティ35%）&lt;/li&gt;
+&lt;li&gt;複数冊出せば積み上がっていく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ポイント-1"&gt;ポイント
+&lt;/h3&gt;&lt;p&gt;1冊あたりの収益は小さいですが、本の数を増やすほど収入が積み上がります。ニッチなテーマで薄い本を量産するのが効率的です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3つの方法を比較"&gt;3つの方法を比較
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;クラウドワークス&lt;/th&gt;
+ &lt;th&gt;PromptBase&lt;/th&gt;
+ &lt;th&gt;KDP&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;即効性&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;資産性&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;難易度&lt;/td&gt;
+ &lt;td&gt;低&lt;/td&gt;
+ &lt;td&gt;中&lt;/td&gt;
+ &lt;td&gt;中&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;初期費用&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="私のおすすめはまず1つに集中"&gt;私のおすすめは「まず1つに集中」
+&lt;/h2&gt;&lt;p&gt;3つ同時に始めると中途半端になります。&lt;/p&gt;
+&lt;p&gt;私がおすすめする順番はこうです：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;まずクラウドワークス&lt;/strong&gt;（即収入になる・AIの使い方が身につく）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;慣れたらPromptBase&lt;/strong&gt;（英語力が上がる・資産が増える）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;余裕が出たらKDP&lt;/strong&gt;（長期的な収入の柱になる）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;焦らず、一歩ずつ進めていきましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;次回は、実際にAIを使って電子書籍を出版した体験談をお伝えします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/" &gt;PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/</link><pubDate>Mon, 06 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/cover.png" alt="Featured image of post AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】" /&gt;&lt;p&gt;ブログを始めたはいいけど「毎日記事を書く時間がない」という悩みはよくわかります。&lt;/p&gt;
+&lt;p&gt;私もそうでした。でもAIを使い始めてから、記事作成の時間が半分以下になりました。&lt;/p&gt;
+&lt;p&gt;今日は私のAIブログ執筆ワークフローを全部公開します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使った記事作成の全体の流れ"&gt;AIを使った記事作成の全体の流れ
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;①キーワード選定（5分）
+　　↓
+②記事構成（見出し）の作成（5分）
+　　↓
+③AIで本文の下書き生成（10〜15分）
+　　↓
+④自分でリライト・事実確認（20〜30分）
+　　↓
+⑤公開
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;合計：約40〜55分/記事&lt;/p&gt;
+&lt;p&gt;以前は1記事に2〜3時間かかっていたので、体感では半分以下になりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="キーワード選定aiに相談する"&gt;①キーワード選定：AIに相談する
+&lt;/h2&gt;&lt;p&gt;記事のテーマはAIに手伝ってもらっています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「AIツールの活用法」をテーマにしたブログを運営しています。
+初心者〜中級者が検索しそうなキーワードを15個提案してください。
+検索意図（何を知りたくて検索するか）も一緒に書いてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;こうすることで、読者のニーズに合ったテーマを効率よく見つけられます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="構成見出しの作成aiにたたき台を作ってもらう"&gt;②構成（見出し）の作成：AIにたたき台を作ってもらう
+&lt;/h2&gt;&lt;p&gt;テーマが決まったら、記事の骨格をAIに作ってもらいます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「ChatGPTプロンプトの書き方」というテーマで、
+初心者向けブログ記事の見出し構成を作ってください。
+H2：4〜5個、H3：各H2の下に2〜3個
+全体の文字数：1,500文字を想定
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;この段階でAIが出した構成を見て、自分で修正・追加します。ゼロから考えるより圧倒的に速いです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="本文の下書きセクションごとに書いてもらう"&gt;③本文の下書き：セクションごとに書いてもらう
+&lt;/h2&gt;&lt;p&gt;全部まとめて書かせるより、&lt;strong&gt;見出しごとに書いてもらう&lt;/strong&gt;方が品質が安定します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;以下の見出しのセクションを書いてください。
+見出し：「プロンプトに役割を与えると回答が変わる」
+条件：
+・読者は ChatGPT を使い始めて1ヶ月の初心者
+・300文字程度
+・具体例を1つ入れる
+・話し言葉で親しみやすく
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="リライトここが一番大事"&gt;④リライト：ここが一番大事
+&lt;/h2&gt;&lt;p&gt;AIの下書きをそのまま使うのはNGです。必ず自分でリライトしましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私がリライトで追加するもの：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自分の実体験（「実際に私も試したら〜」）&lt;/li&gt;
+&lt;li&gt;個人の意見（「個人的にはこっちの方がおすすめ」）&lt;/li&gt;
+&lt;li&gt;読者への問いかけ（「あなたはどう思いますか？」）&lt;/li&gt;
+&lt;li&gt;最新の情報・データ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この工程を丁寧にやることで、「AIが書いた感じ」がなくなり、読まれる記事になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="時短のためのテクニック"&gt;時短のためのテクニック
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;プロンプトをテンプレート化する&lt;/strong&gt;
+うまくいったプロンプトはメモしておき、次回から使い回します。毎回ゼロから書く必要がなくなります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;バッチ処理する&lt;/strong&gt;
+時間があるときに10記事分の「構成だけ」を作り置きしておきます。後は本文を書くだけなので、スキマ時間でも執筆できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使うときの注意点"&gt;AIを使うときの注意点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事実確認は必ずする&lt;/strong&gt;：AIは自信満々に間違えることがある（ハルシネーション）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最新情報は要注意&lt;/strong&gt;：学習データのカットオフ以降の情報は持っていない&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コピペはNG&lt;/strong&gt;：SEO的にも品質的にも、必ず自分の言葉に変える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;「AIが書く」ではなく「AIと一緒に書く」のが正しいスタンスです。&lt;/p&gt;
+&lt;p&gt;下書きと構成はAIに任せて、品質の仕上げは自分がやる。この分担ができれば、一人でも安定したブログ更新が続けられます。&lt;/p&gt;
+&lt;p&gt;まずは次の1記事、このワークフローで試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/" &gt;Canvaで無料！ブログのアイキャッチ画像を10分で作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/" &gt;AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIツールを使い始めて半年で変わったこと</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/first-post/</link><pubDate>Thu, 02 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/first-post/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/first-post/cover.png" alt="Featured image of post AIツールを使い始めて半年で変わったこと" /&gt;&lt;h2 id="aiを使い始めたきっかけ"&gt;AIを使い始めたきっかけ
+&lt;/h2&gt;&lt;p&gt;正直なところ、最初は半信半疑でした。&lt;/p&gt;
+&lt;p&gt;「AIって結局、使いこなせない人には意味ないんじゃないか」と思っていました。でも試しに使ってみたら、あっという間に半年が経っていました。&lt;/p&gt;
+&lt;h2 id="実際に変わったこと3つ"&gt;実際に変わったこと3つ
+&lt;/h2&gt;&lt;h3 id="1-文章を書くスピードが3倍になった"&gt;1. 文章を書くスピードが3倍になった
+&lt;/h3&gt;&lt;p&gt;ブログ記事、メール、資料の下書き。以前は1時間かかっていた作業が20分で終わるようになりました。AIに構成を考えてもらい、自分で肉付けするスタイルが定着しています。&lt;/p&gt;
+&lt;h3 id="2-副業の選択肢が広がった"&gt;2. 副業の選択肢が広がった
+&lt;/h3&gt;&lt;p&gt;AIを活用することで、以前は「自分には無理」と思っていた副業に挑戦できるようになりました。プロンプト販売、電子書籍出版、ライティング受注など、いくつかを並行して試しています。&lt;/p&gt;
+&lt;h3 id="3-調べるより聞くが当たり前になった"&gt;3. 「調べる」より「聞く」が当たり前になった
+&lt;/h3&gt;&lt;p&gt;わからないことをGoogleで検索する前に、まずAIに聞くようになりました。回答の精度が上がっているので、これが一番の時短になっています。&lt;/p&gt;
+&lt;h2 id="これから発信していくこと"&gt;これから発信していくこと
+&lt;/h2&gt;&lt;p&gt;このブログでは、40代の在宅ワーカーが実際にAIツールを使って副業に取り組む様子をリアルに発信していきます。&lt;/p&gt;
+&lt;p&gt;ツールの使い方、稼げたこと稼げなかったこと、失敗談も含めて正直に書いていくつもりです。&lt;/p&gt;
+&lt;p&gt;同じようにAIに興味はあるけど何から始めればいいかわからない方の参考になれば嬉しいです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;次回は、実際に使っているAIツールを紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-tools-i-use/" &gt;私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/" &gt;ChatGPTの始め方【登録から使い方まで5分で解説】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

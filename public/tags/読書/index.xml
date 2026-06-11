@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>読書 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E8%AA%AD%E6%9B%B8/</link><description>Recent content in 読書 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 12 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E8%AA%AD%E6%9B%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>AIで本の要約・読書メモを作る方法【インプットの質が変わった】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/</link><pubDate>Tue, 12 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/cover.png" alt="Featured image of post AIで本の要約・読書メモを作る方法【インプットの質が変わった】" /&gt;&lt;p&gt;本を読んでも、1ヶ月後にはほとんど内容を忘れている。&lt;/p&gt;
+&lt;p&gt;そんな状況を変えてくれたのがAIを使った読書メモです。今は本を読むとき、必ずAIを活用しています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使った読書メモの流れ"&gt;AIを使った読書メモの流れ
+&lt;/h2&gt;&lt;p&gt;私がやっているのはこの流れです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;①本を読む（気になる部分にメモを残す）
+　　↓
+②気になった箇所をAIに貼り付けて整理
+　　↓
+③自分の感想・行動につながる学びをAIと壁打ち
+　　↓
+④Notionにまとめて保存
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;この流れで1冊30〜45分程度で読書メモが完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使っているプロンプト"&gt;実際に使っているプロンプト
+&lt;/h2&gt;&lt;h3 id="本の内容を整理するとき"&gt;本の内容を整理するとき
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下は私が読んだ本の気になった部分です。
+内容を以下の形式でまとめてください：
+・この本が言いたいこと（1〜2行）
+・重要なポイント（3〜5個の箇条書き）
+・すぐに実践できること（3個）
+
+[気になった部分のメモ]
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="本の内容を深掘りするとき"&gt;本の内容を深掘りするとき
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;「[本のタイトル]」について学んでいます。
+特に「[気になったポイント]」という考え方が印象に残りました。
+この考え方を私の副業ブログに活かすとすると、
+どんなことができますか？
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;自分の状況に当てはめて考えてくれるので、「なるほど」から「じゃあ自分はこうしよう」が早く出てきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="どのaiが向いているか"&gt;どのAIが向いているか
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;要約・整理：Claude&lt;/strong&gt;
+長い文章の処理と整理が得意。箇条書きにまとめさせると特に精度が高いです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;内容の深掘り・発展：ChatGPT&lt;/strong&gt;
+「この考え方を別の観点から見ると？」「具体的なアクションプランを出して」という会話の流れが得意です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="notionへの保存"&gt;Notionへの保存
+&lt;/h2&gt;&lt;p&gt;整理できたら、Notionのデータベースに保存しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;保存している項目：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本のタイトル・著者&lt;/li&gt;
+&lt;li&gt;読了日&lt;/li&gt;
+&lt;li&gt;AIがまとめた3行要約&lt;/li&gt;
+&lt;li&gt;すぐに実践できること&lt;/li&gt;
+&lt;li&gt;読んだ感想（自分の言葉で）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;後から見返せる形で残しておくと、ブログのネタ帳にもなります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="本を読む前にaiに聞く"&gt;本を読む前にAIに聞く
+&lt;/h2&gt;&lt;p&gt;最近やっているのが「読む前にAIに予習させる」方法です。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「[本のタイトル]」を読む前に、この本の概要と、
+読む際に注意して読むべきポイントを教えてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これをやると、本を読むときの「引っかかり」が増えて、理解が深まります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIを使えば、読んだ内容をその場で整理・言語化できます。「読んで終わり」ではなく「読んで活かす」ためのサポーターとして、AIは読書の強い味方になります。まずは次に読む本で1回試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

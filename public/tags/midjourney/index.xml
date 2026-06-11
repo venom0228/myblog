@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Midjourney on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/midjourney/</link><description>Recent content in Midjourney on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 06 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/midjourney/index.xml" rel="self" type="application/rss+xml"/><item><title>Midjourneyの始め方【2026年版・登録から画像生成までの手順】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/midjourney-beginner-guide/</link><pubDate>Wed, 06 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/midjourney-beginner-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/midjourney-beginner-guide/cover.png" alt="Featured image of post Midjourneyの始め方【2026年版・登録から画像生成までの手順】" /&gt;&lt;p&gt;「AIで本格的なイラストや写真を作りたい」&lt;/p&gt;
+&lt;p&gt;そんな方に試してほしいのが**Midjourney（ミッドジャーニー）**です。AI画像生成の中でも圧倒的なクオリティを誇るツールで、プロのデザイナーやクリエイターも使っています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="midjourneyとは"&gt;Midjourneyとは
+&lt;/h2&gt;&lt;p&gt;MidjourneyはアメリカのMidjourney, Inc.が開発したAI画像生成サービスです。テキストを入力するだけで高品質な画像を生成できます。Webアプリから使えるので、以前必須だったDiscordの操作は不要になりました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;料金：&lt;/strong&gt; 月額10ドル〜（無料トライアルは終了しています）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="始め方"&gt;始め方
+&lt;/h2&gt;&lt;h3 id="step1アカウント作成"&gt;STEP1：アカウント作成
+&lt;/h3&gt;&lt;p&gt;&lt;a class="link" href="https://www.midjourney.com" target="_blank" rel="noopener"
+ &gt;midjourney.com&lt;/a&gt; にアクセスして、Googleアカウントまたはメールで登録します。&lt;/p&gt;
+&lt;h3 id="step2プランを選ぶ"&gt;STEP2：プランを選ぶ
+&lt;/h3&gt;&lt;p&gt;最安プランは月額10ドル（Basic Plan）。月200枚まで生成できます。お試しならこれで十分です。&lt;/p&gt;
+&lt;h3 id="step3プロンプトを入力して生成"&gt;STEP3：プロンプトを入力して生成
+&lt;/h3&gt;&lt;p&gt;テキストボックスにプロンプト（英語）を入力して送信するだけ。4枚の画像が生成されます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="基本のプロンプトの書き方"&gt;基本のプロンプトの書き方
+&lt;/h2&gt;&lt;p&gt;Midjourneyのプロンプトは&lt;strong&gt;英語&lt;/strong&gt;で書きます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;シンプルな例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;a cat sitting on a wooden table, soft natural lighting, photorealistic
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;要素を足していくと精度が上がります：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;スタイル：&lt;/strong&gt; &lt;code&gt;oil painting&lt;/code&gt;, &lt;code&gt;watercolor&lt;/code&gt;, &lt;code&gt;photorealistic&lt;/code&gt;, &lt;code&gt;anime style&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ライティング：&lt;/strong&gt; &lt;code&gt;soft lighting&lt;/code&gt;, &lt;code&gt;golden hour&lt;/code&gt;, &lt;code&gt;studio lighting&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;構図：&lt;/strong&gt; &lt;code&gt;close-up&lt;/code&gt;, &lt;code&gt;wide angle&lt;/code&gt;, &lt;code&gt;bird's eye view&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="geminiの画像生成との違い"&gt;Geminiの画像生成との違い
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;Midjourney&lt;/th&gt;
+ &lt;th&gt;Gemini画像生成&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;画質・クオリティ&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;料金&lt;/td&gt;
+ &lt;td&gt;有料&lt;/td&gt;
+ &lt;td&gt;無料あり&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;日本語プロンプト&lt;/td&gt;
+ &lt;td&gt;△（英語推奨）&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;商用利用&lt;/td&gt;
+ &lt;td&gt;○（有料プラン）&lt;/td&gt;
+ &lt;td&gt;要確認&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;操作のしやすさ&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="どんな用途に向いているか"&gt;どんな用途に向いているか
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ブログのアイキャッチ画像&lt;/strong&gt;
+テーマに合ったオリジナル画像をテキストだけで作れます。フリー素材との差別化ができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SNS投稿用のビジュアル&lt;/strong&gt;
+インパクトのある画像で、InstagramやXの投稿に活用できます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KDP出版の表紙や挿絵&lt;/strong&gt;
+写真集や絵本の素材として使う人も多いです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使ってみた感想"&gt;実際に使ってみた感想
+&lt;/h2&gt;&lt;p&gt;プロンプトひとつで、プロが撮影したような写真や手描き風のイラストが生成される体験は正直感動しました。ただ、&lt;strong&gt;人物の手や指の描写が不自然になりやすい&lt;/strong&gt;のはMidjourneyの弱点です。人物を含む画像は何パターンか生成して、いちばん自然なものを選ぶのがコツです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;Midjourneyは、本格的なビジュアルを作りたい人向けのAI画像生成ツールです。月10ドルで200枚のクオリティの高い画像が作れるので、コスパは悪くありません。まずは公式サイトのギャラリーで確認してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/" &gt;Geminiの画像生成が無料で使える！使い方と活用例を解説&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/" &gt;Canvaで無料！ブログのアイキャッチ画像を10分で作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/" &gt;PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

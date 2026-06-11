@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>比較 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E6%AF%94%E8%BC%83/</link><description>Recent content in 比較 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 03 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E6%AF%94%E8%BC%83/index.xml" rel="self" type="application/rss+xml"/><item><title>GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</link><pubDate>Sun, 03 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/cover.png" alt="Featured image of post GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想" /&gt;&lt;p&gt;「ChatGPTとClaude以外にも、使えるAIがあるらしい」&lt;/p&gt;
+&lt;p&gt;そう聞いて試してみたのが**Grok（グロック）**です。X（旧Twitter）で使えるAIで、開発しているのはイーロン・マスク率いるxAI。今回はGrokの特徴と、ChatGPTとの比較をまとめます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="grokとは"&gt;Grokとは
+&lt;/h2&gt;&lt;p&gt;GrokはxAI（エックスエーアイ）が開発した生成AIです。2023年末にリリースされ、X（旧Twitter）のユーザー向けに提供されています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;アクセス方法：&lt;/strong&gt; &lt;a class="link" href="https://grok.com" target="_blank" rel="noopener"
+ &gt;grok.com&lt;/a&gt; またはXのサイドバーから（Xのアカウントが必要）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;料金：&lt;/strong&gt; 無料版あり。より高性能なモデルはX Premiumまたは有料プランで利用可能。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="grokの特徴"&gt;Grokの特徴
+&lt;/h2&gt;&lt;h3 id="リアルタイムのxtwitter情報にアクセスできる"&gt;リアルタイムのX（Twitter）情報にアクセスできる
+&lt;/h3&gt;&lt;p&gt;GrokはXのポストをリアルタイムで参照できるため、&lt;strong&gt;今起きているニュースや話題をAIに聞ける&lt;/strong&gt;のが他のAIとの大きな違いです。&lt;/p&gt;
+&lt;p&gt;「今日のトレンドは？」「この件についてXでどんな意見が出ている？」という質問に答えてくれます。&lt;/p&gt;
+&lt;h3 id="ウェブ検索ができる"&gt;ウェブ検索ができる
+&lt;/h3&gt;&lt;p&gt;Grokは標準でウェブ検索機能を持っています。最新情報を踏まえた回答ができるので、学習データが古いAIより最新情報に強い印象があります。&lt;/p&gt;
+&lt;h3 id="少し毒舌なキャラクター"&gt;少し「毒舌」なキャラクター
+&lt;/h3&gt;&lt;p&gt;Grokは意図的にユーモアと皮肉を混ぜた回答をするよう設計されています。砕けたトーンが好きな方には新鮮かもしれません。&lt;/p&gt;
+&lt;h3 id="画像生成機能がある"&gt;画像生成機能がある
+&lt;/h3&gt;&lt;p&gt;Aurora（オーロラ）という画像生成モデルを搭載しており、テキストから画像を生成できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptとの比較"&gt;ChatGPTとの比較
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;Grok&lt;/th&gt;
+ &lt;th&gt;ChatGPT&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;最新情報&lt;/td&gt;
+ &lt;td&gt;◎（X・Web連携）&lt;/td&gt;
+ &lt;td&gt;○（有料版）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;日本語の自然さ&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;画像生成&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;○（DALL-E）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;無料で使える範囲&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;X連携&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;×&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ビジネス利用&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="grokが向いている用途"&gt;Grokが向いている用途
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 最新ニュースのリサーチ&lt;/strong&gt;
+X上のリアルタイム情報を参照できるので、速報性が必要な調査に向いています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. トレンドチェック&lt;/strong&gt;
+「今日Xで話題になっていることは？」という質問が得意です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 気軽な雑談・アイデア出し&lt;/strong&gt;
+堅苦しくないキャラクターなので、アイデアを気軽にぶつけやすい雰囲気があります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使ってみた感想"&gt;実際に使ってみた感想
+&lt;/h2&gt;&lt;p&gt;試してみて一番驚いたのは、「昨日のXのトレンドについて教えて」という質問に答えてくれた点です。ChatGPTにはできないことで、Grokならではの強みだと感じました。&lt;/p&gt;
+&lt;p&gt;ただ、日本語の文章を書かせる用途ではClaudeのほうが自然な印象があります。Grokはリサーチ補助として使い、本文はClaudeで仕上げるのが今の私のスタイルです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;GrokはX連携という独自の強みを持つAIです。リアルタイム情報が必要な場面や、Xのトレンドを調べたいときには他のAIより便利。ChatGPT・Claude・Geminiと使い分けて、それぞれの強みを活かすのがスマートな使い方です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/perplexity-ai-guide/" &gt;Perplexity AIを使ったら調べ物の速さが変わった【ChatGPTとの違いも解説】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</link><pubDate>Tue, 21 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/cover.png" alt="Featured image of post Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想" /&gt;&lt;p&gt;「CopilotってChatGPTと同じじゃないの？」&lt;/p&gt;
+&lt;p&gt;実は中身はほぼ同じです。でも使い勝手には違いがあります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="microsoft-copilotとは"&gt;Microsoft Copilotとは？
+&lt;/h2&gt;&lt;p&gt;MicrosoftがOpenAIと提携して作ったAIアシスタントです。WindowsやEdgeブラウザに標準搭載されています。&lt;/p&gt;
+&lt;p&gt;ベースはGPT-4と同じ技術なので、会話の質はChatGPTとほぼ同等です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptとの違い"&gt;ChatGPTとの違い
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;Copilot&lt;/th&gt;
+ &lt;th&gt;ChatGPT&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;料金&lt;/td&gt;
+ &lt;td&gt;基本無料&lt;/td&gt;
+ &lt;td&gt;無料（制限あり）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;最新情報&lt;/td&gt;
+ &lt;td&gt;Web検索できる&lt;/td&gt;
+ &lt;td&gt;有料版のみ&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;画像生成&lt;/td&gt;
+ &lt;td&gt;無料でできる&lt;/td&gt;
+ &lt;td&gt;有料版のみ&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;日本語対応&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Windowsとの連携&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="copilotが特に便利な場面"&gt;Copilotが特に便利な場面
+&lt;/h2&gt;&lt;h3 id="無料で画像生成できる"&gt;無料で画像生成できる
+&lt;/h3&gt;&lt;p&gt;Copilotでは「DALL-E 3」という高品質な画像生成AIが無料で使えます。ChatGPTでは有料プランが必要な機能です。&lt;/p&gt;
+&lt;h3 id="最新情報を検索してくれる"&gt;最新情報を検索してくれる
+&lt;/h3&gt;&lt;p&gt;「今日のニュース」「最新の〇〇について」といった質問にも答えられます。無料でWeb検索機能が使えるのはCopilotの強みです。&lt;/p&gt;
+&lt;h3 id="windowsに統合されている"&gt;Windowsに統合されている
+&lt;/h3&gt;&lt;p&gt;Windows 11ではタスクバーからすぐ呼び出せます。別タブを開く手間がありません。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="正直な感想"&gt;正直な感想
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ChatGPTの代わりになるか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;→ 軽い用途なら十分なれます。&lt;/p&gt;
+&lt;p&gt;ただし、長い文章を一緒に作り込むような作業ではChatGPTやClaudeのほうが使いやすいと感じました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;おすすめの使い方&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;無料で画像生成したい → Copilot&lt;/li&gt;
+&lt;li&gt;長い文章を書きたい → Claude&lt;/li&gt;
+&lt;li&gt;情報リサーチ → どちらでも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;無料で使えて機能は十分&lt;/li&gt;
+&lt;li&gt;画像生成・Web検索が無料でできるのが強み&lt;/li&gt;
+&lt;li&gt;本格的な文章作成はChatGPT・Claudeが上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;まずはCopilotを試してみて、物足りなくなったらChatGPT有料版を検討するのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/" &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/</link><pubDate>Sun, 19 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/cover.png" alt="Featured image of post ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】" /&gt;&lt;p&gt;「ChatGPTとClaudeってどっちがいいの？」&lt;/p&gt;
+&lt;p&gt;これ、AIツールを使い始めた人が必ず一度は悩む質問だと思います。私も最初はどちらを使えばいいか迷いました。&lt;/p&gt;
+&lt;p&gt;半年以上両方を使い続けた今、正直な感想をまとめてみます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="結論から言います"&gt;結論から言います
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;文章を書くならClaude、情報収集・調査ならChatGPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これが私の答えです。詳しく説明します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptの特徴"&gt;ChatGPTの特徴
+&lt;/h2&gt;&lt;h3 id="良いところ"&gt;良いところ
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;情報の幅が広い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「このジャンルの市場規模は？」「競合サービスを10個挙げて」といったリサーチ系の質問が得意です。ブラウジング機能で最新情報も調べてくれます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;画像生成もできる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DALL-Eという画像生成AIが内蔵されているので、ブログのアイキャッチ画像やアイデアのラフ案を作るのにも使えます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プラグインやGPTsが豊富&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;用途に特化したカスタムAI（GPTs）を使えるので、特定の作業に集中したいときに便利です。&lt;/p&gt;
+&lt;h3 id="気になるところ"&gt;気になるところ
+&lt;/h3&gt;&lt;p&gt;長い文章を一緒に作り込んでいくような作業では、会話が長くなると少し精度が落ちる感覚があります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="claudeの特徴"&gt;Claudeの特徴
+&lt;/h2&gt;&lt;h3 id="良いところ-1"&gt;良いところ
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;長い文章の品質が高い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ブログ記事、メール、企画書など、長めの文章を書く作業はClaudeが一番得意だと感じています。文体が自然で、読みやすい文章を出してくれます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;会話の流れを覚えていてくれる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;長い会話でも文脈をしっかり理解してくれます。「さっき言ったあの部分を修正して」が通じるのが地味に便利です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;指示に忠実&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「箇条書きで5つ」「500文字以内で」といった細かい指定をきちんと守ってくれます。&lt;/p&gt;
+&lt;h3 id="気になるところ-1"&gt;気になるところ
+&lt;/h3&gt;&lt;p&gt;インターネット検索ができないので、最新情報の調査には向きません。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際の使い分け"&gt;実際の使い分け
+&lt;/h2&gt;&lt;p&gt;私の場合はこんな感じで使い分けています。&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;作業&lt;/th&gt;
+ &lt;th&gt;使うツール&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ブログ記事の下書き&lt;/td&gt;
+ &lt;td&gt;Claude&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;キーワード調査・リサーチ&lt;/td&gt;
+ &lt;td&gt;ChatGPT&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;アイキャッチ画像の作成&lt;/td&gt;
+ &lt;td&gt;ChatGPT（DALL-E）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;メール・文章の修正&lt;/td&gt;
+ &lt;td&gt;Claude&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;アイデア出し&lt;/td&gt;
+ &lt;td&gt;どちらでも&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="料金比較"&gt;料金比較
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;無料プラン&lt;/th&gt;
+ &lt;th&gt;有料プラン&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ChatGPT&lt;/td&gt;
+ &lt;td&gt;あり&lt;/td&gt;
+ &lt;td&gt;月額約$20&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Claude&lt;/td&gt;
+ &lt;td&gt;あり&lt;/td&gt;
+ &lt;td&gt;月額約$20&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;どちらも無料プランから始められます。両方試してみて、自分に合う方を有料にするのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt; → 調査・情報収集・画像生成&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt; → 文章作成・長文の編集・対話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;どちらが優れているというより、得意分野が違います。両方使いこなせると作業の幅がぐっと広がりますよ。&lt;/p&gt;
+&lt;p&gt;まずは両方の無料プランを試してみてください。登録はどちらも5分あればできます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;次回は、AIを使って電子書籍を出版してみた体験談をお伝えします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/" &gt;Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/</link><pubDate>Wed, 15 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/cover.png" alt="Featured image of post ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較" /&gt;&lt;p&gt;「ChatGPT、Claude、Gemini…結局どれを使えばいいの？」&lt;/p&gt;
+&lt;p&gt;3つとも無料で使えるのに、全部試す時間はない。そんな悩みを持つ方に向けて、実際に全部使った上で比較しました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3つの基本情報"&gt;3つの基本情報
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;ChatGPT&lt;/th&gt;
+ &lt;th&gt;Claude&lt;/th&gt;
+ &lt;th&gt;Gemini&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;開発元&lt;/td&gt;
+ &lt;td&gt;OpenAI&lt;/td&gt;
+ &lt;td&gt;Anthropic&lt;/td&gt;
+ &lt;td&gt;Google&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;無料版&lt;/td&gt;
+ &lt;td&gt;GPT-4o&lt;/td&gt;
+ &lt;td&gt;Claude 3.5 Sonnet&lt;/td&gt;
+ &lt;td&gt;Gemini 1.5&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;有料版&lt;/td&gt;
+ &lt;td&gt;$20/月&lt;/td&gt;
+ &lt;td&gt;$20/月&lt;/td&gt;
+ &lt;td&gt;$19.99/月&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;強み&lt;/td&gt;
+ &lt;td&gt;汎用性・プラグイン&lt;/td&gt;
+ &lt;td&gt;長文・日本語&lt;/td&gt;
+ &lt;td&gt;最新情報・Google連携&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="文章作成はどれが一番"&gt;文章作成はどれが一番？
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;私の結論：Claudeがいちばん自然な日本語を書く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3つ全部で同じ指示を出してみると、Claudeの日本語がいちばん「読みやすい」と感じます。ライティングの仕事や長文作成にはClaudeを選んでいます。&lt;/p&gt;
+&lt;p&gt;ChatGPTは速くて汎用性が高い。Geminiは文章よりも検索・情報収集向けです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ライティング：Claude &amp;gt; ChatGPT &amp;gt; Gemini&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="最新情報の調査はどれ"&gt;最新情報の調査はどれ？
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ダントツでGemini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Googleの検索エンジンと連携しているので、今日のニュースや最新データを踏まえた回答が返ってきます。&lt;/p&gt;
+&lt;p&gt;「今話題のAIツールを教えて」と聞くと、ChatGPTとClaudeは学習済みデータで答えるのに対し、Geminiはリアルタイムに近い情報を返してくれます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最新情報：Gemini &amp;gt; ChatGPT（有料版）&amp;gt; Claude&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コード作成プログラミング補助は"&gt;コード作成・プログラミング補助は？
+&lt;/h2&gt;&lt;p&gt;3つとも得意ですが、用途で使い分けています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：PythonやJavaScriptの一般的なコードに強い&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt;：エラーの説明が丁寧で、修正提案が的確&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gemini&lt;/strong&gt;：Google Apps ScriptやGoogleサービス連携に強い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;コード：ChatGPT ≒ Claude &amp;gt; Gemini&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="副業ブログに使うならどれ"&gt;副業・ブログに使うならどれ？
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;私は3つ全部使い分けています&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;記事の下書き作成&lt;/strong&gt; → Claude（日本語が自然）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;タイトル案・アイデア出し&lt;/strong&gt; → ChatGPT（バリエーション豊富）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドリサーチ&lt;/strong&gt; → Gemini（最新情報に強い）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;どれかひとつに絞る必要はありません。用途に合わせて使い分けるのがベストです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ迷ったらこの3択"&gt;まとめ：迷ったらこの3択
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;まず1つ使うなら&lt;/strong&gt; → ChatGPT（いちばん使いやすい）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章を書く仕事に使うなら&lt;/strong&gt; → Claude&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;情報収集・リサーチに使うなら&lt;/strong&gt; → Gemini&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;全部無料で試せるので、まずは3つとも触ってみて、自分に合ったものを見つけるのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/" &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/" &gt;Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/</link><pubDate>Thu, 09 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/cover.png" alt="Featured image of post Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと" /&gt;&lt;p&gt;「ChatGPTは知ってるけど、Claudeって何？」&lt;/p&gt;
+&lt;p&gt;そんな方のために、Claudeの特徴と使い方をまとめました。ChatGPTと比べながら、どんな用途に向いているかも解説します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="claudeとは"&gt;Claudeとは
+&lt;/h2&gt;&lt;p&gt;ClaudeはAnthropic（アンソロピック）というアメリカのAI企業が開発した生成AIです。2023年ごろから急速に注目が集まり、ChatGPTと並ぶ人気AIになっています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;アクセス方法：&lt;/strong&gt; &lt;a class="link" href="https://claude.ai" target="_blank" rel="noopener"
+ &gt;claude.ai&lt;/a&gt; にアクセス（Googleアカウントで登録可能）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;無料版：&lt;/strong&gt; Claude 3.5 Sonnetが使える&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="claudeの特徴"&gt;Claudeの特徴
+&lt;/h2&gt;&lt;h3 id="日本語がとても自然"&gt;日本語がとても自然
+&lt;/h3&gt;&lt;p&gt;これが私がClaudeを一番気に入っている理由です。ChatGPTと同じ指示を出しても、Claudeの日本語の方が「読みやすい」「自分の言葉に近い」と感じることが多い。&lt;/p&gt;
+&lt;p&gt;ブログ記事や文章を書く用途には、Claudeが最もおすすめです。&lt;/p&gt;
+&lt;h3 id="長い文章の処理が得意"&gt;長い文章の処理が得意
+&lt;/h3&gt;&lt;p&gt;Claudeは長いテキストを貼り付けての要約や、長文の作成が得意です。「このPDFの内容を要約して」「5,000文字の記事を書いて」といった指示への対応力がChatGPTより高い印象があります。&lt;/p&gt;
+&lt;h3 id="安全性への意識が高い"&gt;安全性への意識が高い
+&lt;/h3&gt;&lt;p&gt;Anthropicは「安全なAI開発」を企業理念に掲げています。有害なコンテンツの生成を断る場面が多く、クリーンなアウトプットが多い印象です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptとの違いを比較"&gt;ChatGPTとの違いを比較
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;Claude&lt;/th&gt;
+ &lt;th&gt;ChatGPT&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;日本語の自然さ&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;長文対応&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;最新情報&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;td&gt;○（有料版）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;画像生成&lt;/td&gt;
+ &lt;td&gt;×&lt;/td&gt;
+ &lt;td&gt;○（DALL-E連携）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;プラグイン・ツール&lt;/td&gt;
+ &lt;td&gt;△&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;使いやすさ&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="claudeが特に向いている用途"&gt;Claudeが特に向いている用途
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. ブログ記事・文章作成&lt;/strong&gt;&lt;br&gt;
+自然な日本語を書かせるなら、3大AIの中でClaudeが一番です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 長文の要約・要点抽出&lt;/strong&gt;&lt;br&gt;
+長い資料を渡して「3行でまとめて」「重要なポイントだけ抜き出して」が得意です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 丁寧な説明・教育用途&lt;/strong&gt;&lt;br&gt;
+「小学生でもわかるように説明して」「ステップごとに教えて」という指示への対応が丁寧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. メール・文書のリライト&lt;/strong&gt;&lt;br&gt;
+「もっと丁寧な表現に直して」「ビジネス向けに書き直して」という修正依頼の精度が高い。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使った感想"&gt;実際に使った感想
+&lt;/h2&gt;&lt;p&gt;私が副業ブログを始めたとき、最初はChatGPTだけ使っていました。でもClaudeを試したら、記事の文章クオリティが明らかに上がったんです。&lt;/p&gt;
+&lt;p&gt;特に「読みやすさ」「自然さ」という点でClaude に軍配が上がりました。今は「ブログ記事を書くときはClaude、アイデア出しはChatGPT」という使い分けをしています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;Claudeは「文章を書く」「長いテキストを処理する」用途に特化した優秀なAIです。&lt;/p&gt;
+&lt;p&gt;ChatGPTと優劣をつけるより、用途に合わせて使い分けるのが正解。まずは無料で試してみて、自分の作業との相性を確かめてみてください。&lt;/p&gt;
+&lt;p&gt;Claudeを使い始めてから、ブログ執筆の時間が半分になりました。ぜひ試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/" &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/" &gt;ChatGPTの始め方【登録から使い方まで5分で解説】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

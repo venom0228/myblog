@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>仕事効率化 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96/</link><description>Recent content in 仕事効率化 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 22 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>AIでビジネスメールを10秒で書く方法【テンプレート付き】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</link><pubDate>Fri, 22 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/cover.png" alt="Featured image of post AIでビジネスメールを10秒で書く方法【テンプレート付き】" /&gt;&lt;p&gt;ビジネスメールに悩む時間、もったいないと思いませんか？ChatGPTを使えば、メール作成時間が10分から10秒になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiでメールを書くメリット"&gt;AIでメールを書くメリット
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;時間の節約&lt;/strong&gt;：考える時間がほぼゼロに&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章品質の向上&lt;/strong&gt;：丁寧・簡潔な表現が自動で出てくる&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;メンタル負荷の軽減&lt;/strong&gt;：「なんて書こう…」のストレスがなくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="基本のプロンプト構成"&gt;基本のプロンプト構成
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下の内容でビジネスメールを書いてください。
+
+【宛先】〇〇会社 〇〇様
+【目的】〜の件でお礼を伝えたい
+【背景】先日のミーティングでお時間をいただいた
+【トーン】丁寧・簡潔
+【文字数】200字程度
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これだけで、すぐに使えるメール文章が出てきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="シーン別テンプレート"&gt;シーン別テンプレート
+&lt;/h2&gt;&lt;h3 id="-お礼メール"&gt;① お礼メール
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;先日〇〇の件でお時間をいただいたお礼のメールを書いてください。
+相手は取引先の担当者。丁寧な敬語で200字以内にまとめてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-依頼メール"&gt;② 依頼メール
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇の資料を〇〇日までに送っていただけるようお願いするメールを書いてください。
+相手は社内の上司。柔らかいトーンで。
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-断りメール"&gt;③ 断りメール
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇のお誘いをお断りするメールを書いてください。
+相手との関係を壊さないよう、丁寧に理由を添えて断ってください。
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-クレーム謝罪メール"&gt;④ クレーム・謝罪メール
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇でご迷惑をおかけしたことへの謝罪メールを書いてください。
+原因と今後の対応も含めて、誠実なトーンで300字程度にまとめてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="英語メールにも使える"&gt;英語メールにも使える
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;Write a professional email in English to decline a meeting invitation politely.
+Keep it under 100 words.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;英語が苦手でも、ChatGPTが自然な英語メールを書いてくれます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="使う時の注意点"&gt;使う時の注意点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;個人情報・機密情報は入力しない&lt;/strong&gt;（会社名・顧客名は「〇〇様」に置き換える）&lt;/li&gt;
+&lt;li&gt;そのまま送らず、&lt;strong&gt;一度自分の目で確認&lt;/strong&gt;する&lt;/li&gt;
+&lt;li&gt;状況に合わせて表現を微調整する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIでメールを書くのは「ズル」ではなく「効率化」です。空いた時間を副業や自己投資に使いましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;AIを使った仕事効率化テクニック10選【在宅ワーカー向け】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/" &gt;プロンプトの保存・管理方法【再利用して作業効率アップ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/" &gt;AIで履歴書・職務経歴書を書く方法【転職活動を効率化】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</link><pubDate>Thu, 14 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/cover.png" alt="Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】" /&gt;&lt;p&gt;「SNSを毎日更新したいけど、ネタと時間がない」&lt;/p&gt;
+&lt;p&gt;ブログと並行してSNSも運営しようとすると、投稿作成に時間がかかりすぎる問題が出てきます。AIを使い始めてからこの問題が大幅に解消されました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiでsns投稿を作る流れ"&gt;AIでSNS投稿を作る流れ
+&lt;/h2&gt;&lt;p&gt;私が使っているシンプルな流れです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;①テーマ・ネタを決める（5分）
+　　↓
+②AIに下書きを生成させる（2〜3分）
+　　↓
+③自分でトーンを調整して投稿（5分）
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1投稿あたり10〜15分で仕上がります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="x旧twitter向けのプロンプト"&gt;X（旧Twitter）向けのプロンプト
+&lt;/h2&gt;&lt;h3 id="情報発信ツイートを作る"&gt;情報発信ツイートを作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のテーマについて、Xに投稿するツイートを3パターン作ってください。
+・テーマ：[テーマ]
+・対象：[ターゲット読者]
+・文字数：140字以内
+・口調：親しみやすく、断定的すぎない
+・最後に読者への問いかけを入れる
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="ブログ記事の告知ツイートを作る"&gt;ブログ記事の告知ツイートを作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のブログ記事を紹介するツイートを2パターン作成してください。
+・記事タイトル：[タイトル]
+・記事の概要：[2〜3行で内容を説明]
+・文字数：140字以内（URLを除く）
+・リンクを踏みたくなる一言を入れる
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="instagram向けのプロンプト"&gt;Instagram向けのプロンプト
+&lt;/h2&gt;&lt;h3 id="キャプション本文を作る"&gt;キャプション（本文）を作る
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;Instagramのキャプションを作成してください。
+・テーマ：[テーマ]
+・投稿する画像のイメージ：[どんな画像か]
+・文字数：200〜400字
+・改行を多用して読みやすく
+・最後にハッシュタグを10個
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="1週間分をまとめて作る"&gt;1週間分をまとめて作る
+&lt;/h2&gt;&lt;p&gt;毎日考えるより、週に1回まとめて作る「バッチ処理」がおすすめです。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;私のブログのSNS投稿を、今週1週間分（7日分）提案してください。
+ブログテーマ：AIツール活用・副業
+各投稿：X向け（140字以内）
+月〜日で投稿テーマが重ならないように工夫してください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一度に7日分の素材が揃うので、後は微調整して予約投稿するだけです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="投稿のトーンを自分らしくする"&gt;投稿のトーンを自分らしくする
+&lt;/h2&gt;&lt;p&gt;AIが作った下書きは少し硬い場合があります。以下の調整を加えると「自分らしさ」が出やすくなります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;語尾を「〜です」から「〜だよ」「〜でした」などに変える&lt;/li&gt;
+&lt;li&gt;自分の実体験を1文追加する&lt;/li&gt;
+&lt;li&gt;絵文字を適宜追加する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完全な原文よりも「たたき台を自分でアレンジする」のがポイントです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="使うaiのおすすめ"&gt;使うAIのおすすめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：バリエーションを複数出してくれるのが得意&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt;：文章が自然で、読みやすいトーンになりやすい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Claudeで下書きを作ってChatGPTでバリエーションを増やすのが好きな流れです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIを使えば、SNS投稿の下書きを10分以下で作れます。「毎日投稿しなければ」というプレッシャーも減って、SNS運営が楽になりました。まず次回の投稿1本だけ、AIに下書きを作ってもらってみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIで本の要約・読書メモを作る方法【インプットの質が変わった】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/</link><pubDate>Tue, 12 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/cover.png" alt="Featured image of post AIで本の要約・読書メモを作る方法【インプットの質が変わった】" /&gt;&lt;p&gt;本を読んでも、1ヶ月後にはほとんど内容を忘れている。&lt;/p&gt;
+&lt;p&gt;そんな状況を変えてくれたのがAIを使った読書メモです。今は本を読むとき、必ずAIを活用しています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使った読書メモの流れ"&gt;AIを使った読書メモの流れ
+&lt;/h2&gt;&lt;p&gt;私がやっているのはこの流れです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;①本を読む（気になる部分にメモを残す）
+　　↓
+②気になった箇所をAIに貼り付けて整理
+　　↓
+③自分の感想・行動につながる学びをAIと壁打ち
+　　↓
+④Notionにまとめて保存
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;この流れで1冊30〜45分程度で読書メモが完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使っているプロンプト"&gt;実際に使っているプロンプト
+&lt;/h2&gt;&lt;h3 id="本の内容を整理するとき"&gt;本の内容を整理するとき
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下は私が読んだ本の気になった部分です。
+内容を以下の形式でまとめてください：
+・この本が言いたいこと（1〜2行）
+・重要なポイント（3〜5個の箇条書き）
+・すぐに実践できること（3個）
+
+[気になった部分のメモ]
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="本の内容を深掘りするとき"&gt;本の内容を深掘りするとき
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;「[本のタイトル]」について学んでいます。
+特に「[気になったポイント]」という考え方が印象に残りました。
+この考え方を私の副業ブログに活かすとすると、
+どんなことができますか？
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;自分の状況に当てはめて考えてくれるので、「なるほど」から「じゃあ自分はこうしよう」が早く出てきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="どのaiが向いているか"&gt;どのAIが向いているか
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;要約・整理：Claude&lt;/strong&gt;
+長い文章の処理と整理が得意。箇条書きにまとめさせると特に精度が高いです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;内容の深掘り・発展：ChatGPT&lt;/strong&gt;
+「この考え方を別の観点から見ると？」「具体的なアクションプランを出して」という会話の流れが得意です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="notionへの保存"&gt;Notionへの保存
+&lt;/h2&gt;&lt;p&gt;整理できたら、Notionのデータベースに保存しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;保存している項目：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本のタイトル・著者&lt;/li&gt;
+&lt;li&gt;読了日&lt;/li&gt;
+&lt;li&gt;AIがまとめた3行要約&lt;/li&gt;
+&lt;li&gt;すぐに実践できること&lt;/li&gt;
+&lt;li&gt;読んだ感想（自分の言葉で）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;後から見返せる形で残しておくと、ブログのネタ帳にもなります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="本を読む前にaiに聞く"&gt;本を読む前にAIに聞く
+&lt;/h2&gt;&lt;p&gt;最近やっているのが「読む前にAIに予習させる」方法です。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「[本のタイトル]」を読む前に、この本の概要と、
+読む際に注意して読むべきポイントを教えてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これをやると、本を読むときの「引っかかり」が増えて、理解が深まります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIを使えば、読んだ内容をその場で整理・言語化できます。「読んで終わり」ではなく「読んで活かす」ためのサポーターとして、AIは読書の強い味方になります。まずは次に読む本で1回試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>履歴書・職務経歴書をAIで書く方法【ChatGPTとClaudeを使い比べた】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/</link><pubDate>Sun, 10 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/cover.png" alt="Featured image of post 履歴書・職務経歴書をAIで書く方法【ChatGPTとClaudeを使い比べた】" /&gt;&lt;p&gt;「職務経歴書、何を書けばいいかわからない」&lt;/p&gt;
+&lt;p&gt;転職活動で誰もが感じるこの壁。AIに手伝ってもらったら、思った以上に早く仕上がりました。今回はChatGPTとClaudeを使った履歴書・職務経歴書の書き方を紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使うと何が変わるか"&gt;AIを使うと何が変わるか
+&lt;/h2&gt;&lt;p&gt;職務経歴書でAIを活用するメリットは主に3つです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;「どう書けばいいか」を一緒に考えてくれる&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自分の経験を整理するヒントをくれる&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;表現をブラッシュアップしてくれる&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意点として、AIは事実を作り出すことはできません。あくまで「自分の経験をうまく言語化する手伝い」として使うのが正しい使い方です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使ったプロンプト"&gt;実際に使ったプロンプト
+&lt;/h2&gt;&lt;h3 id="step1まず自分の経験を洗い出す"&gt;STEP1：まず自分の経験を洗い出す
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;私はこれまで[業種]の仕事を[年数]年やってきました。
+主な担当業務は[箇条書きでラフに書く]。
+この経験から職務経歴書に書けそうな内容を整理して、
+箇条書きにしてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;最初は箇条書きのラフなメモでOK。AIが整理を手伝ってくれます。&lt;/p&gt;
+&lt;h3 id="step2実績を数字で表現する"&gt;STEP2：実績を数字で表現する
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下の業務実績を、数字や具体的な成果を使ってより
+説得力のある表現に書き直してください。
+[実績の箇条書き]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;「営業成績が上がった」→「担当顧客への提案件数を月20件から35件に増やし、成約率を15%改善」のように具体化してくれます。&lt;/p&gt;
+&lt;h3 id="step3全体をまとめて整える"&gt;STEP3：全体をまとめて整える
+&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下の内容をベースに、転職市場で好まれる職務経歴書の
+フォーマットで整えてください。文体は丁寧で、簡潔にまとめてください。
+[ラフな内容]
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="chatgptとclaudeを使い比べた結果"&gt;ChatGPTとClaudeを使い比べた結果
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;Claude&lt;/th&gt;
+ &lt;th&gt;ChatGPT&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;文章の自然さ&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;アドバイスの丁寧さ&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;具体的な数字の提案&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;書式の整え方&lt;/td&gt;
+ &lt;td&gt;○&lt;/td&gt;
+ &lt;td&gt;◎&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;最初はClaudeで文章の骨格を作り、細かい表現の調整はChatGPTに依頼という使い方が個人的にはおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="注意点"&gt;注意点
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;事実と違う内容を生成させない&lt;/strong&gt;
+AIは情報を補完しようとして、事実でない内容を書くことがあります。必ず自分で内容を確認してから使いましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最後は自分の言葉に直す&lt;/strong&gt;
+AIが書いた文章をそのまま使うと、面接で「書いたことを説明できない」という状況になりかねません。自分が話せる内容になっているか確認してください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;履歴書・職務経歴書の作成にAIを使うのは「ずる」ではなく、自分の経験を効果的に伝えるための手段です。AIを壁打ち相手として使いながら、最終的には自分の言葉で仕上げることが大切です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</link><pubDate>Sat, 09 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/cover.png" alt="Featured image of post うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】" /&gt;&lt;p&gt;「あの時使ったプロンプト、どこに書いたっけ…」&lt;/p&gt;
+&lt;p&gt;AIを使い込むほど、こういう場面が増えてきます。うまくいったプロンプトをその場で終わらせてしまうのはもったいない。今回は、プロンプトの保存・管理方法をまとめます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜプロンプトを管理するのか"&gt;なぜプロンプトを管理するのか
+&lt;/h2&gt;&lt;p&gt;プロンプトを記録・管理することには3つのメリットがあります。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;再利用できる&lt;/strong&gt; → 毎回ゼロから考えなくていい&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;改善できる&lt;/strong&gt; → 使うたびに精度を上げていける&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;共有できる&lt;/strong&gt; → チームや読者に配布できる&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;プロンプトは「資産」です。書き捨てにするのはもったいない。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="私が使っているnotionでの管理方法"&gt;私が使っているNotionでの管理方法
+&lt;/h2&gt;&lt;h3 id="データベースで管理する"&gt;データベースで管理する
+&lt;/h3&gt;&lt;p&gt;Notionのデータベース機能を使って、プロンプト集を作っています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;設定しているプロパティ：&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;プロパティ&lt;/th&gt;
+ &lt;th&gt;内容&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;タイトル&lt;/td&gt;
+ &lt;td&gt;プロンプトの用途（例：ブログ記事の見出し作成）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;AIツール&lt;/td&gt;
+ &lt;td&gt;ChatGPT / Claude / Gemini&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;タグ&lt;/td&gt;
+ &lt;td&gt;ブログ・ビジネス・学習・画像 など&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;評価&lt;/td&gt;
+ &lt;td&gt;★1〜★5&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;最終更新日&lt;/td&gt;
+ &lt;td&gt;日付&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="実際のプロンプトはページ本文に書く"&gt;実際のプロンプトはページ本文に書く
+&lt;/h3&gt;&lt;p&gt;タイトルをクリックして開いたページに、実際のプロンプトを貼り付けます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;テンプレートの例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;【用途】ブログ記事の見出し（H2）作成
+
+【プロンプト】
+「{テーマ}」についてのブログ記事の見出しを5つ作ってください。
+読者は初心者〜中級者。各見出しは20字以内で、
+読んでみたくなるものにしてください。
+
+【メモ】
+具体的なキーワードを{テーマ}に入れると精度が上がる。
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="notion以外の管理方法"&gt;Notion以外の管理方法
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;テキストファイルで管理する&lt;/strong&gt;
+シンプルな方法です。「prompts.txt」に用途ごとに貼り付けておきます。「### ブログ記事作成」などの見出しをつけると検索しやすくなります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;スプレッドシートで管理する&lt;/strong&gt;
+ExcelやGoogle スプレッドシートで一覧管理。フィルタリングや並べ替えが便利です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="プロンプトを整理するコツ"&gt;プロンプトを整理するコツ
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「使ったら即保存」の習慣をつける&lt;/strong&gt;
+いいプロンプトが出たら、会話をコピーしてすぐに保存します。「後で整理しよう」は大体やりません。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目的から名前をつける&lt;/strong&gt;
+「プロンプト1」ではなく、「メールの丁寧化」「記事の骨格作成」など、目的をそのままタイトルにします。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;月1回見直す&lt;/strong&gt;
+使わなくなったプロンプトは削除して、リストをスリムに保ちます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;プロンプトを管理する習慣をつけるだけで、AIの活用効率が大きく変わります。まずはシンプルにテキストファイル1枚から始めて、慣れてきたらNotionなどに移行するのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Claudeの「プロジェクト」機能が便利すぎた【ブログ運営に使えた】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-projects-guide/</link><pubDate>Fri, 08 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-projects-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-projects-guide/cover.png" alt="Featured image of post Claudeの「プロジェクト」機能が便利すぎた【ブログ運営に使えた】" /&gt;&lt;p&gt;「毎回AIに同じ説明をするのが面倒…」&lt;/p&gt;
+&lt;p&gt;ブログのトンマナや自分のキャラクター設定を、会話のたびに入力し直す。そんな手間を一気に解決してくれたのがClaudeの&lt;strong&gt;プロジェクト機能&lt;/strong&gt;です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="プロジェクト機能とは"&gt;プロジェクト機能とは
+&lt;/h2&gt;&lt;p&gt;ClaudeのプロジェクトはAIに「専用の文脈」を持たせる機能です。プロジェクトを作ると、&lt;strong&gt;カスタム指示&lt;/strong&gt;・&lt;strong&gt;参照ファイル&lt;/strong&gt;・&lt;strong&gt;会話の継続&lt;/strong&gt;が一箇所にまとまります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ブログ運営での活用例"&gt;ブログ運営での活用例
+&lt;/h2&gt;&lt;h3 id="1-ブログの設定集をプロジェクトに入れる"&gt;1. ブログの「設定集」をプロジェクトに入れる
+&lt;/h3&gt;&lt;p&gt;私は以下の情報をプロジェクトのカスタム指示に設定しています。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;このブログについて：
+- ブログ名：毎日AI
+- ターゲット：40代の在宅ワーカー・副業志望者
+- 文体：親しみやすい話し言葉、読点は少なめ
+- 記事の長さ：800〜1,200字
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これを設定すると、毎回ブログの説明をしなくても、最初からこのブログに合った文章を書いてくれます。&lt;/p&gt;
+&lt;h3 id="2-過去記事一覧をアップロードする"&gt;2. 過去記事一覧をアップロードする
+&lt;/h3&gt;&lt;p&gt;すでに書いた記事のタイトルと概要をテキストファイルにまとめてアップロードしておくと、「この記事と内容が被らないか確認して」という指示が使えます。重複コンテンツを防ぐのに役立っています。&lt;/p&gt;
+&lt;h3 id="3-キーワードリストを共有する"&gt;3. キーワードリストを共有する
+&lt;/h3&gt;&lt;p&gt;SEOで狙いたいキーワードのリストをアップロードして、「このキーワードを記事に自然に組み込んで」と指示できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="他の用途での活用アイデア"&gt;他の用途での活用アイデア
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;仕事のプロジェクト管理&lt;/strong&gt;
+案件ごとにプロジェクトを作り、要件定義書や議事録をアップロードしておくと、次回の会話でも文脈を引き継いでくれます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;語学学習&lt;/strong&gt;
+「英語を英語で教えるチューター」としてカスタム指示を設定したプロジェクトを作っておけば、英語学習専用のAIが完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="プロジェクト機能の使い方"&gt;プロジェクト機能の使い方
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;claude.ai にログイン&lt;/li&gt;
+&lt;li&gt;左サイドバーの「プロジェクト」→「新しいプロジェクト」&lt;/li&gt;
+&lt;li&gt;プロジェクト名を設定&lt;/li&gt;
+&lt;li&gt;「プロジェクト指示」にカスタム指示を入力&lt;/li&gt;
+&lt;li&gt;必要なファイルをアップロード&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;あとはそのプロジェクト内で会話を始めるだけです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="無料版でも使える"&gt;無料版でも使える？
+&lt;/h2&gt;&lt;p&gt;プロジェクト機能はClaudeの&lt;strong&gt;無料版でも基本的な機能が使えます&lt;/strong&gt;。個人ブログ運営なら無料範囲で十分活用できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;Claudeのプロジェクト機能を使えば、毎回の説明が不要になり、AIとの作業がぐっとスムーズになります。「定期的に使うAIの用途」があるなら、プロジェクトを作って損はありません。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>NotionAIを使い始めたら、メモの質が上がった話</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</link><pubDate>Wed, 29 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/cover.png" alt="Featured image of post NotionAIを使い始めたら、メモの質が上がった話" /&gt;&lt;p&gt;「NotionってAI機能があるの？」&lt;/p&gt;
+&lt;p&gt;最近まで知りませんでした。使い始めたら、メモの質がガラッと変わったので紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="notionaiとは"&gt;NotionAIとは？
+&lt;/h2&gt;&lt;p&gt;Notionはメモ・タスク管理・ドキュメント作成ができるオールインワンツールです。そこにAI機能が追加されて、文章の生成・要約・翻訳などがNotionの中で完結するようになりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="私がよく使う機能3つ"&gt;私がよく使う機能3つ
+&lt;/h2&gt;&lt;h3 id="1-文章の要約"&gt;1. 文章の要約
+&lt;/h3&gt;&lt;p&gt;長い記事や自分のメモを貼り付けて「要約して」と頼むだけで、ポイントをまとめてくれます。&lt;/p&gt;
+&lt;p&gt;読んだ本のメモを要約して保存しておくのが習慣になりました。&lt;/p&gt;
+&lt;h3 id="2-箇条書きを整える"&gt;2. 箇条書きを整える
+&lt;/h3&gt;&lt;p&gt;思いついたことをざっくり箇条書きにして、AIに「読みやすく整えて」と頼むとキレイな文章になります。&lt;/p&gt;
+&lt;p&gt;ブログ記事の下書きにも使えます。&lt;/p&gt;
+&lt;h3 id="3-翻訳"&gt;3. 翻訳
+&lt;/h3&gt;&lt;p&gt;英語の記事を貼り付けて「日本語に翻訳して」とすれば即日本語化。海外の情報収集がラクになりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="料金は"&gt;料金は？
+&lt;/h2&gt;&lt;p&gt;NotionAIは月額$10（約1,500円）で使えます。Notionの無料プランにAIだけ追加することもできます。&lt;/p&gt;
+&lt;p&gt;毎日使うなら十分元が取れると感じています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;メモ・要約・翻訳がNotionの中で完結する&lt;/li&gt;
+&lt;li&gt;ざっくりメモをAIが整えてくれる&lt;/li&gt;
+&lt;li&gt;月$10で使える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;まずはNotionの無料版を試してみて、気に入ったらAIを追加するのがおすすめです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/" &gt;Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/</link><pubDate>Fri, 24 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/cover.png" alt="Featured image of post Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】" /&gt;&lt;p&gt;「GeminiってChatGPTと何が違うの？」&lt;/p&gt;
+&lt;p&gt;この疑問、私も最初に持ちました。使ってみてわかったのは「Geminiには明確な得意分野がある」ということ。&lt;/p&gt;
+&lt;p&gt;この記事では、Geminiの特徴と便利な使い方を初心者向けにまとめます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="geminiとは"&gt;Geminiとは
+&lt;/h2&gt;&lt;p&gt;Googleが開発した生成AIです。2024年にGoogleの「Bard」から名称変更されました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;アクセス方法：&lt;/strong&gt; &lt;a class="link" href="https://gemini.google.com" target="_blank" rel="noopener"
+ &gt;gemini.google.com&lt;/a&gt; にアクセスするだけ（Googleアカウントがあれば無料）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="geminiの最大の強み最新情報に対応している"&gt;Geminiの最大の強み：最新情報に対応している
+&lt;/h2&gt;&lt;p&gt;ChatGPTやClaudeは学習データのカットオフ（締め切り日）があり、それ以降の情報は知りません。&lt;/p&gt;
+&lt;p&gt;一方Geminiは、Googleの検索エンジンと連携しているため、&lt;strong&gt;今日の情報も踏まえた回答&lt;/strong&gt;が可能です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例えばこんな質問に強い：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「最新のAI関連ニュースをまとめて」&lt;/li&gt;
+&lt;li&gt;「今週話題になっているトレンドは？」&lt;/li&gt;
+&lt;li&gt;「〇〇の最新バージョンの変更点は？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="geminiの便利な活用例5つ"&gt;Geminiの便利な活用例5つ
+&lt;/h2&gt;&lt;h3 id="活用1情報収集リサーチ"&gt;活用1：情報収集・リサーチ
+&lt;/h3&gt;&lt;p&gt;「2026年の副業トレンドを調べてまとめて」と入力すると、最新情報を踏まえた回答が得られます。ブログ記事のネタ探しや業界リサーチに最適です。&lt;/p&gt;
+&lt;h3 id="活用2画像の内容を読み取る"&gt;活用2：画像の内容を読み取る
+&lt;/h3&gt;&lt;p&gt;写真をアップロードして「この画像に何が写っていますか？」「このレシートの合計金額は？」など聞けます。スマホのカメラと組み合わせると特に便利です。&lt;/p&gt;
+&lt;h3 id="活用3旅行お出かけ計画"&gt;活用3：旅行・お出かけ計画
+&lt;/h3&gt;&lt;p&gt;「5月に東京から大阪への一人旅を計画しています。2泊3日でおすすめのスポットと予算を教えて」のように聞くと、最新情報も踏まえた提案をしてくれます。&lt;/p&gt;
+&lt;h3 id="活用4英語メールの作成翻訳"&gt;活用4：英語メールの作成・翻訳
+&lt;/h3&gt;&lt;p&gt;「この日本語のメールを英語に直して」と貼り付けるだけで翻訳してくれます。英語のビジネスメールへの返信にも使えます。&lt;/p&gt;
+&lt;h3 id="活用5googleドキュメントスプレッドシートとの連携"&gt;活用5：Googleドキュメント・スプレッドシートとの連携
+&lt;/h3&gt;&lt;p&gt;有料版（Gemini Advanced）では、GmailやGoogleドキュメントと連携できます。「今週届いたメールを要約して」「このスプレッドシートのデータを分析して」が可能に。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="chatgptとの使い分け"&gt;ChatGPTとの使い分け
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;用途&lt;/th&gt;
+ &lt;th&gt;おすすめ&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;最新情報・ニュース収集&lt;/td&gt;
+ &lt;td&gt;Gemini&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;長文の文章作成&lt;/td&gt;
+ &lt;td&gt;Claude&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;汎用的なタスク&lt;/td&gt;
+ &lt;td&gt;ChatGPT&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Google Workspace連携&lt;/td&gt;
+ &lt;td&gt;Gemini&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;私は「情報収集はGemini、文章を書くのはClaude」という使い分けをしています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="無料版でできることと有料版の違い"&gt;無料版でできることと有料版の違い
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;無料版：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gemini 1.5 Flashが使える&lt;/li&gt;
+&lt;li&gt;テキスト・画像の入力&lt;/li&gt;
+&lt;li&gt;基本的な会話・質問回答&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;有料版（Gemini Advanced、月2,900円）：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;より高性能なモデルが使える&lt;/li&gt;
+&lt;li&gt;Gmailなどとの深い連携&lt;/li&gt;
+&lt;li&gt;長い文書の処理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;まずは無料版で十分です。必要を感じたら有料版に切り替えましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;GeminiはGoogleアカウントがあれば今すぐ使えるAIです。特に「最新情報を調べたい」「Google系のサービスと組み合わせたい」という方には一番おすすめです。&lt;/p&gt;
+&lt;p&gt;ChatGPTやClaudeと合わせて使い分けることで、AIの力を最大限に引き出せます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/" &gt;Geminiの画像生成が無料で使える！使い方と活用例を解説&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/" &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>仕事でAIを使うと何が変わる？実際に試してわかった10の効果</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/</link><pubDate>Thu, 16 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/cover.png" alt="Featured image of post 仕事でAIを使うと何が変わる？実際に試してわかった10の効果" /&gt;&lt;p&gt;AIを仕事に使い始めて半年が経ちました。&lt;/p&gt;
+&lt;p&gt;正直、最初は「本当に使えるのか？」と半信半疑でした。でも今では、AIなしの仕事には戻れないと思っています。&lt;/p&gt;
+&lt;p&gt;変化を10個にまとめたので、参考にしてみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-メール作成が3分で終わるようになった"&gt;1. メール作成が3分で終わるようになった
+&lt;/h2&gt;&lt;p&gt;以前は10〜15分かかっていたビジネスメールの作成が、今は3分以内で終わります。&lt;/p&gt;
+&lt;p&gt;「〇〇さんへのお礼メール、300文字以内で丁寧な敬語で」と入力するだけ。あとは細かい修正をするだけで完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2-議事録の清書が一瞬で終わる"&gt;2. 議事録の清書が一瞬で終わる
+&lt;/h2&gt;&lt;p&gt;会議中に取ったざっくりメモをAIに貼り付けて「議事録形式に整理して」と指示するだけ。きれいな議事録が数秒で完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3-資料の構成を考える時間がなくなった"&gt;3. 資料の「構成を考える時間」がなくなった
+&lt;/h2&gt;&lt;p&gt;プレゼン資料や企画書を作るとき、以前は「どんな構成にしようか」で悩む時間が長かった。今はAIに「〇〇についての5分プレゼンの構成を作って」と聞けばすぐに骨格ができます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="4-知らない分野の調査が速くなった"&gt;4. 知らない分野の調査が速くなった
+&lt;/h2&gt;&lt;p&gt;新しいジャンルについて調べるとき、Googleで何十ページも見るよりAIに聞く方が速い。「〇〇について初心者向けに説明して。わからない単語があったら都度確認する」というスタイルで学習効率が上がりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="5-excelの数式がわからなくても怖くない"&gt;5. Excelの数式がわからなくても怖くない
+&lt;/h2&gt;&lt;p&gt;「売上の前月比を出すExcel数式は？」と聞けば数式と使い方を教えてくれます。コピーして貼り付けるだけでOK。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="6-文章のてにをはチェックが楽になった"&gt;6. 文章の「てにをは」チェックが楽になった
+&lt;/h2&gt;&lt;p&gt;「この文章を読みやすくして」「敬語が正しいかチェックして」という使い方も有効です。誤字・表現の改善を秒速でやってくれます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="7-アイデア出しに詰まらなくなった"&gt;7. アイデア出しに詰まらなくなった
+&lt;/h2&gt;&lt;p&gt;企画のアイデアや記事ネタを考えるとき、ゼロから考えると時間がかかる。「〇〇についてのアイデアを10個出して」でたたき台がすぐできます。自分で全部考えなくていい、という感覚が気持ちよかった。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="8-英語のメールが怖くなくなった"&gt;8. 英語のメールが怖くなくなった
+&lt;/h2&gt;&lt;p&gt;外国からのメールへの返信や英語資料の読み込みが、AIで一瞬できるようになりました。「この英文を日本語に要約して」「日本語で書いた文章を英語に直して」だけでOK。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="9-sns投稿に悩む時間がゼロになった"&gt;9. SNS投稿に悩む時間がゼロになった
+&lt;/h2&gt;&lt;p&gt;ブログやSNSの投稿文を考えていた時間が完全になくなりました。「このテーマでInstagramのキャプションを作って」で30秒で完成します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="10-もっとaiを使いこなしたいと思うようになった"&gt;10. 「もっとAIを使いこなしたい」と思うようになった
+&lt;/h2&gt;&lt;p&gt;一番大きな変化はこれかもしれません。使えば使うほど「もっとこういう使い方があるんじゃないか」と考えるようになり、仕事への好奇心が戻ってきました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIを使うと、仕事の「考える時間」は減らず、「作業する時間」が劇的に短縮されます。空いた時間でより質の高いアウトプットを出せるようになるのが、AIを使う本当のメリットだと思っています。&lt;/p&gt;
+&lt;p&gt;まずはメール1本、AIで書いてみることから始めてみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-tools-i-use/" &gt;私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIツールを使いこなすために続けている3つの習慣</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</link><pubDate>Sun, 12 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/cover.png" alt="Featured image of post AIツールを使いこなすために続けている3つの習慣" /&gt;&lt;p&gt;「AIツールを使い始めたけど、なんかうまく活用できていない気がする」&lt;/p&gt;
+&lt;p&gt;最初の数ヶ月、私もそうでした。今回は半年間使い続けてわかった、AIを使いこなすための習慣を3つ紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="習慣1まずaiに聞いてみる"&gt;習慣1：まずAIに聞いてみる
+&lt;/h2&gt;&lt;p&gt;何か迷ったとき、「とりあえずAIに聞いてみる」を習慣にしました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;こんなことも聞いています：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「このメールの返信文を書いて」&lt;/li&gt;
+&lt;li&gt;「今日のタスクを優先順位をつけて整理して」&lt;/li&gt;
+&lt;li&gt;「この言葉の意味を教えて」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最初は「こんなこと聞いていいのかな」と思っていましたが、AIはどんな質問にも答えてくれます。遠慮しないことが大事です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="習慣2プロンプトを記録する"&gt;習慣2：プロンプトを記録する
+&lt;/h2&gt;&lt;p&gt;「このプロンプトでいい返答が来た！」というものをメモしておきます。&lt;/p&gt;
+&lt;p&gt;NotionやメモアプリにAI用のページを作って、使えたプロンプトをストックしています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ストックしているプロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ブログ記事の下書きを書いてもらうとき&lt;/li&gt;
+&lt;li&gt;提案文を作るとき&lt;/li&gt;
+&lt;li&gt;英文を添削してもらうとき&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一度うまくいったプロンプトは、次も同じように使えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="習慣3aiの回答をそのまま使わない"&gt;習慣3：AIの回答をそのまま使わない
+&lt;/h2&gt;&lt;p&gt;AIは間違えることがあります。特に数字・統計・最新情報は要確認です。&lt;/p&gt;
+&lt;p&gt;私のルール：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AIの回答を読む&lt;/li&gt;
+&lt;li&gt;重要な情報はWebで確認&lt;/li&gt;
+&lt;li&gt;自分の言葉に書き直してから使う&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;「AIが言ったから正しい」ではなく、「AIが下書きを作ってくれた、あとは自分で確認する」というスタンスが大切です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="結局慣れが一番大事"&gt;結局、慣れが一番大事
+&lt;/h2&gt;&lt;p&gt;AIツールは使えば使うほど上手くなります。&lt;/p&gt;
+&lt;p&gt;最初はぎこちなくても、毎日触っているうちに「このシーンではこう使う」という感覚が自然に身についてきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;まずAIに聞く&lt;/strong&gt;（遠慮しない）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使えたプロンプトを記録する&lt;/strong&gt;（資産になる）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回答をそのまま使わない&lt;/strong&gt;（最終確認は自分で）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;この3つを続けるだけで、AIの活用レベルが確実に上がります。ぜひ試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/" &gt;AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</link><pubDate>Sat, 11 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/cover.png" alt="Featured image of post AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】" /&gt;&lt;p&gt;「ChatGPTを登録したけど、気づいたら使わなくなっていた」&lt;/p&gt;
+&lt;p&gt;これ、すごくよくあります。新しいツールを習慣にするのは難しい。私も最初の1ヶ月は挫折しかけました。&lt;/p&gt;
+&lt;p&gt;でも今では、AIなしの日は逆に落ち着かないくらい使い込んでいます。その経験から、習慣化のコツをまとめました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜaiは習慣にならないのか"&gt;なぜAIは習慣にならないのか
+&lt;/h2&gt;&lt;p&gt;挫折するパターンは大体この3つです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;何に使うか決めていない&lt;/strong&gt; → 「いつか使おう」で終わる&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;アクセスが面倒&lt;/strong&gt; → 開くのが億劫になる&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最初の体験がイマイチ&lt;/strong&gt; → 「別に使わなくてもいいか」となる&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;これを一つずつ解決するのが習慣化の近道です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ステップ1これだけに使うを1つ決める"&gt;ステップ1：「これだけに使う」を1つ決める
+&lt;/h2&gt;&lt;p&gt;最初から全部の仕事にAIを使おうとすると続きません。&lt;/p&gt;
+&lt;p&gt;まず&lt;strong&gt;1つのタスクだけ&lt;/strong&gt;にAIを使うと決めましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;おすすめの「最初の1つ」：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;毎日書く日報の下書き&lt;/li&gt;
+&lt;li&gt;仕事メールの文章チェック&lt;/li&gt;
+&lt;li&gt;朝のスケジュール整理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「毎日やること」にAIを組み込むのがポイント。ルーティンに組み込めれば、後は自然と定着します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ステップ2アクセスを限界まで楽にする"&gt;ステップ2：アクセスを限界まで楽にする
+&lt;/h2&gt;&lt;p&gt;人間は面倒だと感じた瞬間、新しいツールを使わなくなります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体的な対策：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ブラウザのホーム画面をChatGPTにする&lt;/li&gt;
+&lt;li&gt;スマホのホーム画面にAIアプリのショートカットを置く&lt;/li&gt;
+&lt;li&gt;よく使うプロンプトをテキストファイルに保存しておく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;私は「Claude」「ChatGPT」「Gemini」の3つをブックマークバーに並べています。開くまでに2秒もかかりません。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ステップ3使った記録を残す"&gt;ステップ3：使った記録を残す
+&lt;/h2&gt;&lt;p&gt;習慣化に最も効果的なのは「小さな成功体験の積み重ね」です。&lt;/p&gt;
+&lt;p&gt;シンプルなメモでいいので記録してみてください。&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;5/10：Claudeでメール下書き → 15分→2分に短縮
+5/11：ChatGPTで企画書の構成を作った → ゼロから考えるより速かった
+5/12：Geminiで競合リサーチ → 情報が最新で助かった
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;記録することで「AIを使うと何が変わるか」が見えてきて、モチベーションが続きます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1ヶ月の変化イメージ"&gt;1ヶ月の変化イメージ
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;時期&lt;/th&gt;
+ &lt;th&gt;状態&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1週目&lt;/td&gt;
+ &lt;td&gt;1つのタスクに毎日使う&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2週目&lt;/td&gt;
+ &lt;td&gt;使い道を2〜3つに広げる&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;3週目&lt;/td&gt;
+ &lt;td&gt;AIなしだと不便に感じ始める&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;1ヶ月後&lt;/td&gt;
+ &lt;td&gt;自然とAIを使っている&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="やりがちなng習慣化"&gt;やりがちなNG習慣化
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;いきなり全部の仕事に使おうとする&lt;/strong&gt;（燃え尽きる）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「完璧な使い方を調べてから」と先延ばし&lt;/strong&gt;（永遠に始まらない）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「今日は疲れたから明日」を繰り返す&lt;/strong&gt;（1日休むと2日、3日と増えていく）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;完璧でなくていい。まず「今日ひとつ使う」を続けることが全てです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIの習慣化は難しくありません。「1つ決める・アクセスを楽にする・記録する」この3つだけでOK。&lt;/p&gt;
+&lt;p&gt;1ヶ月後には、AIを使うことが当たり前になっている自分に気づくはずです。今日から始めてみましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-tools-i-use/" &gt;私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>2026年に注目のAI副業5選【今始めると有利な理由】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/cover.png" alt="Featured image of post 2026年に注目のAI副業5選【今始めると有利な理由】" /&gt;&lt;p&gt;2026年、AI副業の世界は去年と比べても大きく変わっています。&lt;/p&gt;
+&lt;p&gt;新しい副業の形が生まれる一方で「もう遅いのでは？」と思う方もいるかもしれません。でも結論から言うと、&lt;strong&gt;今がまだ早期参入のチャンス&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;注目している5つのAI副業と、その理由を紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-aiプロンプト販売"&gt;1. AIプロンプト販売
+&lt;/h2&gt;&lt;p&gt;ChatGPTやMidjourneyで高品質な結果を引き出す「プロンプト（指示文）」を作成して販売する副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AIツールが普及するほど「うまく使えない人」が増える。良いプロンプトへの需要は伸び続けています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;販売先：&lt;/strong&gt; note、Brain、独自ブログ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1本300〜3,000円。ヒット商品が出れば月数万円も可能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自分がよく使うプロンプトを磨いて実例を作る&lt;/li&gt;
+&lt;li&gt;「このプロンプトを使ったらこう変わった」という比較を記事化&lt;/li&gt;
+&lt;li&gt;noteで500〜1,000円で販売開始&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="2-ai動画クリエイター"&gt;2. AI動画クリエイター
+&lt;/h2&gt;&lt;p&gt;AIを使ってショート動画やYouTube動画を制作・代行する副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使うツール：&lt;/strong&gt; Runway、Pika（テキスト→動画）、ElevenLabs（AI音声）、CapCut（自動編集）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; ショート動画の需要は右肩上がりで、「動画を作りたいがリソースのない個人・企業」が増えています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1本2,000〜30,000円（クオリティと依頼主による）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt; まず自分のアカウントで10本以上投稿して実績を作り、ランサーズやSNSで営業。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3-個人向けai活用コンサル"&gt;3. 個人向けAI活用コンサル
+&lt;/h2&gt;&lt;p&gt;「AIを使いたいけど何から始めればいいかわからない」という個人や中小企業に、活用法を教えるコンサルティング副業です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AIの波が来ているのに「自分には関係ない」と思っている人がまだ多い。少し先に進んでいるだけで価値になります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1時間3,000〜15,000円&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;友人・知人に無料でAIの使い方を教えて感想をもらう&lt;/li&gt;
+&lt;li&gt;口コミで有料化&lt;/li&gt;
+&lt;li&gt;ストアカやタイムチケットでセミナー・相談を販売&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="4-ai翻訳のポストエディティング"&gt;4. AI×翻訳のポストエディティング
+&lt;/h2&gt;&lt;p&gt;AIで翻訳した文章を人間が編集・修正する「ポストエディティング（PE）」という仕事が注目されています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AI翻訳の精度は上がったが、専門分野や文化的ニュアンスはまだ人間が必要。翻訳者の仕事は「なくなる」のではなく「変わる」段階です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 1文字3〜8円&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt; Gengoやクラウドワークスで「翻訳・ポストエディティング」案件を探す。語学力があれば有利。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="5-ai活用情報ブログsns発信"&gt;5. AI活用情報ブログ・SNS発信
+&lt;/h2&gt;&lt;p&gt;AIの使い方・副業情報を発信するブログやSNSアカウントを育て、広告収入やアフィリエイト、デジタル商品販売で稼ぐ方法です。&lt;/p&gt;
+&lt;p&gt;まさにこのブログが目指しているスタイルです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なぜ今？&lt;/strong&gt; AI情報への需要はまだピーク前。今始めれば先行者として積み上げられます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;収益目安：&lt;/strong&gt; 初期は月0〜数千円、半年〜1年で月3〜30万円も可能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;始め方：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ブログを開設（このブログのように）&lt;/li&gt;
+&lt;li&gt;週2〜3記事のペースで投稿を続ける&lt;/li&gt;
+&lt;li&gt;GoogleアドセンスとAmazonアフィリエイトで収益化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="今始めるべき理由"&gt;今始めるべき理由
+&lt;/h2&gt;&lt;p&gt;AI副業はまだ「早期参入が有利な時期」です。&lt;/p&gt;
+&lt;p&gt;1年後には競争が激化している可能性が高く、今始めることで実績・読者・スキルの「貯金」ができます。5つの中でどれか1つだけ選ぶなら、リスクゼロで始められる&lt;strong&gt;AI活用情報ブログ&lt;/strong&gt;がおすすめです。&lt;/p&gt;
+&lt;p&gt;まず今日、最初の一歩を踏み出してみましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/" &gt;AIでKindle本を作る手順を全部公開【KDP副業の始め方】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/</link><pubDate>Mon, 06 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/cover.png" alt="Featured image of post AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】" /&gt;&lt;p&gt;ブログを始めたはいいけど「毎日記事を書く時間がない」という悩みはよくわかります。&lt;/p&gt;
+&lt;p&gt;私もそうでした。でもAIを使い始めてから、記事作成の時間が半分以下になりました。&lt;/p&gt;
+&lt;p&gt;今日は私のAIブログ執筆ワークフローを全部公開します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使った記事作成の全体の流れ"&gt;AIを使った記事作成の全体の流れ
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;①キーワード選定（5分）
+　　↓
+②記事構成（見出し）の作成（5分）
+　　↓
+③AIで本文の下書き生成（10〜15分）
+　　↓
+④自分でリライト・事実確認（20〜30分）
+　　↓
+⑤公開
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;合計：約40〜55分/記事&lt;/p&gt;
+&lt;p&gt;以前は1記事に2〜3時間かかっていたので、体感では半分以下になりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="キーワード選定aiに相談する"&gt;①キーワード選定：AIに相談する
+&lt;/h2&gt;&lt;p&gt;記事のテーマはAIに手伝ってもらっています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「AIツールの活用法」をテーマにしたブログを運営しています。
+初心者〜中級者が検索しそうなキーワードを15個提案してください。
+検索意図（何を知りたくて検索するか）も一緒に書いてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;こうすることで、読者のニーズに合ったテーマを効率よく見つけられます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="構成見出しの作成aiにたたき台を作ってもらう"&gt;②構成（見出し）の作成：AIにたたき台を作ってもらう
+&lt;/h2&gt;&lt;p&gt;テーマが決まったら、記事の骨格をAIに作ってもらいます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;「ChatGPTプロンプトの書き方」というテーマで、
+初心者向けブログ記事の見出し構成を作ってください。
+H2：4〜5個、H3：各H2の下に2〜3個
+全体の文字数：1,500文字を想定
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;この段階でAIが出した構成を見て、自分で修正・追加します。ゼロから考えるより圧倒的に速いです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="本文の下書きセクションごとに書いてもらう"&gt;③本文の下書き：セクションごとに書いてもらう
+&lt;/h2&gt;&lt;p&gt;全部まとめて書かせるより、&lt;strong&gt;見出しごとに書いてもらう&lt;/strong&gt;方が品質が安定します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;以下の見出しのセクションを書いてください。
+見出し：「プロンプトに役割を与えると回答が変わる」
+条件：
+・読者は ChatGPT を使い始めて1ヶ月の初心者
+・300文字程度
+・具体例を1つ入れる
+・話し言葉で親しみやすく
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="リライトここが一番大事"&gt;④リライト：ここが一番大事
+&lt;/h2&gt;&lt;p&gt;AIの下書きをそのまま使うのはNGです。必ず自分でリライトしましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私がリライトで追加するもの：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自分の実体験（「実際に私も試したら〜」）&lt;/li&gt;
+&lt;li&gt;個人の意見（「個人的にはこっちの方がおすすめ」）&lt;/li&gt;
+&lt;li&gt;読者への問いかけ（「あなたはどう思いますか？」）&lt;/li&gt;
+&lt;li&gt;最新の情報・データ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この工程を丁寧にやることで、「AIが書いた感じ」がなくなり、読まれる記事になります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="時短のためのテクニック"&gt;時短のためのテクニック
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;プロンプトをテンプレート化する&lt;/strong&gt;
+うまくいったプロンプトはメモしておき、次回から使い回します。毎回ゼロから書く必要がなくなります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;バッチ処理する&lt;/strong&gt;
+時間があるときに10記事分の「構成だけ」を作り置きしておきます。後は本文を書くだけなので、スキマ時間でも執筆できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="aiを使うときの注意点"&gt;AIを使うときの注意点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;事実確認は必ずする&lt;/strong&gt;：AIは自信満々に間違えることがある（ハルシネーション）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最新情報は要注意&lt;/strong&gt;：学習データのカットオフ以降の情報は持っていない&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コピペはNG&lt;/strong&gt;：SEO的にも品質的にも、必ず自分の言葉に変える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;「AIが書く」ではなく「AIと一緒に書く」のが正しいスタンスです。&lt;/p&gt;
+&lt;p&gt;下書きと構成はAIに任せて、品質の仕上げは自分がやる。この分担ができれば、一人でも安定したブログ更新が続けられます。&lt;/p&gt;
+&lt;p&gt;まずは次の1記事、このワークフローで試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/" &gt;Canvaで無料！ブログのアイキャッチ画像を10分で作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/" &gt;AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/</link><pubDate>Sun, 05 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/cover.png" alt="Featured image of post ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】" /&gt;&lt;p&gt;「ChatGPTを使ってみたけど、なんかイマイチな返答しか来ない」&lt;/p&gt;
+&lt;p&gt;使い始めのころ、私もそう感じていました。でも原因はAIの性能ではなく、&lt;strong&gt;プロンプト（指示文）の書き方&lt;/strong&gt;にありました。&lt;/p&gt;
+&lt;p&gt;この記事では、初心者が最初に押さえるべきコツを5つだけに絞って紹介します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="プロンプトとは"&gt;プロンプトとは
+&lt;/h2&gt;&lt;p&gt;ChatGPTに送る「指示や質問の文章」のことをプロンプトといいます。同じテーマでも、書き方次第で返ってくる内容がまったく変わります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コツ1役割を与える"&gt;コツ1：役割を与える
+&lt;/h2&gt;&lt;p&gt;「あなたは〇〇の専門家です」と伝えると、その視点で答えてくれます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NG例：&lt;/strong&gt; 「節約方法を教えて」&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OK例：&lt;/strong&gt; 「あなたはファイナンシャルプランナーです。一人暮らしの20代向けに、無理なく続けられる節約術を5つ教えてください」&lt;/p&gt;
+&lt;p&gt;これだけで回答の深さがぐっと変わります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コツ2条件を具体的に書く"&gt;コツ2：条件を具体的に書く
+&lt;/h2&gt;&lt;p&gt;誰向けに・何文字で・どんなトーンで、を明記しましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;30代の主婦向けに、AIを使った時短家事の方法を
+800文字程度、話し言葉で書いてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;「ざっくり教えて」より「具体的な条件つき」の方が、使えるアウトプットが返ってきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コツ3出力形式を指定する"&gt;コツ3：出力形式を指定する
+&lt;/h2&gt;&lt;p&gt;欲しい形を最初から言っておくと、加工の手間が省けます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「箇条書きで5つ」&lt;/li&gt;
+&lt;li&gt;「表形式でまとめて」&lt;/li&gt;
+&lt;li&gt;「ステップ1〜5の手順で」&lt;/li&gt;
+&lt;li&gt;「メリット・デメリットに分けて」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;私はよく「まず箇条書きで出して、その後で文章にして」という2段階指示をしています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コツ4否定より肯定で指示する"&gt;コツ4：否定より肯定で指示する
+&lt;/h2&gt;&lt;p&gt;「難しい言葉を使わないで」より「小学生でもわかる言葉で」の方が精度が上がります。&lt;/p&gt;
+&lt;p&gt;AIは「〜しないで」という指示が少し苦手です。「〜してください」の形に変えるだけで結果が変わります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="コツ5一発で完璧を求めない"&gt;コツ5：一発で完璧を求めない
+&lt;/h2&gt;&lt;p&gt;最初の回答が思い通りでなくても、追加指示でどんどん改善できます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「もっとカジュアルな言葉にして」&lt;/li&gt;
+&lt;li&gt;「2段落目をもう少し詳しく」&lt;/li&gt;
+&lt;li&gt;「別パターンを3つ出して」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ChatGPTは会話形式で使うのが正解。最初の回答はたたき台として、ブラッシュアップしていきましょう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめプロンプトの基本テンプレート"&gt;まとめ：プロンプトの基本テンプレート
+&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;【役割】あなたは〇〇の専門家です。
+【依頼】〇〇についての〇〇を書いてください。
+【条件】
+・対象：〇〇向け
+・文字数：〇〇文字
+・トーン：〇〇
+・形式：箇条書き／表／文章
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;このテンプレートを使い回すだけで、毎回のプロンプトが格段に楽になります。まず今日の仕事でひとつ試してみてください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="画像生成のプロンプトに特化したフレーズ集も作りました"&gt;画像生成のプロンプトに特化したフレーズ集も作りました
+&lt;/h2&gt;&lt;p&gt;「何を書けばいいか分からない」を解決するために、&lt;strong&gt;コピペして [ ] を埋めるだけで使えるフレーズ集&lt;/strong&gt;を作りました。画像生成・編集・失敗した時の立て直しまで全20パターン収録しています。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://note.com/16bit_chill/n/n7a36b3977bcd" target="_blank" rel="noopener"
+ &gt;コピペで使える「最初の一言」フレーズ集｜ChatGPT画像生成・編集 全20テンプレ&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/" &gt;ChatGPTの始め方【登録から使い方まで5分で解説】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/" &gt;ChatGPTで英語学習が変わった。毎日続けられる3つの練習法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>無料ツール on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%84%A1%E6%96%99%E3%83%84%E3%83%BC%E3%83%AB/</link><description>Recent content in 無料ツール on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 21 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%84%A1%E6%96%99%E3%83%84%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>Google AI Studioの使い方【無料でGeminiをフル活用する方法】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/google-ai-studio-guide/</link><pubDate>Thu, 21 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/google-ai-studio-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/google-ai-studio-guide/cover.png" alt="Featured image of post Google AI Studioの使い方【無料でGeminiをフル活用する方法】" /&gt;&lt;p&gt;Googleが提供する「AI Studio」は、Geminiを無料でフル活用できるツールです。一般向けのGemini（gemini.google.com）より機能が多く、上級者向けの設定もできます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="google-ai-studioとは"&gt;Google AI Studioとは？
+&lt;/h2&gt;&lt;p&gt;Google AI Studioは、開発者向けのAIプレイグラウンドです。&lt;/p&gt;
+&lt;p&gt;といっても、プログラミングの知識がなくても使えます。主な特徴は：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;最新のGeminiモデルが無料で使える&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;長いプロンプトや大量のテキストを処理できる&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API キーを取得できる&lt;/strong&gt;（ほかのツールと連携できる）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ファイル（PDF・画像・動画）をアップして分析できる&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="アクセス方法"&gt;アクセス方法
+&lt;/h2&gt;&lt;p&gt;👉 aistudio.google.com にアクセス
+Googleアカウントでログインするだけで使えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="主な使い方"&gt;主な使い方
+&lt;/h2&gt;&lt;h3 id="-チャット形式で使うchat-prompts"&gt;① チャット形式で使う（Chat prompts）
+&lt;/h3&gt;&lt;p&gt;通常のGeminiと同様にチャット形式で利用できます。ただし、&lt;strong&gt;コンテキストウィンドウが長い&lt;/strong&gt;ため、長い文章や複数のドキュメントを一度に渡せます。&lt;/p&gt;
+&lt;h3 id="-システムプロンプトを設定する"&gt;② システムプロンプトを設定する
+&lt;/h3&gt;&lt;p&gt;「あなたはプロのライターです」などのシステムプロンプトを設定して、AIの役割を固定できます。ブログ執筆特化のAIを自分で作る感覚です。&lt;/p&gt;
+&lt;h3 id="-ファイルをアップして分析する"&gt;③ ファイルをアップして分析する
+&lt;/h3&gt;&lt;p&gt;PDF・画像・動画・音声ファイルをアップしてGeminiに分析させられます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活用例：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;長い資料を要約&lt;/li&gt;
+&lt;li&gt;画像に写っているものを分析&lt;/li&gt;
+&lt;li&gt;動画の内容をテキスト化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-api-キーを取得する"&gt;④ API キーを取得する
+&lt;/h3&gt;&lt;p&gt;「Get API key」から無料のAPIキーが取得できます。NotionやGASなどのツールと連携させると、AIを自動化ワークフローに組み込めます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="通常のgeminiとの違い"&gt;通常のGeminiとの違い
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;項目&lt;/th&gt;
+ &lt;th&gt;Gemini（通常版）&lt;/th&gt;
+ &lt;th&gt;AI Studio&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;対象&lt;/td&gt;
+ &lt;td&gt;一般ユーザー&lt;/td&gt;
+ &lt;td&gt;開発者・上級ユーザー&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;モデル選択&lt;/td&gt;
+ &lt;td&gt;限定的&lt;/td&gt;
+ &lt;td&gt;最新モデルを選択可&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;システムプロンプト&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
+ &lt;td&gt;✅&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;API取得&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
+ &lt;td&gt;✅&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;料金&lt;/td&gt;
+ &lt;td&gt;無料〜有料&lt;/td&gt;
+ &lt;td&gt;無料（一定制限あり）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;Google AI Studioは「Geminiをもっと使いこなしたい」という方に最適なツールです。無料で使えて、最新モデルにもアクセスできます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/" &gt;Google Geminiの始め方【初心者向け完全ガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/" &gt;GeminiのAI画像生成の使い方【Imagen活用法】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/perplexity-ai-guide/" &gt;Perplexity AIの使い方【検索×AIで情報収集が変わる】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Google NotebookLMの使い方【無料で使えるAI勉強ツール】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/</link><pubDate>Fri, 15 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/cover.png" alt="Featured image of post Google NotebookLMの使い方【無料で使えるAI勉強ツール】" /&gt;&lt;p&gt;Googleが提供する「NotebookLM」は、自分でアップロードした資料をAIが読み込んで、要約・質問応答・ポッドキャスト風の音声まで作ってくれる無料ツールです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="notebooklmとは"&gt;NotebookLMとは？
+&lt;/h2&gt;&lt;p&gt;NotebookLMは、&lt;strong&gt;自分の資料に特化したAIアシスタント&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;ChatGPTと違うのは「インターネット全体ではなく、自分がアップした資料の中だけ」で答えてくれる点。これにより、&lt;strong&gt;ハルシネーション（でたらめな回答）が起きにくい&lt;/strong&gt;のが大きな特徴です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="使えるソースの種類"&gt;使えるソースの種類
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PDFファイル&lt;/li&gt;
+&lt;li&gt;Google ドキュメント&lt;/li&gt;
+&lt;li&gt;WebサイトのURL&lt;/li&gt;
+&lt;li&gt;YouTubeのURL&lt;/li&gt;
+&lt;li&gt;テキストのコピペ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="主な使い方"&gt;主な使い方
+&lt;/h2&gt;&lt;h3 id="-資料を要約する"&gt;① 資料を要約する
+&lt;/h3&gt;&lt;p&gt;難しいPDFや長い記事をアップして「3行で要約して」と聞くだけ。読書メモや勉強ノートに最適です。&lt;/p&gt;
+&lt;h3 id="-資料に質問する"&gt;② 資料に質問する
+&lt;/h3&gt;&lt;p&gt;「この中で副業に使えそうな内容は？」「第3章のポイントを教えて」など、資料を読み込んだ上で答えてくれます。&lt;/p&gt;
+&lt;h3 id="-音声概要audio-overviewを作る"&gt;③ 音声概要（Audio Overview）を作る
+&lt;/h3&gt;&lt;p&gt;2人のAIホストが資料についてポッドキャスト風に会話してくれる機能。移動中に耳で聞けるのが便利です。&lt;/p&gt;
+&lt;h3 id="-ブログ記事や資料の下書きを作る"&gt;④ ブログ記事や資料の下書きを作る
+&lt;/h3&gt;&lt;p&gt;アップした資料をもとに「ブログ記事を書いて」と依頼すると、内容に基づいた記事を生成してくれます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に使ってみた感想"&gt;実際に使ってみた感想
+&lt;/h2&gt;&lt;p&gt;私はブログ記事を書くとき、関連するWebページを3〜5本NotebookLMに読み込ませてから「この内容を初心者向けにまとめて」とお願いしています。&lt;/p&gt;
+&lt;p&gt;リサーチと執筆が同時にできるので、&lt;strong&gt;1記事あたりの時間が半分以下&lt;/strong&gt;になりました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;機能&lt;/th&gt;
+ &lt;th&gt;内容&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;料金&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;無料&lt;/strong&gt;（Googleアカウントがあれば使える）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;得意なこと&lt;/td&gt;
+ &lt;td&gt;自分でアップした資料の要約・QA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;苦手なこと&lt;/td&gt;
+ &lt;td&gt;最新情報の検索（資料外の情報は答えられない）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;資料を読み込む手間さえかければ、精度が高くて使いやすいツールです。まだ試していない方はぜひ。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-reading-summary/" &gt;AIで本の要約・読書メモを作る方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-beginner-guide/" &gt;Google Geminiの始め方【初心者向け完全ガイド】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/" &gt;プロンプトの保存・管理方法【再利用して作業効率アップ】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

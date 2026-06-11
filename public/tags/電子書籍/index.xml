@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>電子書籍 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/</link><description>Recent content in 電子書籍 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 28 Apr 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/index.xml" rel="self" type="application/rss+xml"/><item><title>AIで写真集を作ってKDPで出版してみた話【完全レポート】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/</link><pubDate>Tue, 28 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-publish-experience/cover.png" alt="Featured image of post AIで写真集を作ってKDPで出版してみた話【完全レポート】" /&gt;&lt;p&gt;「AIで本を作ってAmazonで売る」&lt;/p&gt;
+&lt;p&gt;半信半疑で始めてみたら、本当に出版できました。今回はその全工程を正直にレポートします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="作った本はこれです"&gt;作った本はこれです
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「The Secret Beauty of Moths — 50 Macro Portraits of Japanese Moths」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日本の蛾を題材にしたマクロポートレート写真集です。AIで生成した50枚の画像を1冊にまとめました。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://www.amazon.co.jp/dp/B0GZQQY2D3" target="_blank" rel="noopener"
+ &gt;Amazonで見る&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜ蛾だったのか"&gt;なぜ「蛾」だったのか
+&lt;/h2&gt;&lt;p&gt;正直なところ、最初は蛾を選ぶ予定はありませんでした。&lt;/p&gt;
+&lt;p&gt;「売れそうなニッチなテーマ」を考えていたとき、「日本の蛾」というキーワードが目に留まりました。蛾は見た目が地味なイメージがありますが、実はマクロで見ると驚くほど美しい模様を持っています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;しかも写真集としてまとめた本がほとんどない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはチャンスだと思いました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="制作の流れ"&gt;制作の流れ
+&lt;/h2&gt;&lt;h3 id="step1テーマとコンセプトを決める"&gt;STEP1：テーマとコンセプトを決める
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;ジャンル：写真集（ノンフィクション）&lt;/li&gt;
+&lt;li&gt;テーマ：日本の蛾のマクロポートレート&lt;/li&gt;
+&lt;li&gt;ターゲット：昆虫好き・自然写真好きの英語圏読者&lt;/li&gt;
+&lt;li&gt;販売価格：$2.99〜$4.99&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;英語で出版すれば世界中の人に読んでもらえます。&lt;/p&gt;
+&lt;h3 id="step2aiで画像を生成する"&gt;STEP2：AIで画像を生成する
+&lt;/h3&gt;&lt;p&gt;GeminiやChatGPTの画像生成機能を使って、蛾のマクロ写真風の画像を生成しました。&lt;/p&gt;
+&lt;p&gt;プロンプトはこんな感じです：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;Extreme macro photography of a Japanese moth, 
+highly detailed wing patterns, dark background, 
+studio lighting, scientific illustration style
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;50枚の画像を生成するのに、だいたい2〜3時間かかりました。&lt;/p&gt;
+&lt;h3 id="step3pdfにまとめる"&gt;STEP3：PDFにまとめる
+&lt;/h3&gt;&lt;p&gt;生成した画像をPythonスクリプトを使ってPDFにまとめました。レイアウトはシンプルに、1ページ1枚の画像＋英語キャプション形式にしました。&lt;/p&gt;
+&lt;h3 id="step4kdpに登録して出版申請"&gt;STEP4：KDPに登録して出版申請
+&lt;/h3&gt;&lt;p&gt;KDP（Kindle Direct Publishing）は無料で使えるAmazonの出版プラットフォームです。&lt;/p&gt;
+&lt;p&gt;登録から出版申請まで約1時間。審査は24〜72時間で完了しました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="かかった費用"&gt;かかった費用
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;項目&lt;/th&gt;
+ &lt;th&gt;費用&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;AIツール（Gemini）&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;KDP登録・出版&lt;/td&gt;
+ &lt;td&gt;無料&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;合計&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;0円&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;本当に0円で出版できました。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実際に売れているか"&gt;実際に売れているか？
+&lt;/h2&gt;&lt;p&gt;正直に言います。まだ始まったばかりで、大きな収益はありません。&lt;/p&gt;
+&lt;p&gt;ただ、&lt;strong&gt;一度作った本は24時間365日Amazonで販売され続けます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1冊売れるたびに報酬が入るストック型の収入になります。本の数を増やすほど、収入の積み上がりが期待できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="やってみてわかったこと"&gt;やってみてわかったこと
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;良かったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;費用ゼロで出版できた&lt;/li&gt;
+&lt;li&gt;作業のほとんどをAIが手伝ってくれた&lt;/li&gt;
+&lt;li&gt;世界中に販売できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;大変だったこと：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;英語の説明文を書くのが少し手間&lt;/li&gt;
+&lt;li&gt;50枚分の画像生成に時間がかかった&lt;/li&gt;
+&lt;li&gt;どんなテーマが売れるか、最初は読めない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="次にやること"&gt;次にやること
+&lt;/h2&gt;&lt;p&gt;1冊目の経験を活かして、すでに2冊目も出版しました。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://amzn.to/4tsbnRY" target="_blank" rel="noopener"
+ &gt;REBEL &amp;amp; ROYAL: London Street Snap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;蛾とは打って変わって、ロンドンのストリートスナップ写真集です。テーマをガラッと変えることで、全く異なる読者層にアプローチできるのもKDPの面白さだと感じています。&lt;/p&gt;
+&lt;p&gt;「1ジャンル1冊」のペースで本を増やしていくのが目標です。100冊出版できれば、少額でも積み重なって安定した収入になると考えています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="まとめ"&gt;まとめ
+&lt;/h2&gt;&lt;p&gt;AIとKDPを組み合わせれば、費用ゼロで電子書籍を出版できます。大切なのは「売れそうなニッチなテーマ」を見つけること。&lt;/p&gt;
+&lt;p&gt;興味がある方はぜひ挑戦してみてください。わからないことがあればコメントで聞いてもらえると嬉しいです😊&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="関連記事"&gt;関連記事
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/kdp-ai-publishing-guide/" &gt;AIでKindle本を作る手順を全部公開【KDP副業の始め方】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
