@@ -1,4 +1,5 @@
 ---
+image: "cover.png"
 title: "HP制作代行「Clavis Studio」をはじめました【ポートフォリオ公開】"
 date: "2026-06-11"
 tags: ["副業", "HP制作", "Web制作", "AI活用", "フリーランス"]

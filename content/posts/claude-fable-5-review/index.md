@@ -1,4 +1,5 @@
 ---
+image: "cover.png"
 title: "Claudeの最新モデル「Fable 5」が登場。“仕事を預けられるAI”になっていた"
 date: "2026-06-11"
 tags: ["AI活用", "Claude", "副業", "仕事効率化"]
