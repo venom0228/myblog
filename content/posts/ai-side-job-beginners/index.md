@@ -120,7 +120,7 @@ AIを使ってホームページを制作し、飲食店・美容サロン・士
 
 デザインの知識がなくてもAIがコードを生成してくれます。ポートフォリオさえ作れば実績ゼロから始められます。
 
-👉 [HP制作代行のポートフォリオ例（Clavis Studio）](https://5588sgfh337755jjg113399-cloud.github.io/clavis-studio/)
+👉 [HP制作代行のポートフォリオ例（Clavis Studio）](https://16bit-chill.github.io/clavis-studio/)
 
 ---
 

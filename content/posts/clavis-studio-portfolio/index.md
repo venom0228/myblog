@@ -11,7 +11,7 @@ AIを使った副業をいろいろ試してきた中で、新しくHP制作代�
 
 その名も **Clavis Studio**。ポートフォリオサイトを公開しています。
 
-👉 [Clavis Studio ポートフォリオを見る](https://5588sgfh337755jjg113399-cloud.github.io/clavis-studio/)
+👉 [Clavis Studio ポートフォリオを見る](https://16bit-chill.github.io/clavis-studio/)
 
 ---
 
@@ -56,4 +56,4 @@ AIを活用することで、品質を落とさずにスピードとコストを
 
 まずはお気軽にご相談ください。
 
-👉 [無料相談はこちら（Clavis Studio）](https://5588sgfh337755jjg113399-cloud.github.io/clavis-studio/#contact)
+👉 [無料相談はこちら（Clavis Studio）](https://16bit-chill.github.io/clavis-studio/#contact)
