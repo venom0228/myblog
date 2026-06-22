@@ -1,5 +1,5 @@
 ---
-image: "cover.jpg"
+image: "cover.png"
 title: "コードが書けない私が、AIと「動くアート作品」を4つ作った話"
 date: "2026-06-18"
 tags: ["AI活用", "Claude", "クリエイティブ", "ものづくり"]
