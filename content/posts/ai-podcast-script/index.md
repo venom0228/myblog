@@ -81,5 +81,5 @@ AIを使えばポッドキャストの台本作成が格段に楽になります
 「毎回ゼロから考える」ではなく「AIに骨格を作ってもらって、自分で肉付けする」スタイルが続けやすいです。
 
 関連記事：
-- [AIでYouTube台本を作る方法](/p/ai-youtube-script/)
-- [ElevenLabsで始めるAI音声副業](/p/elevenlabs-voice-side-job/)
+- [AIでYouTube台本を作る方法](/posts/ai-youtube-script/)
+- [ElevenLabsで始めるAI音声副業](/posts/elevenlabs-voice-side-job/)

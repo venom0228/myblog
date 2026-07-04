@@ -105,5 +105,5 @@ AI副業で成功している人は、特別なスキルを持っているわけ
 「やらかしながら継続している」人が最終的に稼げるようになっています。失敗を怖がらず、小さく始めることが一番の近道です。
 
 関連記事：
-- [AI副業初心者ガイド](/p/ai-side-job-beginners/)
-- [AI副業3ヶ月レポート](/p/ai-side-job-3months/)
+- [AI副業初心者ガイド](/posts/ai-side-job-beginners/)
+- [AI副業3ヶ月レポート](/posts/ai-side-job-3months/)

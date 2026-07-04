@@ -19,10 +19,15 @@ buildFuture = true
   mainSections = ["posts"]
   description = "忙しい毎日のすき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信。"
   author = "Makoto"
+  favicon = "/favicon.png"
 
   [params.sidebar]
-    emoji = "🤖"
     subtitle = "すき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信中。"
+    avatar = "img/avatar.png"
+
+  [params.footer]
+    since = 2026
+    customText = "AI × すき間時間で、コツコツ育てるブログ"
 
   [params.article]
     readingTime = true
@@ -50,11 +55,29 @@ buildFuture = true
     name = "ホーム"
     url = "/"
     weight = 1
+    [menu.main.params]
+      icon = "home"
   [[menu.main]]
     name = "記事一覧"
     url = "/posts/"
     weight = 2
+    [menu.main.params]
+      icon = "categories"
+  [[menu.main]]
+    name = "アーカイブ"
+    url = "/archives/"
+    weight = 3
+    [menu.main.params]
+      icon = "archives"
+  [[menu.main]]
+    name = "検索"
+    url = "/search/"
+    weight = 4
+    [menu.main.params]
+      icon = "search"
   [[menu.main]]
     name = "このブログについて"
     url = "/about/"
-    weight = 3
+    weight = 5
+    [menu.main.params]
+      icon = "user"

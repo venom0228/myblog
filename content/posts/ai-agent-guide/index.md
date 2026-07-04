@@ -68,5 +68,5 @@ AIエージェントは「作業を自動化してくれるAI」です。副業�
 まずはChatGPTやClaudeの「複数ステップのタスクを一度に頼む」という使い方から始めてみてください。
 
 関連記事：
-- [Google AI Studio活用ガイド](/p/google-ai-studio-guide/)
-- [ChatGPT GPTsガイド](/p/chatgpt-gpts-guide/)
+- [Google AI Studio活用ガイド](/posts/google-ai-studio-guide/)
+- [ChatGPT GPTsガイド](/posts/chatgpt-gpts-guide/)

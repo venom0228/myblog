@@ -68,5 +68,5 @@ o3は「すべての場面で使う」ものではなく、**難しい問題を�
 日常の副業作業はGPT-4oで十分。でも「これはちゃんと考えてほしい」という場面でo3を使うと、明らかに質が違います。
 
 関連記事：
-- [ChatGPT GPTsガイド](/p/chatgpt-gpts-guide/)
-- [Claude vs ChatGPT 比較](/p/chatgpt-vs-claude/)
+- [ChatGPT GPTsガイド](/posts/chatgpt-gpts-guide/)
+- [Claude vs ChatGPT 比較](/posts/chatgpt-vs-claude/)

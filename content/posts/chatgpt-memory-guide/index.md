@@ -81,5 +81,5 @@ ChatGPTが会話をまたいで情報を記憶する機能です。
 まずはメモリをオンにして、ブログのテーマや自分のスタイルを覚えさせるところから始めてみてください。
 
 関連記事：
-- [ChatGPTカスタム指示の使い方](/p/chatgpt-custom-instructions/)
-- [ChatGPTの使い方入門](/p/chatgpt-start-guide/)
+- [ChatGPTカスタム指示の使い方](/posts/chatgpt-custom-instructions/)
+- [ChatGPTの使い方入門](/posts/chatgpt-start-guide/)

@@ -2,9 +2,6 @@
 title: "このブログについて"
 date: "2026-04-02"
 url: "/about/"
-menu:
-    main:
-        weight: 3
 ---
 
 ## ながら副業AIについて

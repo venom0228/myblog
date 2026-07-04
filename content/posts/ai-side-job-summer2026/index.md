@@ -42,7 +42,7 @@ AIで書いた原稿をKindleで出版。一度出版すれば、ずっとロイ
 - 1冊2週間〜1ヶ月で完成
 - 価格は99円〜設定自由
 
-**始め方：** [KDP出版ガイド](/p/kdp-ai-publishing-guide/)を参照
+**始め方：** [KDP出版ガイド](/posts/kdp-ai-publishing-guide/)を参照
 
 ### ③ AI画像生成素材販売
 
@@ -90,8 +90,8 @@ AIを使って動画の台本・サムネイル・概要欄を効率化。ブロ
 完璧なスタートを目指すより、「どれか1つ今日から始める」ことが大事です。
 
 関連記事：
-- [AI副業初心者ガイド](/p/ai-side-job-beginners/)
-- [AI副業3ヶ月レポート](/p/ai-side-job-3months/)
+- [AI副業初心者ガイド](/posts/ai-side-job-beginners/)
+- [AI副業3ヶ月レポート](/posts/ai-side-job-3months/)
 
 ---
 

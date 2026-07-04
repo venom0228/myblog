@@ -86,5 +86,5 @@ ChatGPTに「自分についての情報」と「どんな回答スタイルが�
 5分で設定できるので、まだ使っていない方はすぐに試してみてください。
 
 関連記事：
-- [ChatGPTの使い方入門](/p/chatgpt-start-guide/)
-- [ChatGPT GPTsガイド](/p/chatgpt-gpts-guide/)
+- [ChatGPTの使い方入門](/posts/chatgpt-start-guide/)
+- [ChatGPT GPTsガイド](/posts/chatgpt-gpts-guide/)

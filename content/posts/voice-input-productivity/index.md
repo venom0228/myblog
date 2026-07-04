@@ -74,8 +74,8 @@ AIが作った下書きを確認・修正して公開するだけ。
 まずはスマホの音声入力でメモを残すところから始めてみてください。
 
 関連記事：
-- [AIブログ執筆ワークフロー](/p/ai-blog-writing-workflow/)
-- [AI副業の始め方【初心者向け】](/p/ai-side-job-beginners/)
+- [AIブログ執筆ワークフロー](/posts/ai-blog-writing-workflow/)
+- [AI副業の始め方【初心者向け】](/posts/ai-side-job-beginners/)
 
 ---
 

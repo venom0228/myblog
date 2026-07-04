@@ -80,8 +80,8 @@ AIを使えばサムネイル作成が「センスなし・デザインスキル
 まずはCanvaのテンプレートを使って、自分のブログやSNSのアイキャッチを作るところから始めてみてください。
 
 関連記事：
-- [Canva AIでデザイン副業](/p/canva-ai-design/)
-- [Ideogramで無料高品質画像を作る](/p/ideogram-ai-image/)
+- [Canva AIでデザイン副業](/posts/canva-ai-design/)
+- [Ideogramで無料高品質画像を作る](/posts/ideogram-ai-image/)
 
 ---
 

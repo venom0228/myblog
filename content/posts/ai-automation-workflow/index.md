@@ -74,8 +74,8 @@ image = "cover.png"
 AIで型を作り、繰り返し作業を自動化する。この仕組みを作ることが、副業収入を伸ばす最短ルートです。
 
 関連記事：
-- [AIブログ執筆ワークフロー](/p/ai-blog-writing-workflow/)
-- [AI仕事効率化のコツ](/p/ai-work-efficiency-tips/)
+- [AIブログ執筆ワークフロー](/posts/ai-blog-writing-workflow/)
+- [AI仕事効率化のコツ](/posts/ai-work-efficiency-tips/)
 
 ---
 

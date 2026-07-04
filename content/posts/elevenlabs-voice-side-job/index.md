@@ -64,5 +64,5 @@ ElevenLabsは「声を使わずに音声副業を始めたい」という人に�
 まずは無料プランで触ってみて、案件が取れたら有料へ移行するのがスムーズです。
 
 関連記事：
-- [ChatGPT画像生成で副業する方法](/p/chatgpt-image-guide/)
-- [AIライティング副業の始め方](/p/ai-writing-tips/)
+- [ChatGPT画像生成で副業する方法](/posts/chatgpt-image-guide/)
+- [AIライティング副業の始め方](/posts/ai-writing-tips/)

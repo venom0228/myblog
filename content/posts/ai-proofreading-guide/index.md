@@ -75,8 +75,8 @@ AI校正ツールを使いこなすと、副業ライターとしての「信頼
 納品前の最終チェックにAIを挟むだけで、クオリティが格段に上がります。まずはChatGPTで試してみてください。
 
 関連記事：
-- [AIライティング副業の始め方](/p/ai-writing-tips/)
-- [AIブログ執筆ワークフロー](/p/ai-blog-writing-workflow/)
+- [AIライティング副業の始め方](/posts/ai-writing-tips/)
+- [AIブログ執筆ワークフロー](/posts/ai-blog-writing-workflow/)
 
 ---
 

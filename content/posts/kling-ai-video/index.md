@@ -76,5 +76,5 @@ Kling AIは「長い動画が作れる」点で他ツールと差別化されて
 まずは無料プランで試して、クオリティを確かめてみてください。動画副業の選択肢が確実に広がります。
 
 関連記事：
-- [RunwayでAI動画副業を始める方法](/p/runway-ai-video-guide/)
-- [Luma AIで動画生成](/p/luma-ai-video-guide/)
+- [RunwayでAI動画副業を始める方法](/posts/runway-ai-video-guide/)
+- [Luma AIで動画生成](/posts/luma-ai-video-guide/)

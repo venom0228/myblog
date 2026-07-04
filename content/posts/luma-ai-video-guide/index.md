@@ -87,5 +87,5 @@ Luma AIは「動きのリアルさ」が魅力の動画生成AI。クライア�
 無料プランで月30本作れるので、まずは試してみてください。
 
 関連記事：
-- [RunwayでAI動画副業を始める方法](/p/runway-ai-video-guide/)
-- [Sunoで作るBGM副業](/p/suno-bgm-youtube/)
+- [RunwayでAI動画副業を始める方法](/posts/runway-ai-video-guide/)
+- [Sunoで作るBGM副業](/posts/suno-bgm-youtube/)

@@ -73,5 +73,5 @@ ChatGPTに「こんな動画のRunwayプロンプトを英語で書いて」と�
 RunwayはAI動画副業への入り口として最適なツールです。最初は無料プランで感覚をつかんで、案件が取れたら有料に移行しましょう。
 
 関連記事：
-- [Sunoで作るBGM副業](/p/suno-bgm-youtube/)
-- [Canva AIでデザイン副業](/p/canva-ai-design/)
+- [Sunoで作るBGM副業](/posts/suno-bgm-youtube/)
+- [Canva AIでデザイン副業](/posts/canva-ai-design/)

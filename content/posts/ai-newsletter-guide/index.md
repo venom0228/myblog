@@ -86,5 +86,5 @@ SNSのアルゴリズムに左右されず、読者に直接届けられる。�
 AIで効率化すれば、週1時間の作業で継続できます。noteやSubstackで今すぐ始められるので、ぜひ試してみてください。
 
 関連記事：
-- [AI×Xで発信を効率化](/p/x-twitter-ai-strategy/)
-- [AIブログ執筆ワークフロー](/p/ai-blog-writing-workflow/)
+- [AI×Xで発信を効率化](/posts/x-twitter-ai-strategy/)
+- [AIブログ執筆ワークフロー](/posts/ai-blog-writing-workflow/)

@@ -86,5 +86,5 @@ FiverrとAIツールの組み合わせは、英語力なしで海外収入を得
 円安の今、ドル建ての収入は特に有利。まずはアカウントを作るところから始めてみてください。
 
 関連記事：
-- [クラウドワークスで最初の仕事を取る方法](/p/crowdworks-first-job/)
-- [AIで副業を始める初心者ガイド](/p/ai-side-job-beginners/)
+- [クラウドワークスで最初の仕事を取る方法](/posts/crowdworks-first-job/)
+- [AIで副業を始める初心者ガイド](/posts/ai-side-job-beginners/)

@@ -78,5 +78,5 @@ AIを使えばX発信の「しんどさ」が大幅に軽減されます。毎�
 まずはChatGPTでネタ出しだけ試してみてください。思った以上に使えます。
 
 関連記事：
-- [AIでSNS文章を効率化する方法](/p/ai-sns-writing/)
-- [AIブログ執筆ワークフロー](/p/ai-blog-writing-workflow/)
+- [AIでSNS文章を効率化する方法](/posts/ai-sns-writing/)
+- [AIブログ執筆ワークフロー](/posts/ai-blog-writing-workflow/)

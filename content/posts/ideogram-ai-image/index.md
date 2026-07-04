@@ -75,5 +75,5 @@ PIXTAやAdobe Stockなどへの素材投稿（商用利用が許可されるプ�
 Ideogramは「無料でそこそこ使える」画像生成AIとして、ブログ運営や副業の強い味方になります。特に文字入りの画像を作りたい場合は、Ideogramがダントツでおすすめです。
 
 関連記事：
-- [ChatGPT画像生成ガイド](/p/chatgpt-image-guide/)
-- [Midjourneyで画像副業を始める方法](/p/midjourney-beginner-guide/)
+- [ChatGPT画像生成ガイド](/posts/chatgpt-image-guide/)
+- [Midjourneyで画像副業を始める方法](/posts/midjourney-beginner-guide/)

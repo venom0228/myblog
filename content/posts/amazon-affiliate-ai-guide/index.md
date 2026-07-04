@@ -75,5 +75,5 @@ Amazonアソシエイトは、自分のブログにAmazonの商品リンクを�
 AIを使うと、アフィリエイト記事作成の時間が半分以下になります。ただし「AIが書いた内容をそのまま使う」のではなく、自分の実体験や視点を加えることが、読まれる記事につながります。
 
 関連記事：
-- [AIライティング副業の始め方](/p/ai-writing-tips/)
-- [KDP（電子書籍）出版ガイド](/p/kdp-ai-publishing-guide/)
+- [AIライティング副業の始め方](/posts/ai-writing-tips/)
+- [KDP（電子書籍）出版ガイド](/posts/kdp-ai-publishing-guide/)
