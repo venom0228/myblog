@@ -1,69 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SNS on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/sns/</link><description>Recent content in SNS on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 14 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/sns/index.xml" rel="self" type="application/rss+xml"/><item><title>AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</link><pubDate>Thu, 14 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/cover.png" alt="Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】" /&gt;&lt;p&gt;「SNSを毎日更新したいけど、ネタと時間がない」&lt;/p&gt;
-&lt;p&gt;ブログと並行してSNSも運営しようとすると、投稿作成に時間がかかりすぎる問題が出てきます。AIを使い始めてからこの問題が大幅に解消されました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiでsns投稿を作る流れ"&gt;AIでSNS投稿を作る流れ
-&lt;/h2&gt;&lt;p&gt;私が使っているシンプルな流れです：&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;①テーマ・ネタを決める（5分）
-　　↓
-②AIに下書きを生成させる（2〜3分）
-　　↓
-③自分でトーンを調整して投稿（5分）
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1投稿あたり10〜15分で仕上がります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="x旧twitter向けのプロンプト"&gt;X（旧Twitter）向けのプロンプト
-&lt;/h2&gt;&lt;h3 id="情報発信ツイートを作る"&gt;情報発信ツイートを作る
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のテーマについて、Xに投稿するツイートを3パターン作ってください。
-・テーマ：[テーマ]
-・対象：[ターゲット読者]
-・文字数：140字以内
-・口調：親しみやすく、断定的すぎない
-・最後に読者への問いかけを入れる
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="ブログ記事の告知ツイートを作る"&gt;ブログ記事の告知ツイートを作る
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下のブログ記事を紹介するツイートを2パターン作成してください。
-・記事タイトル：[タイトル]
-・記事の概要：[2〜3行で内容を説明]
-・文字数：140字以内（URLを除く）
-・リンクを踏みたくなる一言を入れる
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="instagram向けのプロンプト"&gt;Instagram向けのプロンプト
-&lt;/h2&gt;&lt;h3 id="キャプション本文を作る"&gt;キャプション（本文）を作る
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;Instagramのキャプションを作成してください。
-・テーマ：[テーマ]
-・投稿する画像のイメージ：[どんな画像か]
-・文字数：200〜400字
-・改行を多用して読みやすく
-・最後にハッシュタグを10個
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="1週間分をまとめて作る"&gt;1週間分をまとめて作る
-&lt;/h2&gt;&lt;p&gt;毎日考えるより、週に1回まとめて作る「バッチ処理」がおすすめです。&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;私のブログのSNS投稿を、今週1週間分（7日分）提案してください。
-ブログテーマ：AIツール活用・副業
-各投稿：X向け（140字以内）
-月〜日で投稿テーマが重ならないように工夫してください。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一度に7日分の素材が揃うので、後は微調整して予約投稿するだけです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="投稿のトーンを自分らしくする"&gt;投稿のトーンを自分らしくする
-&lt;/h2&gt;&lt;p&gt;AIが作った下書きは少し硬い場合があります。以下の調整を加えると「自分らしさ」が出やすくなります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;語尾を「〜です」から「〜だよ」「〜でした」などに変える&lt;/li&gt;
-&lt;li&gt;自分の実体験を1文追加する&lt;/li&gt;
-&lt;li&gt;絵文字を適宜追加する&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;完全な原文よりも「たたき台を自分でアレンジする」のがポイントです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="使うaiのおすすめ"&gt;使うAIのおすすめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：バリエーションを複数出してくれるのが得意&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt;：文章が自然で、読みやすいトーンになりやすい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Claudeで下書きを作ってChatGPTでバリエーションを増やすのが好きな流れです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;AIを使えば、SNS投稿の下書きを10分以下で作れます。「毎日投稿しなければ」というプレッシャーも減って、SNS運営が楽になりました。まず次回の投稿1本だけ、AIに下書きを作ってもらってみてください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>SNS on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/sns/</link>
+        <description>Recent content in SNS on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/sns/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI×X（Twitter）で発信を効率化｜フォロワーを増やしながら副業収入も</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/x-twitter-ai-strategy/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/x-twitter-ai-strategy/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/x-twitter-ai-strategy/cover.png&#34; alt=&#34;Featured image of post AI×X（Twitter）で発信を効率化｜フォロワーを増やしながら副業収入も&#34; /&gt;&lt;p&gt;「X（Twitter）で発信したいけど、毎日ネタを考えるのがしんどい」&lt;/p&gt;&#xA;&lt;p&gt;わかります。副業ブロガーにとってSNS発信は大事とわかっていても、時間と労力がかかりすぎる。&lt;/p&gt;&#xA;&lt;p&gt;そこで&lt;strong&gt;AIを使ってX発信を効率化する方法&lt;/strong&gt;をまとめました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;aiでできるx発信の効率化&#34;&gt;AIでできるX発信の効率化&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-投稿ネタ出し&#34;&gt;① 投稿ネタ出し&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;ChatGPTに「AIと副業について、X（Twitter）でバズりやすい投稿ネタを10個出して」と頼むと、すぐにアイデアが出てきます。&lt;/p&gt;&#xA;&lt;p&gt;プロンプト例：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「AIを使った副業」というテーマで、&#xD;&#xA;Xで共感・拡散されやすいツイートのネタを10個出してください。&#xD;&#xA;ターゲットは30〜40代の副業初心者です。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-文章の作成と最適化&#34;&gt;② 文章の作成と最適化&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;ネタが決まったら、ChatGPTに文章化してもらいます。&lt;/p&gt;&#xA;&lt;p&gt;「〇〇について、140字でXの投稿文を書いて。絵文字あり。」と指定すると、Xに適した文体で書いてくれます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-スレッド長文の作成&#34;&gt;③ スレッド（長文）の作成&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「AIで月5万円稼いだ方法」のような&lt;strong&gt;スレッド形式の投稿&lt;/strong&gt;もAIで一気に作れます。&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「AI副業で月5万円達成した方法」について、&#xD;&#xA;Xのスレッド形式（5投稿）で書いてください。&#xD;&#xA;1投稿目はフック、最後はブログへの誘導を入れてください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-ブログ記事x投稿への変換&#34;&gt;④ ブログ記事→X投稿への変換&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;書いたブログ記事をコピーして、「これをX用の投稿（スレッド形式）に変換して」と頼むだけで、記事の内容をX向けに再利用できます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;x発信とブログの連携&#34;&gt;X発信とブログの連携&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;X → ブログへの流入を狙うには：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Xで「続きはブログで」と誘導する&lt;/li&gt;&#xA;&lt;li&gt;プロフィールにブログURLを記載&lt;/li&gt;&#xA;&lt;li&gt;ブログ更新のたびにXで告知&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;この流れを作ると、XのフォロワーがブログのPVにつながります。&lt;/p&gt;&#xA;&lt;h2 id=&#34;実際のワークフロー&#34;&gt;実際のワークフロー&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;ChatGPTで今週の投稿ネタ10個を生成（10分）&lt;/li&gt;&#xA;&lt;li&gt;各ネタの投稿文を作成（15分）&lt;/li&gt;&#xA;&lt;li&gt;Xに下書き保存または予約投稿（5分）&lt;/li&gt;&#xA;&lt;li&gt;ブログ更新時にXで告知（5分）&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;週1回・30分の作業でX運用が回せます。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIを使えばX発信の「しんどさ」が大幅に軽減されます。毎日ゼロから考えなくていい、というだけで継続しやすくなります。&lt;/p&gt;&#xA;&lt;p&gt;まずはChatGPTでネタ出しだけ試してみてください。思った以上に使えます。&lt;/p&gt;&#xA;&lt;p&gt;関連記事：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/&#34; &gt;AIでSNS文章を効率化する方法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIブログ執筆ワークフロー&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</link>
+            <pubDate>Thu, 14 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-sns-writing/cover.png&#34; alt=&#34;Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】&#34; /&gt;&lt;p&gt;「SNSを毎日更新したいけど、ネタと時間がない」&lt;/p&gt;&#xA;&lt;p&gt;ブログと並行してSNSも運営しようとすると、投稿作成に時間がかかりすぎる問題が出てきます。AIを使い始めてからこの問題が大幅に解消されました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiでsns投稿を作る流れ&#34;&gt;AIでSNS投稿を作る流れ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;私が使っているシンプルな流れです：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;①テーマ・ネタを決める（5分）&#xD;&#xA;　　↓&#xD;&#xA;②AIに下書きを生成させる（2〜3分）&#xD;&#xA;　　↓&#xD;&#xA;③自分でトーンを調整して投稿（5分）&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1投稿あたり10〜15分で仕上がります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;x旧twitter向けのプロンプト&#34;&gt;X（旧Twitter）向けのプロンプト&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;情報発信ツイートを作る&#34;&gt;情報発信ツイートを作る&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;以下のテーマについて、Xに投稿するツイートを3パターン作ってください。&#xD;&#xA;・テーマ：[テーマ]&#xD;&#xA;・対象：[ターゲット読者]&#xD;&#xA;・文字数：140字以内&#xD;&#xA;・口調：親しみやすく、断定的すぎない&#xD;&#xA;・最後に読者への問いかけを入れる&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;ブログ記事の告知ツイートを作る&#34;&gt;ブログ記事の告知ツイートを作る&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;以下のブログ記事を紹介するツイートを2パターン作成してください。&#xD;&#xA;・記事タイトル：[タイトル]&#xD;&#xA;・記事の概要：[2〜3行で内容を説明]&#xD;&#xA;・文字数：140字以内（URLを除く）&#xD;&#xA;・リンクを踏みたくなる一言を入れる&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;instagram向けのプロンプト&#34;&gt;Instagram向けのプロンプト&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;キャプション本文を作る&#34;&gt;キャプション（本文）を作る&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Instagramのキャプションを作成してください。&#xD;&#xA;・テーマ：[テーマ]&#xD;&#xA;・投稿する画像のイメージ：[どんな画像か]&#xD;&#xA;・文字数：200〜400字&#xD;&#xA;・改行を多用して読みやすく&#xD;&#xA;・最後にハッシュタグを10個&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1週間分をまとめて作る&#34;&gt;1週間分をまとめて作る&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;毎日考えるより、週に1回まとめて作る「バッチ処理」がおすすめです。&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;私のブログのSNS投稿を、今週1週間分（7日分）提案してください。&#xD;&#xA;ブログテーマ：AIツール活用・副業&#xD;&#xA;各投稿：X向け（140字以内）&#xD;&#xA;月〜日で投稿テーマが重ならないように工夫してください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一度に7日分の素材が揃うので、後は微調整して予約投稿するだけです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;投稿のトーンを自分らしくする&#34;&gt;投稿のトーンを自分らしくする&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIが作った下書きは少し硬い場合があります。以下の調整を加えると「自分らしさ」が出やすくなります。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;語尾を「〜です」から「〜だよ」「〜でした」などに変える&lt;/li&gt;&#xA;&lt;li&gt;自分の実体験を1文追加する&lt;/li&gt;&#xA;&lt;li&gt;絵文字を適宜追加する&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;完全な原文よりも「たたき台を自分でアレンジする」のがポイントです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;使うaiのおすすめ&#34;&gt;使うAIのおすすめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：バリエーションを複数出してくれるのが得意&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Claude&lt;/strong&gt;：文章が自然で、読みやすいトーンになりやすい&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Claudeで下書きを作ってChatGPTでバリエーションを増やすのが好きな流れです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIを使えば、SNS投稿の下書きを10分以下で作れます。「毎日投稿しなければ」というプレッシャーも減って、SNS運営が楽になりました。まず次回の投稿1本だけ、AIに下書きを作ってもらってみてください。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/&#34; &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/&#34; &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

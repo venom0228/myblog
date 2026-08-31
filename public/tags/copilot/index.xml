@@ -1,78 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Copilot on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/copilot/</link><description>Recent content in Copilot on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 21 Apr 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/copilot/index.xml" rel="self" type="application/rss+xml"/><item><title>Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</link><pubDate>Tue, 21 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/cover.png" alt="Featured image of post Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想" /&gt;&lt;p&gt;「CopilotってChatGPTと同じじゃないの？」&lt;/p&gt;
-&lt;p&gt;実は中身はほぼ同じです。でも使い勝手には違いがあります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="microsoft-copilotとは"&gt;Microsoft Copilotとは？
-&lt;/h2&gt;&lt;p&gt;MicrosoftがOpenAIと提携して作ったAIアシスタントです。WindowsやEdgeブラウザに標準搭載されています。&lt;/p&gt;
-&lt;p&gt;ベースはGPT-4と同じ技術なので、会話の質はChatGPTとほぼ同等です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="chatgptとの違い"&gt;ChatGPTとの違い
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;th&gt;Copilot&lt;/th&gt;
- &lt;th&gt;ChatGPT&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;料金&lt;/td&gt;
- &lt;td&gt;基本無料&lt;/td&gt;
- &lt;td&gt;無料（制限あり）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;最新情報&lt;/td&gt;
- &lt;td&gt;Web検索できる&lt;/td&gt;
- &lt;td&gt;有料版のみ&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;画像生成&lt;/td&gt;
- &lt;td&gt;無料でできる&lt;/td&gt;
- &lt;td&gt;有料版のみ&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;日本語対応&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Windowsとの連携&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;td&gt;△&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id="copilotが特に便利な場面"&gt;Copilotが特に便利な場面
-&lt;/h2&gt;&lt;h3 id="無料で画像生成できる"&gt;無料で画像生成できる
-&lt;/h3&gt;&lt;p&gt;Copilotでは「DALL-E 3」という高品質な画像生成AIが無料で使えます。ChatGPTでは有料プランが必要な機能です。&lt;/p&gt;
-&lt;h3 id="最新情報を検索してくれる"&gt;最新情報を検索してくれる
-&lt;/h3&gt;&lt;p&gt;「今日のニュース」「最新の〇〇について」といった質問にも答えられます。無料でWeb検索機能が使えるのはCopilotの強みです。&lt;/p&gt;
-&lt;h3 id="windowsに統合されている"&gt;Windowsに統合されている
-&lt;/h3&gt;&lt;p&gt;Windows 11ではタスクバーからすぐ呼び出せます。別タブを開く手間がありません。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="正直な感想"&gt;正直な感想
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ChatGPTの代わりになるか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;→ 軽い用途なら十分なれます。&lt;/p&gt;
-&lt;p&gt;ただし、長い文章を一緒に作り込むような作業ではChatGPTやClaudeのほうが使いやすいと感じました。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;おすすめの使い方&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;無料で画像生成したい → Copilot&lt;/li&gt;
-&lt;li&gt;長い文章を書きたい → Claude&lt;/li&gt;
-&lt;li&gt;情報リサーチ → どちらでも&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;無料で使えて機能は十分&lt;/li&gt;
-&lt;li&gt;画像生成・Web検索が無料でできるのが強み&lt;/li&gt;
-&lt;li&gt;本格的な文章作成はChatGPT・Claudeが上&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;まずはCopilotを試してみて、物足りなくなったらChatGPT有料版を検討するのがおすすめです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/" &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Copilot on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/copilot/</link>
+        <description>Recent content in Copilot on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Tue, 21 Apr 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/copilot/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</link>
+            <pubDate>Tue, 21 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/cover.png&#34; alt=&#34;Featured image of post Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想&#34; /&gt;&lt;p&gt;「CopilotってChatGPTと同じじゃないの？」&lt;/p&gt;&#xA;&lt;p&gt;実は中身はほぼ同じです。でも使い勝手には違いがあります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;microsoft-copilotとは&#34;&gt;Microsoft Copilotとは？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;MicrosoftがOpenAIと提携して作ったAIアシスタントです。WindowsやEdgeブラウザに標準搭載されています。&lt;/p&gt;&#xA;&lt;p&gt;ベースはGPT-4と同じ技術なので、会話の質はChatGPTとほぼ同等です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;chatgptとの違い&#34;&gt;ChatGPTとの違い&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Copilot&lt;/th&gt;&#xA;          &lt;th&gt;ChatGPT&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;料金&lt;/td&gt;&#xA;          &lt;td&gt;基本無料&lt;/td&gt;&#xA;          &lt;td&gt;無料（制限あり）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;最新情報&lt;/td&gt;&#xA;          &lt;td&gt;Web検索できる&lt;/td&gt;&#xA;          &lt;td&gt;有料版のみ&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;画像生成&lt;/td&gt;&#xA;          &lt;td&gt;無料でできる&lt;/td&gt;&#xA;          &lt;td&gt;有料版のみ&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;日本語対応&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Windowsとの連携&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;          &lt;td&gt;△&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;copilotが特に便利な場面&#34;&gt;Copilotが特に便利な場面&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;無料で画像生成できる&#34;&gt;無料で画像生成できる&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Copilotでは「DALL-E 3」という高品質な画像生成AIが無料で使えます。ChatGPTでは有料プランが必要な機能です。&lt;/p&gt;&#xA;&lt;h3 id=&#34;最新情報を検索してくれる&#34;&gt;最新情報を検索してくれる&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「今日のニュース」「最新の〇〇について」といった質問にも答えられます。無料でWeb検索機能が使えるのはCopilotの強みです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;windowsに統合されている&#34;&gt;Windowsに統合されている&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Windows 11ではタスクバーからすぐ呼び出せます。別タブを開く手間がありません。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;正直な感想&#34;&gt;正直な感想&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ChatGPTの代わりになるか？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;→ 軽い用途なら十分なれます。&lt;/p&gt;&#xA;&lt;p&gt;ただし、長い文章を一緒に作り込むような作業ではChatGPTやClaudeのほうが使いやすいと感じました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;おすすめの使い方&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;無料で画像生成したい → Copilot&lt;/li&gt;&#xA;&lt;li&gt;長い文章を書きたい → Claude&lt;/li&gt;&#xA;&lt;li&gt;情報リサーチ → どちらでも&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;無料で使えて機能は十分&lt;/li&gt;&#xA;&lt;li&gt;画像生成・Web検索が無料でできるのが強み&lt;/li&gt;&#xA;&lt;li&gt;本格的な文章作成はChatGPT・Claudeが上&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;まずはCopilotを試してみて、物足りなくなったらChatGPT有料版を検討するのがおすすめです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/&#34; &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-vs-claude/&#34; &gt;ChatGPTとClaudeを使い比べてみた【40代が語る正直な感想】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/&#34; &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

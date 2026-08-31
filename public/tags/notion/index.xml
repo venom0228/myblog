@@ -1,115 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notion on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/notion/</link><description>Recent content in Notion on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 09 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/notion/index.xml" rel="self" type="application/rss+xml"/><item><title>うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</link><pubDate>Sat, 09 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/cover.png" alt="Featured image of post うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】" /&gt;&lt;p&gt;「あの時使ったプロンプト、どこに書いたっけ…」&lt;/p&gt;
-&lt;p&gt;AIを使い込むほど、こういう場面が増えてきます。うまくいったプロンプトをその場で終わらせてしまうのはもったいない。今回は、プロンプトの保存・管理方法をまとめます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="なぜプロンプトを管理するのか"&gt;なぜプロンプトを管理するのか
-&lt;/h2&gt;&lt;p&gt;プロンプトを記録・管理することには3つのメリットがあります。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;再利用できる&lt;/strong&gt; → 毎回ゼロから考えなくていい&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;改善できる&lt;/strong&gt; → 使うたびに精度を上げていける&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;共有できる&lt;/strong&gt; → チームや読者に配布できる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;プロンプトは「資産」です。書き捨てにするのはもったいない。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="私が使っているnotionでの管理方法"&gt;私が使っているNotionでの管理方法
-&lt;/h2&gt;&lt;h3 id="データベースで管理する"&gt;データベースで管理する
-&lt;/h3&gt;&lt;p&gt;Notionのデータベース機能を使って、プロンプト集を作っています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;設定しているプロパティ：&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;プロパティ&lt;/th&gt;
- &lt;th&gt;内容&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;タイトル&lt;/td&gt;
- &lt;td&gt;プロンプトの用途（例：ブログ記事の見出し作成）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;AIツール&lt;/td&gt;
- &lt;td&gt;ChatGPT / Claude / Gemini&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;タグ&lt;/td&gt;
- &lt;td&gt;ブログ・ビジネス・学習・画像 など&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;評価&lt;/td&gt;
- &lt;td&gt;★1〜★5&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;最終更新日&lt;/td&gt;
- &lt;td&gt;日付&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id="実際のプロンプトはページ本文に書く"&gt;実際のプロンプトはページ本文に書く
-&lt;/h3&gt;&lt;p&gt;タイトルをクリックして開いたページに、実際のプロンプトを貼り付けます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;テンプレートの例：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;【用途】ブログ記事の見出し（H2）作成
-
-【プロンプト】
-「{テーマ}」についてのブログ記事の見出しを5つ作ってください。
-読者は初心者〜中級者。各見出しは20字以内で、
-読んでみたくなるものにしてください。
-
-【メモ】
-具体的なキーワードを{テーマ}に入れると精度が上がる。
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="notion以外の管理方法"&gt;Notion以外の管理方法
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;テキストファイルで管理する&lt;/strong&gt;
-シンプルな方法です。「prompts.txt」に用途ごとに貼り付けておきます。「### ブログ記事作成」などの見出しをつけると検索しやすくなります。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;スプレッドシートで管理する&lt;/strong&gt;
-ExcelやGoogle スプレッドシートで一覧管理。フィルタリングや並べ替えが便利です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="プロンプトを整理するコツ"&gt;プロンプトを整理するコツ
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「使ったら即保存」の習慣をつける&lt;/strong&gt;
-いいプロンプトが出たら、会話をコピーしてすぐに保存します。「後で整理しよう」は大体やりません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目的から名前をつける&lt;/strong&gt;
-「プロンプト1」ではなく、「メールの丁寧化」「記事の骨格作成」など、目的をそのままタイトルにします。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;月1回見直す&lt;/strong&gt;
-使わなくなったプロンプトは削除して、リストをスリムに保ちます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;プロンプトを管理する習慣をつけるだけで、AIの活用効率が大きく変わります。まずはシンプルにテキストファイル1枚から始めて、慣れてきたらNotionなどに移行するのがおすすめです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>NotionAIを使い始めたら、メモの質が上がった話</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</link><pubDate>Wed, 29 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/cover.png" alt="Featured image of post NotionAIを使い始めたら、メモの質が上がった話" /&gt;&lt;p&gt;「NotionってAI機能があるの？」&lt;/p&gt;
-&lt;p&gt;最近まで知りませんでした。使い始めたら、メモの質がガラッと変わったので紹介します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="notionaiとは"&gt;NotionAIとは？
-&lt;/h2&gt;&lt;p&gt;Notionはメモ・タスク管理・ドキュメント作成ができるオールインワンツールです。そこにAI機能が追加されて、文章の生成・要約・翻訳などがNotionの中で完結するようになりました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="私がよく使う機能3つ"&gt;私がよく使う機能3つ
-&lt;/h2&gt;&lt;h3 id="1-文章の要約"&gt;1. 文章の要約
-&lt;/h3&gt;&lt;p&gt;長い記事や自分のメモを貼り付けて「要約して」と頼むだけで、ポイントをまとめてくれます。&lt;/p&gt;
-&lt;p&gt;読んだ本のメモを要約して保存しておくのが習慣になりました。&lt;/p&gt;
-&lt;h3 id="2-箇条書きを整える"&gt;2. 箇条書きを整える
-&lt;/h3&gt;&lt;p&gt;思いついたことをざっくり箇条書きにして、AIに「読みやすく整えて」と頼むとキレイな文章になります。&lt;/p&gt;
-&lt;p&gt;ブログ記事の下書きにも使えます。&lt;/p&gt;
-&lt;h3 id="3-翻訳"&gt;3. 翻訳
-&lt;/h3&gt;&lt;p&gt;英語の記事を貼り付けて「日本語に翻訳して」とすれば即日本語化。海外の情報収集がラクになりました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="料金は"&gt;料金は？
-&lt;/h2&gt;&lt;p&gt;NotionAIは月額$10（約1,500円）で使えます。Notionの無料プランにAIだけ追加することもできます。&lt;/p&gt;
-&lt;p&gt;毎日使うなら十分元が取れると感じています。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;メモ・要約・翻訳がNotionの中で完結する&lt;/li&gt;
-&lt;li&gt;ざっくりメモをAIが整えてくれる&lt;/li&gt;
-&lt;li&gt;月$10で使える&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;まずはNotionの無料版を試してみて、気に入ったらAIを追加するのがおすすめです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/" &gt;Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Notion on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/notion/</link>
+        <description>Recent content in Notion on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sat, 09 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/notion/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</link>
+            <pubDate>Sat, 09 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/cover.png&#34; alt=&#34;Featured image of post うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】&#34; /&gt;&lt;p&gt;「あの時使ったプロンプト、どこに書いたっけ…」&lt;/p&gt;&#xA;&lt;p&gt;AIを使い込むほど、こういう場面が増えてきます。うまくいったプロンプトをその場で終わらせてしまうのはもったいない。今回は、プロンプトの保存・管理方法をまとめます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;なぜプロンプトを管理するのか&#34;&gt;なぜプロンプトを管理するのか&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;プロンプトを記録・管理することには3つのメリットがあります。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;再利用できる&lt;/strong&gt; → 毎回ゼロから考えなくていい&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;改善できる&lt;/strong&gt; → 使うたびに精度を上げていける&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;共有できる&lt;/strong&gt; → チームや読者に配布できる&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;プロンプトは「資産」です。書き捨てにするのはもったいない。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;私が使っているnotionでの管理方法&#34;&gt;私が使っているNotionでの管理方法&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;データベースで管理する&#34;&gt;データベースで管理する&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Notionのデータベース機能を使って、プロンプト集を作っています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;設定しているプロパティ：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;プロパティ&lt;/th&gt;&#xA;          &lt;th&gt;内容&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;タイトル&lt;/td&gt;&#xA;          &lt;td&gt;プロンプトの用途（例：ブログ記事の見出し作成）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;AIツール&lt;/td&gt;&#xA;          &lt;td&gt;ChatGPT / Claude / Gemini&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;タグ&lt;/td&gt;&#xA;          &lt;td&gt;ブログ・ビジネス・学習・画像 など&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;評価&lt;/td&gt;&#xA;          &lt;td&gt;★1〜★5&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;最終更新日&lt;/td&gt;&#xA;          &lt;td&gt;日付&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;実際のプロンプトはページ本文に書く&#34;&gt;実際のプロンプトはページ本文に書く&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;タイトルをクリックして開いたページに、実際のプロンプトを貼り付けます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;テンプレートの例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;【用途】ブログ記事の見出し（H2）作成&#xD;&#xA;&#xD;&#xA;【プロンプト】&#xD;&#xA;「{テーマ}」についてのブログ記事の見出しを5つ作ってください。&#xD;&#xA;読者は初心者〜中級者。各見出しは20字以内で、&#xD;&#xA;読んでみたくなるものにしてください。&#xD;&#xA;&#xD;&#xA;【メモ】&#xD;&#xA;具体的なキーワードを{テーマ}に入れると精度が上がる。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;notion以外の管理方法&#34;&gt;Notion以外の管理方法&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;テキストファイルで管理する&lt;/strong&gt;&#xA;シンプルな方法です。「prompts.txt」に用途ごとに貼り付けておきます。「### ブログ記事作成」などの見出しをつけると検索しやすくなります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;スプレッドシートで管理する&lt;/strong&gt;&#xA;ExcelやGoogle スプレッドシートで一覧管理。フィルタリングや並べ替えが便利です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;プロンプトを整理するコツ&#34;&gt;プロンプトを整理するコツ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「使ったら即保存」の習慣をつける&lt;/strong&gt;&#xA;いいプロンプトが出たら、会話をコピーしてすぐに保存します。「後で整理しよう」は大体やりません。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;目的から名前をつける&lt;/strong&gt;&#xA;「プロンプト1」ではなく、「メールの丁寧化」「記事の骨格作成」など、目的をそのままタイトルにします。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;月1回見直す&lt;/strong&gt;&#xA;使わなくなったプロンプトは削除して、リストをスリムに保ちます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;プロンプトを管理する習慣をつけるだけで、AIの活用効率が大きく変わります。まずはシンプルにテキストファイル1枚から始めて、慣れてきたらNotionなどに移行するのがおすすめです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/&#34; &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/&#34; &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>NotionAIを使い始めたら、メモの質が上がった話</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</link>
+            <pubDate>Wed, 29 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/cover.png&#34; alt=&#34;Featured image of post NotionAIを使い始めたら、メモの質が上がった話&#34; /&gt;&lt;p&gt;「NotionってAI機能があるの？」&lt;/p&gt;&#xA;&lt;p&gt;最近まで知りませんでした。使い始めたら、メモの質がガラッと変わったので紹介します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;notionaiとは&#34;&gt;NotionAIとは？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;Notionはメモ・タスク管理・ドキュメント作成ができるオールインワンツールです。そこにAI機能が追加されて、文章の生成・要約・翻訳などがNotionの中で完結するようになりました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;私がよく使う機能3つ&#34;&gt;私がよく使う機能3つ&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;1-文章の要約&#34;&gt;1. 文章の要約&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;長い記事や自分のメモを貼り付けて「要約して」と頼むだけで、ポイントをまとめてくれます。&lt;/p&gt;&#xA;&lt;p&gt;読んだ本のメモを要約して保存しておくのが習慣になりました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-箇条書きを整える&#34;&gt;2. 箇条書きを整える&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;思いついたことをざっくり箇条書きにして、AIに「読みやすく整えて」と頼むとキレイな文章になります。&lt;/p&gt;&#xA;&lt;p&gt;ブログ記事の下書きにも使えます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-翻訳&#34;&gt;3. 翻訳&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;英語の記事を貼り付けて「日本語に翻訳して」とすれば即日本語化。海外の情報収集がラクになりました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;料金は&#34;&gt;料金は？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;NotionAIは月額$10（約1,500円）で使えます。Notionの無料プランにAIだけ追加することもできます。&lt;/p&gt;&#xA;&lt;p&gt;毎日使うなら十分元が取れると感じています。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;メモ・要約・翻訳がNotionの中で完結する&lt;/li&gt;&#xA;&lt;li&gt;ざっくりメモをAIが整えてくれる&lt;/li&gt;&#xA;&lt;li&gt;月$10で使える&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;まずはNotionの無料版を試してみて、気に入ったらAIを追加するのがおすすめです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/&#34; &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/&#34; &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/copilot-guide/&#34; &gt;Microsoft CopilotはChatGPTの代わりになる？実際に使い比べた感想&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

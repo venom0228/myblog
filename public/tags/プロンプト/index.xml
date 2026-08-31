@@ -1,150 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>プロンプト on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/</link><description>Recent content in プロンプト on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 09 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</link><pubDate>Sat, 09 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/cover.png" alt="Featured image of post うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】" /&gt;&lt;p&gt;「あの時使ったプロンプト、どこに書いたっけ…」&lt;/p&gt;
-&lt;p&gt;AIを使い込むほど、こういう場面が増えてきます。うまくいったプロンプトをその場で終わらせてしまうのはもったいない。今回は、プロンプトの保存・管理方法をまとめます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="なぜプロンプトを管理するのか"&gt;なぜプロンプトを管理するのか
-&lt;/h2&gt;&lt;p&gt;プロンプトを記録・管理することには3つのメリットがあります。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;再利用できる&lt;/strong&gt; → 毎回ゼロから考えなくていい&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;改善できる&lt;/strong&gt; → 使うたびに精度を上げていける&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;共有できる&lt;/strong&gt; → チームや読者に配布できる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;プロンプトは「資産」です。書き捨てにするのはもったいない。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="私が使っているnotionでの管理方法"&gt;私が使っているNotionでの管理方法
-&lt;/h2&gt;&lt;h3 id="データベースで管理する"&gt;データベースで管理する
-&lt;/h3&gt;&lt;p&gt;Notionのデータベース機能を使って、プロンプト集を作っています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;設定しているプロパティ：&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;プロパティ&lt;/th&gt;
- &lt;th&gt;内容&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;タイトル&lt;/td&gt;
- &lt;td&gt;プロンプトの用途（例：ブログ記事の見出し作成）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;AIツール&lt;/td&gt;
- &lt;td&gt;ChatGPT / Claude / Gemini&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;タグ&lt;/td&gt;
- &lt;td&gt;ブログ・ビジネス・学習・画像 など&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;評価&lt;/td&gt;
- &lt;td&gt;★1〜★5&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;最終更新日&lt;/td&gt;
- &lt;td&gt;日付&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id="実際のプロンプトはページ本文に書く"&gt;実際のプロンプトはページ本文に書く
-&lt;/h3&gt;&lt;p&gt;タイトルをクリックして開いたページに、実際のプロンプトを貼り付けます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;テンプレートの例：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;【用途】ブログ記事の見出し（H2）作成
-
-【プロンプト】
-「{テーマ}」についてのブログ記事の見出しを5つ作ってください。
-読者は初心者〜中級者。各見出しは20字以内で、
-読んでみたくなるものにしてください。
-
-【メモ】
-具体的なキーワードを{テーマ}に入れると精度が上がる。
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="notion以外の管理方法"&gt;Notion以外の管理方法
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;テキストファイルで管理する&lt;/strong&gt;
-シンプルな方法です。「prompts.txt」に用途ごとに貼り付けておきます。「### ブログ記事作成」などの見出しをつけると検索しやすくなります。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;スプレッドシートで管理する&lt;/strong&gt;
-ExcelやGoogle スプレッドシートで一覧管理。フィルタリングや並べ替えが便利です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="プロンプトを整理するコツ"&gt;プロンプトを整理するコツ
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「使ったら即保存」の習慣をつける&lt;/strong&gt;
-いいプロンプトが出たら、会話をコピーしてすぐに保存します。「後で整理しよう」は大体やりません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目的から名前をつける&lt;/strong&gt;
-「プロンプト1」ではなく、「メールの丁寧化」「記事の骨格作成」など、目的をそのままタイトルにします。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;月1回見直す&lt;/strong&gt;
-使わなくなったプロンプトは削除して、リストをスリムに保ちます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;プロンプトを管理する習慣をつけるだけで、AIの活用効率が大きく変わります。まずはシンプルにテキストファイル1枚から始めて、慣れてきたらNotionなどに移行するのがおすすめです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</link><pubDate>Fri, 01 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/cover.png" alt="Featured image of post PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】" /&gt;&lt;p&gt;「AIプロンプトって売れるの？」&lt;/p&gt;
-&lt;p&gt;売れます。しかも一度作れば繰り返し売れる資産型の収入になります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="promptbaseとは"&gt;PromptBaseとは？
-&lt;/h2&gt;&lt;p&gt;AIへの指示文（プロンプト）を売買できるマーケットプレイスです。&lt;/p&gt;
-&lt;p&gt;ChatGPT・Midjourney・Stable Diffusionなど、さまざまなAI向けのプロンプトが出品されています。価格は1本$1.99〜$4.99が相場です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="出品の流れ"&gt;出品の流れ
-&lt;/h2&gt;&lt;h3 id="ステップ1アカウント作成"&gt;ステップ1：アカウント作成
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a class="link" href="https://promptbase.com" target="_blank" rel="noopener"
- &gt;https://promptbase.com&lt;/a&gt;&lt;/strong&gt; にアクセスして、Googleアカウントで登録します。&lt;/p&gt;
-&lt;h3 id="ステップ2プロンプトを作る"&gt;ステップ2：プロンプトを作る
-&lt;/h3&gt;&lt;p&gt;「このAIツールで、こういう結果が出るプロンプト」を作ります。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;売れやすいジャンル：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;画像生成（Midjourney・Stable Diffusion）&lt;/li&gt;
-&lt;li&gt;ビジネス文書・メール作成&lt;/li&gt;
-&lt;li&gt;SNS投稿文の生成&lt;/li&gt;
-&lt;li&gt;特定スタイルのイラスト生成&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="ステップ3英語で説明文を書いて出品"&gt;ステップ3：英語で説明文を書いて出品
-&lt;/h3&gt;&lt;p&gt;タイトル・説明文・サンプル画像を英語で用意して出品します。説明文はChatGPTやClaudeに翻訳してもらえばOKです。&lt;/p&gt;
-&lt;h3 id="ステップ4売れたら報酬が入る"&gt;ステップ4：売れたら報酬が入る
-&lt;/h3&gt;&lt;p&gt;売れるたびに報酬が入ります。PromptBaseの手数料は20%で、残り80%が収入になります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="収入の目安"&gt;収入の目安
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;月の販売数&lt;/th&gt;
- &lt;th&gt;単価$2.99&lt;/th&gt;
- &lt;th&gt;単価$4.99&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;10本&lt;/td&gt;
- &lt;td&gt;約3,500円&lt;/td&gt;
- &lt;td&gt;約5,800円&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;30本&lt;/td&gt;
- &lt;td&gt;約10,500円&lt;/td&gt;
- &lt;td&gt;約17,400円&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;最初は少ないですが、人気プロンプトが1本あれば毎月安定して売れ続けます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="成功のコツ"&gt;成功のコツ
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;サンプル画像が大事&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;画像生成系のプロンプトは、実際に生成した画像をサンプルとして掲載するとクリック率が上がります。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ニッチを狙う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「プロダクト写真風」「和風イラスト」など、具体的なジャンルに絞ったほうが売れやすいです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;登録・出品は無料&lt;/li&gt;
-&lt;li&gt;一度作れば繰り返し売れる&lt;/li&gt;
-&lt;li&gt;英語で出品すれば世界中に売れる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;プロンプトを1本作って試してみるだけで、副業の第一歩になります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/" &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>プロンプト on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/</link>
+        <description>Recent content in プロンプト on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sat, 09 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</link>
+            <pubDate>Sat, 09 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/cover.png&#34; alt=&#34;Featured image of post うまくいったプロンプトを無駄にしない！保存・管理方法【Notionで整理】&#34; /&gt;&lt;p&gt;「あの時使ったプロンプト、どこに書いたっけ…」&lt;/p&gt;&#xA;&lt;p&gt;AIを使い込むほど、こういう場面が増えてきます。うまくいったプロンプトをその場で終わらせてしまうのはもったいない。今回は、プロンプトの保存・管理方法をまとめます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;なぜプロンプトを管理するのか&#34;&gt;なぜプロンプトを管理するのか&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;プロンプトを記録・管理することには3つのメリットがあります。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;再利用できる&lt;/strong&gt; → 毎回ゼロから考えなくていい&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;改善できる&lt;/strong&gt; → 使うたびに精度を上げていける&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;共有できる&lt;/strong&gt; → チームや読者に配布できる&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;プロンプトは「資産」です。書き捨てにするのはもったいない。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;私が使っているnotionでの管理方法&#34;&gt;私が使っているNotionでの管理方法&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;データベースで管理する&#34;&gt;データベースで管理する&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Notionのデータベース機能を使って、プロンプト集を作っています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;設定しているプロパティ：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;プロパティ&lt;/th&gt;&#xA;          &lt;th&gt;内容&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;タイトル&lt;/td&gt;&#xA;          &lt;td&gt;プロンプトの用途（例：ブログ記事の見出し作成）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;AIツール&lt;/td&gt;&#xA;          &lt;td&gt;ChatGPT / Claude / Gemini&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;タグ&lt;/td&gt;&#xA;          &lt;td&gt;ブログ・ビジネス・学習・画像 など&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;評価&lt;/td&gt;&#xA;          &lt;td&gt;★1〜★5&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;最終更新日&lt;/td&gt;&#xA;          &lt;td&gt;日付&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;実際のプロンプトはページ本文に書く&#34;&gt;実際のプロンプトはページ本文に書く&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;タイトルをクリックして開いたページに、実際のプロンプトを貼り付けます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;テンプレートの例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;【用途】ブログ記事の見出し（H2）作成&#xD;&#xA;&#xD;&#xA;【プロンプト】&#xD;&#xA;「{テーマ}」についてのブログ記事の見出しを5つ作ってください。&#xD;&#xA;読者は初心者〜中級者。各見出しは20字以内で、&#xD;&#xA;読んでみたくなるものにしてください。&#xD;&#xA;&#xD;&#xA;【メモ】&#xD;&#xA;具体的なキーワードを{テーマ}に入れると精度が上がる。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;notion以外の管理方法&#34;&gt;Notion以外の管理方法&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;テキストファイルで管理する&lt;/strong&gt;&#xA;シンプルな方法です。「prompts.txt」に用途ごとに貼り付けておきます。「### ブログ記事作成」などの見出しをつけると検索しやすくなります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;スプレッドシートで管理する&lt;/strong&gt;&#xA;ExcelやGoogle スプレッドシートで一覧管理。フィルタリングや並べ替えが便利です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;プロンプトを整理するコツ&#34;&gt;プロンプトを整理するコツ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;「使ったら即保存」の習慣をつける&lt;/strong&gt;&#xA;いいプロンプトが出たら、会話をコピーしてすぐに保存します。「後で整理しよう」は大体やりません。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;目的から名前をつける&lt;/strong&gt;&#xA;「プロンプト1」ではなく、「メールの丁寧化」「記事の骨格作成」など、目的をそのままタイトルにします。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;月1回見直す&lt;/strong&gt;&#xA;使わなくなったプロンプトは削除して、リストをスリムに保ちます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;プロンプトを管理する習慣をつけるだけで、AIの活用効率が大きく変わります。まずはシンプルにテキストファイル1枚から始めて、慣れてきたらNotionなどに移行するのがおすすめです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/&#34; &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/&#34; &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</link>
+            <pubDate>Fri, 01 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/promptbase-how-to-sell/cover.png&#34; alt=&#34;Featured image of post PromptBaseでプロンプトを売る方法【初心者向け完全ガイド】&#34; /&gt;&lt;p&gt;「AIプロンプトって売れるの？」&lt;/p&gt;&#xA;&lt;p&gt;売れます。しかも一度作れば繰り返し売れる資産型の収入になります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;promptbaseとは&#34;&gt;PromptBaseとは？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIへの指示文（プロンプト）を売買できるマーケットプレイスです。&lt;/p&gt;&#xA;&lt;p&gt;ChatGPT・Midjourney・Stable Diffusionなど、さまざまなAI向けのプロンプトが出品されています。価格は1本$1.99〜$4.99が相場です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;出品の流れ&#34;&gt;出品の流れ&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;ステップ1アカウント作成&#34;&gt;ステップ1：アカウント作成&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://promptbase.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;https://promptbase.com&lt;/a&gt;&lt;/strong&gt; にアクセスして、Googleアカウントで登録します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ステップ2プロンプトを作る&#34;&gt;ステップ2：プロンプトを作る&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「このAIツールで、こういう結果が出るプロンプト」を作ります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;売れやすいジャンル：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;画像生成（Midjourney・Stable Diffusion）&lt;/li&gt;&#xA;&lt;li&gt;ビジネス文書・メール作成&lt;/li&gt;&#xA;&lt;li&gt;SNS投稿文の生成&lt;/li&gt;&#xA;&lt;li&gt;特定スタイルのイラスト生成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ステップ3英語で説明文を書いて出品&#34;&gt;ステップ3：英語で説明文を書いて出品&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;タイトル・説明文・サンプル画像を英語で用意して出品します。説明文はChatGPTやClaudeに翻訳してもらえばOKです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ステップ4売れたら報酬が入る&#34;&gt;ステップ4：売れたら報酬が入る&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;売れるたびに報酬が入ります。PromptBaseの手数料は20%で、残り80%が収入になります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;収入の目安&#34;&gt;収入の目安&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;月の販売数&lt;/th&gt;&#xA;          &lt;th&gt;単価$2.99&lt;/th&gt;&#xA;          &lt;th&gt;単価$4.99&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10本&lt;/td&gt;&#xA;          &lt;td&gt;約3,500円&lt;/td&gt;&#xA;          &lt;td&gt;約5,800円&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;30本&lt;/td&gt;&#xA;          &lt;td&gt;約10,500円&lt;/td&gt;&#xA;          &lt;td&gt;約17,400円&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;最初は少ないですが、人気プロンプトが1本あれば毎月安定して売れ続けます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;成功のコツ&#34;&gt;成功のコツ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;サンプル画像が大事&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;画像生成系のプロンプトは、実際に生成した画像をサンプルとして掲載するとクリック率が上がります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ニッチを狙う&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;「プロダクト写真風」「和風イラスト」など、具体的なジャンルに絞ったほうが売れやすいです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;登録・出品は無料&lt;/li&gt;&#xA;&lt;li&gt;一度作れば繰り返し売れる&lt;/li&gt;&#xA;&lt;li&gt;英語で出品すれば世界中に売れる&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;プロンプトを1本作って試してみるだけで、副業の第一歩になります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/&#34; &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/&#34; &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-2026-trends/&#34; &gt;2026年に注目のAI副業5選【今始めると有利な理由】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

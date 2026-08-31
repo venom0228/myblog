@@ -1,24 +1,665 @@
-<!doctype html><html lang=ja dir=ltr><head><meta name=google-site-verification content="CCRFguVXCVjg2VCHjU6t3_lfJC4258sPTZ0lugKR5xQ"><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><meta name=description content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。"><title>Google NotebookLMの使い方【無料で使えるAI勉強ツール】</title><link rel=canonical href=https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap"><link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap"><link rel=stylesheet href=/scss/style.min.59c5eb617b2b83358d0baf163162325d5249a2be44239b430beb29a87c1ddbe4.css><meta property='og:title' content="Google NotebookLMの使い方【無料で使えるAI勉強ツール】"><meta property='og:description' content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。"><meta property='og:url' content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/'><meta property='og:site_name' content='ながら副業AI'><meta property='og:type' content='article'><meta property='article:section' content='Posts'><meta property='article:tag' content='AI活用'><meta property='article:tag' content='Google'><meta property='article:tag' content='Gemini'><meta property='article:tag' content='無料ツール'><meta property='article:published_time' content='2026-05-15T10:00:00+09:00'><meta property='article:modified_time' content='2026-05-15T10:00:00+09:00'><meta property='og:image' content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/cover.png'><meta name=twitter:title content="Google NotebookLMの使い方【無料で使えるAI勉強ツール】"><meta name=twitter:description content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/cover.png'><script async src="https://www.googletagmanager.com/gtag/js?id=G-9B9W1RJ5RG"></script><script>var doNotTrack=!1,dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes";if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-9B9W1RJ5RG")}</script></head><body class=article-page><script>(function(){const e="StackColorScheme";localStorage.getItem(e)||localStorage.setItem(e,"auto")})()</script><script>(function(){const t="StackColorScheme",e=localStorage.getItem(t),n=window.matchMedia("(prefers-color-scheme: dark)").matches===!0;e=="dark"||e==="auto"&&n?document.documentElement.dataset.scheme="dark":document.documentElement.dataset.scheme="light"})()</script><div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky"><button class="hamburger hamburger--spin" type=button id=toggle-menu aria-label=メニューを開く・閉じる>
-<span class=hamburger-box><span class=hamburger-inner></span></span></button><header><div class=site-meta><h1 class=site-name><a href=/>ながら副業AI</a></h1><h2 class=site-description>すき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信中。</h2></div></header><ol class=menu id=main-menu><li><a href=/><span>ホーム</span></a></li><li><a href=/posts/><span>記事一覧</span></a></li><li><a href=/about/><span>このブログについて</span></a></li><li class=menu-bottom-section><ol class=menu><li id=dark-mode-toggle><svg class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="8" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<svg class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="16" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<span>ダークモード</span></li></ol></li></ol></aside><aside class="sidebar right-sidebar sticky"><section class="widget archives"><div class=widget-icon><svg class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><line x1="5" y1="9" x2="19" y2="9"/><line x1="5" y1="15" x2="19" y2="15"/><line x1="11" y1="4" x2="7" y2="20"/><line x1="17" y1="4" x2="13" y2="20"/></svg></div><h2 class="widget-title section-title">目次</h2><div class=widget--toc><nav class=toc-nav id=TableOfContents><ul><li><a href=#notebooklmとは>NotebookLMとは？</a></li><li><a href=#使えるソースの種類>使えるソースの種類</a></li><li><a href=#主な使い方>主な使い方</a><ul><li><a href=#-資料を要約する>① 資料を要約する</a></li><li><a href=#-資料に質問する>② 資料に質問する</a></li><li><a href=#-音声概要audio-overviewを作る>③ 音声概要（Audio Overview）を作る</a></li><li><a href=#-ブログ記事や資料の下書きを作る>④ ブログ記事や資料の下書きを作る</a></li></ul></li><li><a href=#実際に使ってみた感想>実際に使ってみた感想</a></li><li><a href=#まとめ>まとめ</a></li><li><a href=#関連記事>関連記事</a></li></ul></nav></div></section><section class="widget tagCloud"><div class=widget-icon><svg class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><path d="M11 3l9 9a1.5 1.5.0 010 2l-6 6a1.5 1.5.0 01-2 0L3 11V7a4 4 0 014-4h4"/><circle cx="9" cy="9" r="2"/></svg></div><h2 class="widget-title section-title"><a href=/tags/>タグ</a></h2><div class=tagCloud-tags><a href=/tags/ai%E6%B4%BB%E7%94%A8/>AI活用
-</a><a href=/tags/chatgpt/>ChatGPT
-</a><a href=/tags/%E5%89%AF%E6%A5%AD/>副業
-</a><a href=/tags/%E5%88%9D%E5%BF%83%E8%80%85/>初心者
-</a><a href=/tags/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96/>仕事効率化
-</a><a href=/tags/claude/>Claude
-</a><a href=/tags/gemini/>Gemini
-</a><a href=/tags/%E6%AF%94%E8%BC%83/>比較
-</a><a href=/tags/kdp/>KDP
-</a><a href=/tags/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90/>画像生成</a></div></section></aside><main class="main full-width"><article class="has-image main-article"><header class=article-header><div class=article-image><a href=/posts/notebooklm-guide/><img alt="Featured image of post Google NotebookLMの使い方【無料で使えるAI勉強ツール】" height=941 loading=lazy sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src=/posts/notebooklm-guide/cover.png srcset="/posts/notebooklm-guide/cover_hu_cdc1fe4c134ef57d.png 800w, /posts/notebooklm-guide/cover_hu_dac7939dfe9b5d78.png 1600w, /posts/notebooklm-guide/cover.png 1672w" width=1672></a></div><div class=article-details><div class=article-title-wrapper><h2 class=article-title><a href=/posts/notebooklm-guide/>Google NotebookLMの使い方【無料で使えるAI勉強ツール】</a></h2><h3 class=article-subtitle>Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。</h3></div><footer class=article-meta><div class=inline-meta><svg class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><path d="M11.795 21H5a2 2 0 01-2-2V7a2 2 0 012-2h12a2 2 0 012 2v4"/><circle cx="18" cy="18" r="4"/><path d="M15 3v4"/><path d="M7 3v4"/><path d="M3 11h16"/><path d="M18 16.496V18l1 1"/></svg>
-<time class=article-time--published datetime=2026-05-15T10:00:00+09:00>2026年5月15日金曜日</time>
-<svg class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg>
-<time class=article-time--reading>読了時間: 1分</time></div></footer></div></header><aside class=article-toc><details><summary><div class=article-toc-title><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l6 6-6 6"/></svg>
-<span>目次</span></div></summary><nav class=toc-nav><ul><li><a href=#notebooklmとは>NotebookLMとは？</a></li><li><a href=#使えるソースの種類>使えるソースの種類</a></li><li><a href=#主な使い方>主な使い方</a><ul><li><a href=#-資料を要約する>① 資料を要約する</a></li><li><a href=#-資料に質問する>② 資料に質問する</a></li><li><a href=#-音声概要audio-overviewを作る>③ 音声概要（Audio Overview）を作る</a></li><li><a href=#-ブログ記事や資料の下書きを作る>④ ブログ記事や資料の下書きを作る</a></li></ul></li><li><a href=#実際に使ってみた感想>実際に使ってみた感想</a></li><li><a href=#まとめ>まとめ</a></li><li><a href=#関連記事>関連記事</a></li></ul></nav></details></aside><section class=article-content><p>Googleが提供する「NotebookLM」は、自分でアップロードした資料をAIが読み込んで、要約・質問応答・ポッドキャスト風の音声まで作ってくれる無料ツールです。</p><hr><h2 id=notebooklmとは>NotebookLMとは？</h2><p>NotebookLMは、<strong>自分の資料に特化したAIアシスタント</strong>です。</p><p>ChatGPTと違うのは「インターネット全体ではなく、自分がアップした資料の中だけ」で答えてくれる点。これにより、<strong>ハルシネーション（でたらめな回答）が起きにくい</strong>のが大きな特徴です。</p><hr><h2 id=使えるソースの種類>使えるソースの種類</h2><ul><li>PDFファイル</li><li>Google ドキュメント</li><li>WebサイトのURL</li><li>YouTubeのURL</li><li>テキストのコピペ</li></ul><hr><h2 id=主な使い方>主な使い方</h2><h3 id=-資料を要約する>① 資料を要約する</h3><p>難しいPDFや長い記事をアップして「3行で要約して」と聞くだけ。読書メモや勉強ノートに最適です。</p><h3 id=-資料に質問する>② 資料に質問する</h3><p>「この中で副業に使えそうな内容は？」「第3章のポイントを教えて」など、資料を読み込んだ上で答えてくれます。</p><h3 id=-音声概要audio-overviewを作る>③ 音声概要（Audio Overview）を作る</h3><p>2人のAIホストが資料についてポッドキャスト風に会話してくれる機能。移動中に耳で聞けるのが便利です。</p><h3 id=-ブログ記事や資料の下書きを作る>④ ブログ記事や資料の下書きを作る</h3><p>アップした資料をもとに「ブログ記事を書いて」と依頼すると、内容に基づいた記事を生成してくれます。</p><hr><h2 id=実際に使ってみた感想>実際に使ってみた感想</h2><p>私はブログ記事を書くとき、関連するWebページを3〜5本NotebookLMに読み込ませてから「この内容を初心者向けにまとめて」とお願いしています。</p><p>リサーチと執筆が同時にできるので、<strong>1記事あたりの時間が半分以下</strong>になりました。</p><hr><h2 id=まとめ>まとめ</h2><div class=table-wrapper><table><thead><tr><th>機能</th><th>内容</th></tr></thead><tbody><tr><td>料金</td><td><strong>無料</strong>（Googleアカウントがあれば使える）</td></tr><tr><td>得意なこと</td><td>自分でアップした資料の要約・QA</td></tr><tr><td>苦手なこと</td><td>最新情報の検索（資料外の情報は答えられない）</td></tr></tbody></table></div><p>資料を読み込む手間さえかければ、精度が高くて使いやすいツールです。まだ試していない方はぜひ。</p><hr><h2 id=関連記事>関連記事</h2><ul><li><a class=link href=/posts/ai-reading-summary/>AIで本の要約・読書メモを作る方法</a></li><li><a class=link href=/posts/gemini-beginner-guide/>Google Geminiの始め方【初心者向け完全ガイド】</a></li><li><a class=link href=/posts/ai-prompt-management/>プロンプトの保存・管理方法【再利用して作業効率アップ】</a></li></ul></section><footer class="article-meta article-footer"><section class=article-tags><a href=/tags/ai%E6%B4%BB%E7%94%A8/>AI活用</a>
-<a href=/tags/google/>Google</a>
-<a href=/tags/gemini/>Gemini</a>
-<a href=/tags/%E7%84%A1%E6%96%99%E3%83%84%E3%83%BC%E3%83%AB/>無料ツール</a></section></footer></article><aside><h2 class=section-title>関連するコンテンツ</h2><div class=subsection-list><div class=article-list--tile><article class=has-image><a href=/posts/gemini-image-guide/><div class=article-image><img alt="Featured image of post Geminiの画像生成が無料で使える！使い方と活用例を解説" height=150 loading=lazy src=/posts/gemini-image-guide/cover_hu_7a94c46c64f37d30.png srcset="/posts/gemini-image-guide/cover_hu_7a94c46c64f37d30.png 1x, /posts/gemini-image-guide/cover_hu_f7389c5df69681e6.png 2x" width=250></div><div class=article-details style="background:linear-gradient(0deg,#23534b80 0%,#e9e8f2C0 100%)"><h2 class=article-title>Geminiの画像生成が無料で使える！使い方と活用例を解説</h2></div></a></article><article class=has-image><a href=/posts/gemini-beginner-guide/><div class=article-image><img alt="Featured image of post Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】" height=150 loading=lazy src=/posts/gemini-beginner-guide/cover_hu_8268a0f3d3e2d1d4.png srcset="/posts/gemini-beginner-guide/cover_hu_8268a0f3d3e2d1d4.png 1x, /posts/gemini-beginner-guide/cover_hu_820210bd1f82d2d9.png 2x" width=250></div><div class=article-details style="background:linear-gradient(0deg,#0a245380 0%,#eff6fcC0 100%)"><h2 class=article-title>Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】</h2></div></a></article><article class=has-image><a href=/posts/ai-three-tools-comparison-2026/><div class=article-image><img alt="Featured image of post ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較" height=150 loading=lazy src=/posts/ai-three-tools-comparison-2026/cover_hu_3bf3f42de262af76.png srcset="/posts/ai-three-tools-comparison-2026/cover_hu_3bf3f42de262af76.png 1x, /posts/ai-three-tools-comparison-2026/cover_hu_68e343a828e50cb9.png 2x" width=250></div><div class=article-details style="background:linear-gradient(0deg,#48a1ef80 0%,#f4f7fbC0 100%)"><h2 class=article-title>ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較</h2></div></a></article><article class=has-image><a href=/posts/ai-tools-i-use/><div class=article-image><img alt="Featured image of post 私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】" height=150 loading=lazy src=/posts/ai-tools-i-use/cover_hu_fc9502d3dd12b7c8.png srcset="/posts/ai-tools-i-use/cover_hu_fc9502d3dd12b7c8.png 1x, /posts/ai-tools-i-use/cover_hu_f4453618207dbdda.png 2x" width=250></div><div class=article-details style="background:linear-gradient(0deg,#18306480 0%,#e9ebf9C0 100%)"><h2 class=article-title>私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】</h2></div></a></article><article class=has-image><a href=/posts/ai-sns-writing/><div class=article-image><img alt="Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】" height=150 loading=lazy src=/posts/ai-sns-writing/cover_hu_de0303d1a51c81b2.png srcset="/posts/ai-sns-writing/cover_hu_de0303d1a51c81b2.png 1x, /posts/ai-sns-writing/cover_hu_39fe57511594792a.png 2x" width=250></div><div class=article-details style="background:linear-gradient(0deg,#2a4eb580 0%,#07205cC0 100%)"><h2 class=article-title>AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</h2></div></a></article></div></div></aside><div class=disqus-container></div><style>.disqus-container{background-color:var(--card-background);border-radius:var(--card-border-radius);box-shadow:var(--shadow-l1);padding:var(--card-padding)}</style><script>window.addEventListener("onColorSchemeChange",e=>{typeof DISQUS=="object"&&DISQUS.reset({reload:!0})})</script><footer class=site-footer><section class=copyright>&copy;
-2026 ながら副業AI</section><section class=powerby><a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> で構築されています。<br>テーマ <b><a href=https://github.com/CaiJimmy/hugo-theme-stack target=_blank rel=noopener data-version=4.0.2>Stack</a></b> は <a href=https://jimmycai.com target=_blank rel=noopener>Jimmy</a> によって設計されています。</section></footer><script type=module>
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head>
+        <meta name="google-site-verification" content="CCRFguVXCVjg2VCHjU6t3_lfJC4258sPTZ0lugKR5xQ" /><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。">
+<title>Google NotebookLMの使い方【無料で使えるAI勉強ツール】</title>
+
+
+<link rel="canonical" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/scss/style.min.879b03d31187470baca49fadac5d363aea6ecc907ab0652889822e794354c8f1.css"><meta property='og:title' content="Google NotebookLMの使い方【無料で使えるAI勉強ツール】">
+<meta property='og:description' content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。">
+<meta property='og:url' content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/'>
+<meta property='og:site_name' content='ながら副業AI'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI活用' /><meta property='article:tag' content='Google' /><meta property='article:tag' content='Gemini' /><meta property='article:tag' content='無料ツール' /><meta property='article:published_time' content='2026-05-15T10:00:00&#43;09:00'/><meta property='article:modified_time' content='2026-05-15T10:00:00&#43;09:00'/><meta property='og:image' content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/cover.png' />
+<meta name="twitter:title" content="Google NotebookLMの使い方【無料で使えるAI勉強ツール】">
+<meta name="twitter:description" content="Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://myblog.5588sgfh337755jjg.workers.dev/posts/notebooklm-guide/cover.png' />
+    <link rel="shortcut icon" href="/favicon.png" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-9B9W1RJ5RG"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9B9W1RJ5RG');
+        }
+      </script>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        <figure class="site-avatar">
+                <a href="/">
+                    <img src="/img/avatar.png" 
+                        width="512"
+                        height="512"
+                        class="site-logo"
+                        loading="lazy"
+                        alt="Avatar">
+                </a>
+                
+            </figure>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">ながら副業AI</a></h1>
+            <h2 class="site-description">すき間時間にAIで副業。活用法・収益化・最新ツールをわかりやすく発信中。</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>ホーム</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/posts/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>記事一覧</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>このブログについて</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目次</h2>
+        
+        <div class="widget--toc">
+            <nav class="toc-nav" id="TableOfContents">
+                
+  <ul>
+    <li><a href="#notebooklmとは">NotebookLMとは？</a></li>
+    <li><a href="#使えるソースの種類">使えるソースの種類</a></li>
+    <li><a href="#主な使い方">主な使い方</a>
+      <ul>
+        <li><a href="#-資料を要約する">① 資料を要約する</a></li>
+        <li><a href="#-資料に質問する">② 資料に質問する</a></li>
+        <li><a href="#-音声概要audio-overviewを作る">③ 音声概要（Audio Overview）を作る</a></li>
+        <li><a href="#-ブログ記事や資料の下書きを作る">④ ブログ記事や資料の下書きを作る</a></li>
+      </ul>
+    </li>
+    <li><a href="#実際に使ってみた感想">実際に使ってみた感想</a></li>
+    <li><a href="#まとめ">まとめ</a></li>
+    <li><a href="#関連記事">関連記事</a></li>
+  </ul>
+
+            </nav>
+        </div>
+    </section>
+
+            
+        
+            
+                
+<section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">
+        
+            <a href="/tags/">
+                タグ
+            </a>
+        
+    </h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/tags/ai%E6%B4%BB%E7%94%A8/">
+                AI活用
+            </a>
+        
+            <a href="/tags/%E5%89%AF%E6%A5%AD/">
+                副業
+            </a>
+        
+            <a href="/tags/chatgpt/">
+                ChatGPT
+            </a>
+        
+            <a href="/tags/%E5%88%9D%E5%BF%83%E8%80%85/">
+                初心者
+            </a>
+        
+            <a href="/tags/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96/">
+                仕事効率化
+            </a>
+        
+            <a href="/tags/claude/">
+                Claude
+            </a>
+        
+            <a href="/tags/%E5%8A%B9%E7%8E%87%E5%8C%96/">
+                効率化
+            </a>
+        
+            <a href="/tags/gemini/">
+                Gemini
+            </a>
+        
+            <a href="/tags/%E6%AF%94%E8%BC%83/">
+                比較
+            </a>
+        
+            <a href="/tags/kdp/">
+                KDP
+            </a>
+        
+    </div>
+</section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/posts/notebooklm-guide/">
+            <img alt="Featured image of post Google NotebookLMの使い方【無料で使えるAI勉強ツール】" height="941" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/posts/notebooklm-guide/cover.png" srcset="/posts/notebooklm-guide/cover_hu_cdc1fe4c134ef57d.png 800w, /posts/notebooklm-guide/cover_hu_dac7939dfe9b5d78.png 1600w, /posts/notebooklm-guide/cover.png 1672w" width="1672">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/notebooklm-guide/">Google NotebookLMの使い方【無料で使えるAI勉強ツール】</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Googleの無料AIツール「NotebookLM」の使い方を解説。PDF・URLを読み込んで要約・質問・音声概要まで作れる万能ツールです。
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-05-15T10:00:00&#43;09:00'>2026年5月15日金曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+    <aside class="article-toc">
+        <details>
+            <summary>
+                <div class="article-toc-title">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l6 6l-6 6" /></svg>
+                    <span>目次</span>
+                </div>
+            </summary>
+            <nav class="toc-nav">
+                
+  <ul>
+    <li><a href="#notebooklmとは">NotebookLMとは？</a></li>
+    <li><a href="#使えるソースの種類">使えるソースの種類</a></li>
+    <li><a href="#主な使い方">主な使い方</a>
+      <ul>
+        <li><a href="#-資料を要約する">① 資料を要約する</a></li>
+        <li><a href="#-資料に質問する">② 資料に質問する</a></li>
+        <li><a href="#-音声概要audio-overviewを作る">③ 音声概要（Audio Overview）を作る</a></li>
+        <li><a href="#-ブログ記事や資料の下書きを作る">④ ブログ記事や資料の下書きを作る</a></li>
+      </ul>
+    </li>
+    <li><a href="#実際に使ってみた感想">実際に使ってみた感想</a></li>
+    <li><a href="#まとめ">まとめ</a></li>
+    <li><a href="#関連記事">関連記事</a></li>
+  </ul>
+
+            </nav>
+        </details>
+    </aside>
+    
+
+    <section class="article-content">
+    
+    
+    <p>Googleが提供する「NotebookLM」は、自分でアップロードした資料をAIが読み込んで、要約・質問応答・ポッドキャスト風の音声まで作ってくれる無料ツールです。</p>
+<hr>
+<h2 id="notebooklmとは">NotebookLMとは？
+</h2><p>NotebookLMは、<strong>自分の資料に特化したAIアシスタント</strong>です。</p>
+<p>ChatGPTと違うのは「インターネット全体ではなく、自分がアップした資料の中だけ」で答えてくれる点。これにより、<strong>ハルシネーション（でたらめな回答）が起きにくい</strong>のが大きな特徴です。</p>
+<hr>
+<h2 id="使えるソースの種類">使えるソースの種類
+</h2><ul>
+<li>PDFファイル</li>
+<li>Google ドキュメント</li>
+<li>WebサイトのURL</li>
+<li>YouTubeのURL</li>
+<li>テキストのコピペ</li>
+</ul>
+<hr>
+<h2 id="主な使い方">主な使い方
+</h2><h3 id="-資料を要約する">① 資料を要約する
+</h3><p>難しいPDFや長い記事をアップして「3行で要約して」と聞くだけ。読書メモや勉強ノートに最適です。</p>
+<h3 id="-資料に質問する">② 資料に質問する
+</h3><p>「この中で副業に使えそうな内容は？」「第3章のポイントを教えて」など、資料を読み込んだ上で答えてくれます。</p>
+<h3 id="-音声概要audio-overviewを作る">③ 音声概要（Audio Overview）を作る
+</h3><p>2人のAIホストが資料についてポッドキャスト風に会話してくれる機能。移動中に耳で聞けるのが便利です。</p>
+<h3 id="-ブログ記事や資料の下書きを作る">④ ブログ記事や資料の下書きを作る
+</h3><p>アップした資料をもとに「ブログ記事を書いて」と依頼すると、内容に基づいた記事を生成してくれます。</p>
+<hr>
+<h2 id="実際に使ってみた感想">実際に使ってみた感想
+</h2><p>私はブログ記事を書くとき、関連するWebページを3〜5本NotebookLMに読み込ませてから「この内容を初心者向けにまとめて」とお願いしています。</p>
+<p>リサーチと執筆が同時にできるので、<strong>1記事あたりの時間が半分以下</strong>になりました。</p>
+<hr>
+<h2 id="まとめ">まとめ
+</h2><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>機能</th>
+          <th>内容</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>料金</td>
+          <td><strong>無料</strong>（Googleアカウントがあれば使える）</td>
+      </tr>
+      <tr>
+          <td>得意なこと</td>
+          <td>自分でアップした資料の要約・QA</td>
+      </tr>
+      <tr>
+          <td>苦手なこと</td>
+          <td>最新情報の検索（資料外の情報は答えられない）</td>
+      </tr>
+  </tbody>
+</table></div>
+<p>資料を読み込む手間さえかければ、精度が高くて使いやすいツールです。まだ試していない方はぜひ。</p>
+<hr>
+<h2 id="関連記事">関連記事
+</h2><ul>
+<li><a class="link" href="/posts/ai-reading-summary/" >AIで本の要約・読書メモを作る方法</a></li>
+<li><a class="link" href="/posts/gemini-beginner-guide/" >Google Geminiの始め方【初心者向け完全ガイド】</a></li>
+<li><a class="link" href="/posts/ai-prompt-management/" >プロンプトの保存・管理方法【再利用して作業効率アップ】</a></li>
+</ul>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/ai%E6%B4%BB%E7%94%A8/">AI活用</a>
+        
+            <a href="/tags/google/">Google</a>
+        
+            <a href="/tags/gemini/">Gemini</a>
+        
+            <a href="/tags/%E7%84%A1%E6%96%99%E3%83%84%E3%83%BC%E3%83%AB/">無料ツール</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/posts/gemini-image-guide/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Geminiの画像生成が無料で使える！使い方と活用例を解説" height="150" loading="lazy" src="/posts/gemini-image-guide/cover_hu_7a94c46c64f37d30.png" srcset="/posts/gemini-image-guide/cover_hu_7a94c46c64f37d30.png 1x, /posts/gemini-image-guide/cover_hu_f7389c5df69681e6.png 2x" width="250">
+
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #23534b80 0%, #e9e8f2C0 100%);">
+            <h2 class="article-title">Geminiの画像生成が無料で使える！使い方と活用例を解説</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/posts/gemini-beginner-guide/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】" height="150" loading="lazy" src="/posts/gemini-beginner-guide/cover_hu_8268a0f3d3e2d1d4.png" srcset="/posts/gemini-beginner-guide/cover_hu_8268a0f3d3e2d1d4.png 1x, /posts/gemini-beginner-guide/cover_hu_820210bd1f82d2d9.png 2x" width="250">
+
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #0a245380 0%, #eff6fcC0 100%);">
+            <h2 class="article-title">Geminiの使い方と活用例【GoogleアカウントだけでOK・初心者向け】</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/posts/ai-three-tools-comparison-2026/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較" height="150" loading="lazy" src="/posts/ai-three-tools-comparison-2026/cover_hu_3bf3f42de262af76.png" srcset="/posts/ai-three-tools-comparison-2026/cover_hu_3bf3f42de262af76.png 1x, /posts/ai-three-tools-comparison-2026/cover_hu_68e343a828e50cb9.png 2x" width="250">
+
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #48a1ef80 0%, #f4f7fbC0 100%);">
+            <h2 class="article-title">ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/posts/ai-tools-i-use/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】" height="150" loading="lazy" src="/posts/ai-tools-i-use/cover_hu_fc9502d3dd12b7c8.png" srcset="/posts/ai-tools-i-use/cover_hu_fc9502d3dd12b7c8.png 1x, /posts/ai-tools-i-use/cover_hu_f4453618207dbdda.png 2x" width="250">
+
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #18306480 0%, #e9ebf9C0 100%);">
+            <h2 class="article-title">私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/posts/ai-sns-writing/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】" height="150" loading="lazy" src="/posts/ai-sns-writing/cover_hu_de0303d1a51c81b2.png" srcset="/posts/ai-sns-writing/cover_hu_de0303d1a51c81b2.png 1x, /posts/ai-sns-writing/cover_hu_39fe57511594792a.png 2x" width="250">
+
+        </div>
+        
+
+        <div class="article-details"style="background: linear-gradient(0deg, #2a4eb580 0%, #07205cC0 100%);">
+            <h2 class="article-title">AIでSNS投稿を量産する方法【X・Instagramの下書きを効率化】</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ながら副業AI
+    </section>
+    
+    <section class="powerby">
+        
+            AI × すき間時間で、コツコツ育てるブログ <br/>
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.2">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
     import gallery from '\/ts\/gallery.js';
 
     const articleContent = document.querySelector('.article-content');
@@ -42,4 +683,15 @@
         });
         lightbox.init();
     }
-</script></main></div><script type=text/javascript src=/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js defer></script></body></html>
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>

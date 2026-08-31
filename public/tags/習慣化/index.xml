@@ -1,192 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>習慣化 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%BF%92%E6%85%A3%E5%8C%96/</link><description>Recent content in 習慣化 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 18 Apr 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%BF%92%E6%85%A3%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>ChatGPTで英語学習が変わった。毎日続けられる3つの練習法</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/</link><pubDate>Sat, 18 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/cover.png" alt="Featured image of post ChatGPTで英語学習が変わった。毎日続けられる3つの練習法" /&gt;&lt;p&gt;「英語、勉強したいけど続かない」&lt;/p&gt;
-&lt;p&gt;私もそうでした。でもChatGPTを英語の練習相手にしてから、毎日続けられるようになりました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="なぜchatgptで英語学習が続くのか"&gt;なぜChatGPTで英語学習が続くのか
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;24時間つきあってくれる&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;間違えても怒らない&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自分のペースで進められる&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;コストがほぼかからない&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;英会話スクールは週1〜2回、費用も月1万円以上かかります。ChatGPTなら毎日、無料または月$20で使い放題です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="方法1英作文の添削"&gt;方法1：英作文の添削
-&lt;/h2&gt;&lt;p&gt;日本語で書きたいことを考えて、まず自分で英語に訳してみます。それをChatGPTに見せて「添削して」と頼むだけです。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;以下の英文を添削してください。間違いがあれば直し、より自然な表現も教えてください。
-
-I went to the park yesterday and I play with my friend.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;間違いを指摘してくれるだけでなく、なぜそう書くのかも説明してくれます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="方法2英会話の練習相手になってもらう"&gt;方法2：英会話の練習相手になってもらう
-&lt;/h2&gt;&lt;p&gt;「英語で会話練習をしたい」と伝えると、英語で会話してくれます。わからない単語は日本語で聞いてもOKです。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;Let&amp;#39;s practice English conversation. 
-Please speak simply and correct my mistakes.
-Topic: talking about my daily routine.
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="方法3単語の使い方を例文で覚える"&gt;方法3：単語の使い方を例文で覚える
-&lt;/h2&gt;&lt;p&gt;新しい単語を覚えたいとき、例文を作ってもらうと記憶に残りやすいです。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;&amp;#34;nevertheless&amp;#34;という単語を使った例文を5つ作ってください。
-日本語訳もつけてください。
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="1日10分から始める"&gt;1日10分から始める
-&lt;/h2&gt;&lt;p&gt;最初から長時間やろうとすると続きません。まずは1日10分だけ。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;英文を1〜2文書いてChatGPTに添削してもらう&lt;/li&gt;
-&lt;li&gt;それだけでOKです&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;ChatGPTは24時間使える英語練習相手&lt;/li&gt;
-&lt;li&gt;添削・会話・例文作成に使える&lt;/li&gt;
-&lt;li&gt;まずは1日10分の英作文添削から始めよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;英語は副業にも直結します。PromptBaseの出品説明文を英語で書けるようになれば、世界中に売れる可能性が広がります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/" &gt;ChatGPTの始め方【登録から使い方まで5分で解説】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/" &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>AIツールを使いこなすために続けている3つの習慣</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</link><pubDate>Sun, 12 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/cover.png" alt="Featured image of post AIツールを使いこなすために続けている3つの習慣" /&gt;&lt;p&gt;「AIツールを使い始めたけど、なんかうまく活用できていない気がする」&lt;/p&gt;
-&lt;p&gt;最初の数ヶ月、私もそうでした。今回は半年間使い続けてわかった、AIを使いこなすための習慣を3つ紹介します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="習慣1まずaiに聞いてみる"&gt;習慣1：まずAIに聞いてみる
-&lt;/h2&gt;&lt;p&gt;何か迷ったとき、「とりあえずAIに聞いてみる」を習慣にしました。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;こんなことも聞いています：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;「このメールの返信文を書いて」&lt;/li&gt;
-&lt;li&gt;「今日のタスクを優先順位をつけて整理して」&lt;/li&gt;
-&lt;li&gt;「この言葉の意味を教えて」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最初は「こんなこと聞いていいのかな」と思っていましたが、AIはどんな質問にも答えてくれます。遠慮しないことが大事です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="習慣2プロンプトを記録する"&gt;習慣2：プロンプトを記録する
-&lt;/h2&gt;&lt;p&gt;「このプロンプトでいい返答が来た！」というものをメモしておきます。&lt;/p&gt;
-&lt;p&gt;NotionやメモアプリにAI用のページを作って、使えたプロンプトをストックしています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ストックしているプロンプト例：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ブログ記事の下書きを書いてもらうとき&lt;/li&gt;
-&lt;li&gt;提案文を作るとき&lt;/li&gt;
-&lt;li&gt;英文を添削してもらうとき&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一度うまくいったプロンプトは、次も同じように使えます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="習慣3aiの回答をそのまま使わない"&gt;習慣3：AIの回答をそのまま使わない
-&lt;/h2&gt;&lt;p&gt;AIは間違えることがあります。特に数字・統計・最新情報は要確認です。&lt;/p&gt;
-&lt;p&gt;私のルール：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;AIの回答を読む&lt;/li&gt;
-&lt;li&gt;重要な情報はWebで確認&lt;/li&gt;
-&lt;li&gt;自分の言葉に書き直してから使う&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;「AIが言ったから正しい」ではなく、「AIが下書きを作ってくれた、あとは自分で確認する」というスタンスが大切です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="結局慣れが一番大事"&gt;結局、慣れが一番大事
-&lt;/h2&gt;&lt;p&gt;AIツールは使えば使うほど上手くなります。&lt;/p&gt;
-&lt;p&gt;最初はぎこちなくても、毎日触っているうちに「このシーンではこう使う」という感覚が自然に身についてきます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;まずAIに聞く&lt;/strong&gt;（遠慮しない）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;使えたプロンプトを記録する&lt;/strong&gt;（資産になる）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回答をそのまま使わない&lt;/strong&gt;（最終確認は自分で）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;この3つを続けるだけで、AIの活用レベルが確実に上がります。ぜひ試してみてください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/" &gt;AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/" &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</link><pubDate>Sat, 11 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/cover.png" alt="Featured image of post AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】" /&gt;&lt;p&gt;「ChatGPTを登録したけど、気づいたら使わなくなっていた」&lt;/p&gt;
-&lt;p&gt;これ、すごくよくあります。新しいツールを習慣にするのは難しい。私も最初の1ヶ月は挫折しかけました。&lt;/p&gt;
-&lt;p&gt;でも今では、AIなしの日は逆に落ち着かないくらい使い込んでいます。その経験から、習慣化のコツをまとめました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="なぜaiは習慣にならないのか"&gt;なぜAIは習慣にならないのか
-&lt;/h2&gt;&lt;p&gt;挫折するパターンは大体この3つです。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;何に使うか決めていない&lt;/strong&gt; → 「いつか使おう」で終わる&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;アクセスが面倒&lt;/strong&gt; → 開くのが億劫になる&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;最初の体験がイマイチ&lt;/strong&gt; → 「別に使わなくてもいいか」となる&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;これを一つずつ解決するのが習慣化の近道です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="ステップ1これだけに使うを1つ決める"&gt;ステップ1：「これだけに使う」を1つ決める
-&lt;/h2&gt;&lt;p&gt;最初から全部の仕事にAIを使おうとすると続きません。&lt;/p&gt;
-&lt;p&gt;まず&lt;strong&gt;1つのタスクだけ&lt;/strong&gt;にAIを使うと決めましょう。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;おすすめの「最初の1つ」：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;毎日書く日報の下書き&lt;/li&gt;
-&lt;li&gt;仕事メールの文章チェック&lt;/li&gt;
-&lt;li&gt;朝のスケジュール整理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;「毎日やること」にAIを組み込むのがポイント。ルーティンに組み込めれば、後は自然と定着します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="ステップ2アクセスを限界まで楽にする"&gt;ステップ2：アクセスを限界まで楽にする
-&lt;/h2&gt;&lt;p&gt;人間は面倒だと感じた瞬間、新しいツールを使わなくなります。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;具体的な対策：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ブラウザのホーム画面をChatGPTにする&lt;/li&gt;
-&lt;li&gt;スマホのホーム画面にAIアプリのショートカットを置く&lt;/li&gt;
-&lt;li&gt;よく使うプロンプトをテキストファイルに保存しておく&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;私は「Claude」「ChatGPT」「Gemini」の3つをブックマークバーに並べています。開くまでに2秒もかかりません。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="ステップ3使った記録を残す"&gt;ステップ3：使った記録を残す
-&lt;/h2&gt;&lt;p&gt;習慣化に最も効果的なのは「小さな成功体験の積み重ね」です。&lt;/p&gt;
-&lt;p&gt;シンプルなメモでいいので記録してみてください。&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;5/10：Claudeでメール下書き → 15分→2分に短縮
-5/11：ChatGPTで企画書の構成を作った → ゼロから考えるより速かった
-5/12：Geminiで競合リサーチ → 情報が最新で助かった
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;記録することで「AIを使うと何が変わるか」が見えてきて、モチベーションが続きます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="1ヶ月の変化イメージ"&gt;1ヶ月の変化イメージ
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;時期&lt;/th&gt;
- &lt;th&gt;状態&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;1週目&lt;/td&gt;
- &lt;td&gt;1つのタスクに毎日使う&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;2週目&lt;/td&gt;
- &lt;td&gt;使い道を2〜3つに広げる&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;3週目&lt;/td&gt;
- &lt;td&gt;AIなしだと不便に感じ始める&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;1ヶ月後&lt;/td&gt;
- &lt;td&gt;自然とAIを使っている&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id="やりがちなng習慣化"&gt;やりがちなNG習慣化
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;いきなり全部の仕事に使おうとする&lt;/strong&gt;（燃え尽きる）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「完璧な使い方を調べてから」と先延ばし&lt;/strong&gt;（永遠に始まらない）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「今日は疲れたから明日」を繰り返す&lt;/strong&gt;（1日休むと2日、3日と増えていく）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;完璧でなくていい。まず「今日ひとつ使う」を続けることが全てです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;AIの習慣化は難しくありません。「1つ決める・アクセスを楽にする・記録する」この3つだけでOK。&lt;/p&gt;
-&lt;p&gt;1ヶ月後には、AIを使うことが当たり前になっている自分に気づくはずです。今日から始めてみましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/" &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-tools-i-use/" &gt;私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>習慣化 on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%BF%92%E6%85%A3%E5%8C%96/</link>
+        <description>Recent content in 習慣化 on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sat, 18 Apr 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E7%BF%92%E6%85%A3%E5%8C%96/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>ChatGPTで英語学習が変わった。毎日続けられる3つの練習法</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/</link>
+            <pubDate>Sat, 18 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-english-study/cover.png&#34; alt=&#34;Featured image of post ChatGPTで英語学習が変わった。毎日続けられる3つの練習法&#34; /&gt;&lt;p&gt;「英語、勉強したいけど続かない」&lt;/p&gt;&#xA;&lt;p&gt;私もそうでした。でもChatGPTを英語の練習相手にしてから、毎日続けられるようになりました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;なぜchatgptで英語学習が続くのか&#34;&gt;なぜChatGPTで英語学習が続くのか&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;24時間つきあってくれる&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;間違えても怒らない&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;自分のペースで進められる&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;コストがほぼかからない&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;英会話スクールは週1〜2回、費用も月1万円以上かかります。ChatGPTなら毎日、無料または月$20で使い放題です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;方法1英作文の添削&#34;&gt;方法1：英作文の添削&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;日本語で書きたいことを考えて、まず自分で英語に訳してみます。それをChatGPTに見せて「添削して」と頼むだけです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;以下の英文を添削してください。間違いがあれば直し、より自然な表現も教えてください。&#xD;&#xA;&#xD;&#xA;I went to the park yesterday and I play with my friend.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;間違いを指摘してくれるだけでなく、なぜそう書くのかも説明してくれます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;方法2英会話の練習相手になってもらう&#34;&gt;方法2：英会話の練習相手になってもらう&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;「英語で会話練習をしたい」と伝えると、英語で会話してくれます。わからない単語は日本語で聞いてもOKです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Let&amp;#39;s practice English conversation. &#xD;&#xA;Please speak simply and correct my mistakes.&#xD;&#xA;Topic: talking about my daily routine.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;方法3単語の使い方を例文で覚える&#34;&gt;方法3：単語の使い方を例文で覚える&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;新しい単語を覚えたいとき、例文を作ってもらうと記憶に残りやすいです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;プロンプト例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#34;nevertheless&amp;#34;という単語を使った例文を5つ作ってください。&#xD;&#xA;日本語訳もつけてください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1日10分から始める&#34;&gt;1日10分から始める&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最初から長時間やろうとすると続きません。まずは1日10分だけ。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;英文を1〜2文書いてChatGPTに添削してもらう&lt;/li&gt;&#xA;&lt;li&gt;それだけでOKです&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;ChatGPTは24時間使える英語練習相手&lt;/li&gt;&#xA;&lt;li&gt;添削・会話・例文作成に使える&lt;/li&gt;&#xA;&lt;li&gt;まずは1日10分の英作文添削から始めよう&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;英語は副業にも直結します。PromptBaseの出品説明文を英語で書けるようになれば、世界中に売れる可能性が広がります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-start-guide/&#34; &gt;ChatGPTの始め方【登録から使い方まで5分で解説】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/chatgpt-prompt-writing-guide/&#34; &gt;ChatGPTプロンプトの書き方入門【初心者が最初に覚える5つのコツ】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/&#34; &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>AIツールを使いこなすために続けている3つの習慣</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</link>
+            <pubDate>Sun, 12 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/cover.png&#34; alt=&#34;Featured image of post AIツールを使いこなすために続けている3つの習慣&#34; /&gt;&lt;p&gt;「AIツールを使い始めたけど、なんかうまく活用できていない気がする」&lt;/p&gt;&#xA;&lt;p&gt;最初の数ヶ月、私もそうでした。今回は半年間使い続けてわかった、AIを使いこなすための習慣を3つ紹介します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;習慣1まずaiに聞いてみる&#34;&gt;習慣1：まずAIに聞いてみる&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;何か迷ったとき、「とりあえずAIに聞いてみる」を習慣にしました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;こんなことも聞いています：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;「このメールの返信文を書いて」&lt;/li&gt;&#xA;&lt;li&gt;「今日のタスクを優先順位をつけて整理して」&lt;/li&gt;&#xA;&lt;li&gt;「この言葉の意味を教えて」&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;最初は「こんなこと聞いていいのかな」と思っていましたが、AIはどんな質問にも答えてくれます。遠慮しないことが大事です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;習慣2プロンプトを記録する&#34;&gt;習慣2：プロンプトを記録する&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;「このプロンプトでいい返答が来た！」というものをメモしておきます。&lt;/p&gt;&#xA;&lt;p&gt;NotionやメモアプリにAI用のページを作って、使えたプロンプトをストックしています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ストックしているプロンプト例：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ブログ記事の下書きを書いてもらうとき&lt;/li&gt;&#xA;&lt;li&gt;提案文を作るとき&lt;/li&gt;&#xA;&lt;li&gt;英文を添削してもらうとき&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;一度うまくいったプロンプトは、次も同じように使えます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;習慣3aiの回答をそのまま使わない&#34;&gt;習慣3：AIの回答をそのまま使わない&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIは間違えることがあります。特に数字・統計・最新情報は要確認です。&lt;/p&gt;&#xA;&lt;p&gt;私のルール：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;AIの回答を読む&lt;/li&gt;&#xA;&lt;li&gt;重要な情報はWebで確認&lt;/li&gt;&#xA;&lt;li&gt;自分の言葉に書き直してから使う&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;「AIが言ったから正しい」ではなく、「AIが下書きを作ってくれた、あとは自分で確認する」というスタンスが大切です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;結局慣れが一番大事&#34;&gt;結局、慣れが一番大事&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIツールは使えば使うほど上手くなります。&lt;/p&gt;&#xA;&lt;p&gt;最初はぎこちなくても、毎日触っているうちに「このシーンではこう使う」という感覚が自然に身についてきます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;まずAIに聞く&lt;/strong&gt;（遠慮しない）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;使えたプロンプトを記録する&lt;/strong&gt;（資産になる）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;回答をそのまま使わない&lt;/strong&gt;（最終確認は自分で）&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;この3つを続けるだけで、AIの活用レベルが確実に上がります。ぜひ試してみてください。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/&#34; &gt;AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/&#34; &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/notion-ai-guide/&#34; &gt;NotionAIを使い始めたら、メモの質が上がった話&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;作業中のbgmにどうぞ&#34;&gt;作業中のBGMにどうぞ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;副業作業や勉強中に集中したいとき、Sunoで制作した&lt;strong&gt;AI作業用BGM&lt;/strong&gt;をYouTubeで公開しています。&#xA;ループ再生しながら作業すると、集中力が続きますよ。&lt;/p&gt;&#xA;&lt;p&gt;▶ &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@16bit_chill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;作業用BGMチャンネル「16bit_chill」はこちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</link>
+            <pubDate>Sat, 11 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habit-tips/cover.png&#34; alt=&#34;Featured image of post AIを毎日使い続けるための習慣化のコツ【3ステップで定着させる方法】&#34; /&gt;&lt;p&gt;「ChatGPTを登録したけど、気づいたら使わなくなっていた」&lt;/p&gt;&#xA;&lt;p&gt;これ、すごくよくあります。新しいツールを習慣にするのは難しい。私も最初の1ヶ月は挫折しかけました。&lt;/p&gt;&#xA;&lt;p&gt;でも今では、AIなしの日は逆に落ち着かないくらい使い込んでいます。その経験から、習慣化のコツをまとめました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;なぜaiは習慣にならないのか&#34;&gt;なぜAIは習慣にならないのか&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;挫折するパターンは大体この3つです。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;何に使うか決めていない&lt;/strong&gt; → 「いつか使おう」で終わる&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;アクセスが面倒&lt;/strong&gt; → 開くのが億劫になる&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;最初の体験がイマイチ&lt;/strong&gt; → 「別に使わなくてもいいか」となる&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;これを一つずつ解決するのが習慣化の近道です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ステップ1これだけに使うを1つ決める&#34;&gt;ステップ1：「これだけに使う」を1つ決める&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最初から全部の仕事にAIを使おうとすると続きません。&lt;/p&gt;&#xA;&lt;p&gt;まず&lt;strong&gt;1つのタスクだけ&lt;/strong&gt;にAIを使うと決めましょう。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;おすすめの「最初の1つ」：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;毎日書く日報の下書き&lt;/li&gt;&#xA;&lt;li&gt;仕事メールの文章チェック&lt;/li&gt;&#xA;&lt;li&gt;朝のスケジュール整理&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;「毎日やること」にAIを組み込むのがポイント。ルーティンに組み込めれば、後は自然と定着します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ステップ2アクセスを限界まで楽にする&#34;&gt;ステップ2：アクセスを限界まで楽にする&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;人間は面倒だと感じた瞬間、新しいツールを使わなくなります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;具体的な対策：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ブラウザのホーム画面をChatGPTにする&lt;/li&gt;&#xA;&lt;li&gt;スマホのホーム画面にAIアプリのショートカットを置く&lt;/li&gt;&#xA;&lt;li&gt;よく使うプロンプトをテキストファイルに保存しておく&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;私は「Claude」「ChatGPT」「Gemini」の3つをブックマークバーに並べています。開くまでに2秒もかかりません。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ステップ3使った記録を残す&#34;&gt;ステップ3：使った記録を残す&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;習慣化に最も効果的なのは「小さな成功体験の積み重ね」です。&lt;/p&gt;&#xA;&lt;p&gt;シンプルなメモでいいので記録してみてください。&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;5/10：Claudeでメール下書き → 15分→2分に短縮&#xD;&#xA;5/11：ChatGPTで企画書の構成を作った → ゼロから考えるより速かった&#xD;&#xA;5/12：Geminiで競合リサーチ → 情報が最新で助かった&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;記録することで「AIを使うと何が変わるか」が見えてきて、モチベーションが続きます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1ヶ月の変化イメージ&#34;&gt;1ヶ月の変化イメージ&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;時期&lt;/th&gt;&#xA;          &lt;th&gt;状態&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1週目&lt;/td&gt;&#xA;          &lt;td&gt;1つのタスクに毎日使う&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2週目&lt;/td&gt;&#xA;          &lt;td&gt;使い道を2〜3つに広げる&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3週目&lt;/td&gt;&#xA;          &lt;td&gt;AIなしだと不便に感じ始める&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1ヶ月後&lt;/td&gt;&#xA;          &lt;td&gt;自然とAIを使っている&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;やりがちなng習慣化&#34;&gt;やりがちなNG習慣化&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;いきなり全部の仕事に使おうとする&lt;/strong&gt;（燃え尽きる）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;「完璧な使い方を調べてから」と先延ばし&lt;/strong&gt;（永遠に始まらない）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;「今日は疲れたから明日」を繰り返す&lt;/strong&gt;（1日休むと2日、3日と増えていく）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;完璧でなくていい。まず「今日ひとつ使う」を続けることが全てです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIの習慣化は難しくありません。「1つ決める・アクセスを楽にする・記録する」この3つだけでOK。&lt;/p&gt;&#xA;&lt;p&gt;1ヶ月後には、AIを使うことが当たり前になっている自分に気づくはずです。今日から始めてみましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-habits-for-productivity/&#34; &gt;AIツールを使いこなすために続けている3つの習慣&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/&#34; &gt;仕事でAIを使うと何が変わる？実際に試してわかった10の効果&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-tools-i-use/&#34; &gt;私が毎日使っているAIツール3選【40代在宅ワーカーの本音レビュー】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

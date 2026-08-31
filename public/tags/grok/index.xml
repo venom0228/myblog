@@ -1,84 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grok on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/grok/</link><description>Recent content in Grok on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 03 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/grok/index.xml" rel="self" type="application/rss+xml"/><item><title>GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</link><pubDate>Sun, 03 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/cover.png" alt="Featured image of post GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想" /&gt;&lt;p&gt;「ChatGPTとClaude以外にも、使えるAIがあるらしい」&lt;/p&gt;
-&lt;p&gt;そう聞いて試してみたのが**Grok（グロック）**です。X（旧Twitter）で使えるAIで、開発しているのはイーロン・マスク率いるxAI。今回はGrokの特徴と、ChatGPTとの比較をまとめます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="grokとは"&gt;Grokとは
-&lt;/h2&gt;&lt;p&gt;GrokはxAI（エックスエーアイ）が開発した生成AIです。2023年末にリリースされ、X（旧Twitter）のユーザー向けに提供されています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;アクセス方法：&lt;/strong&gt; &lt;a class="link" href="https://grok.com" target="_blank" rel="noopener"
- &gt;grok.com&lt;/a&gt; またはXのサイドバーから（Xのアカウントが必要）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;料金：&lt;/strong&gt; 無料版あり。より高性能なモデルはX Premiumまたは有料プランで利用可能。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="grokの特徴"&gt;Grokの特徴
-&lt;/h2&gt;&lt;h3 id="リアルタイムのxtwitter情報にアクセスできる"&gt;リアルタイムのX（Twitter）情報にアクセスできる
-&lt;/h3&gt;&lt;p&gt;GrokはXのポストをリアルタイムで参照できるため、&lt;strong&gt;今起きているニュースや話題をAIに聞ける&lt;/strong&gt;のが他のAIとの大きな違いです。&lt;/p&gt;
-&lt;p&gt;「今日のトレンドは？」「この件についてXでどんな意見が出ている？」という質問に答えてくれます。&lt;/p&gt;
-&lt;h3 id="ウェブ検索ができる"&gt;ウェブ検索ができる
-&lt;/h3&gt;&lt;p&gt;Grokは標準でウェブ検索機能を持っています。最新情報を踏まえた回答ができるので、学習データが古いAIより最新情報に強い印象があります。&lt;/p&gt;
-&lt;h3 id="少し毒舌なキャラクター"&gt;少し「毒舌」なキャラクター
-&lt;/h3&gt;&lt;p&gt;Grokは意図的にユーモアと皮肉を混ぜた回答をするよう設計されています。砕けたトーンが好きな方には新鮮かもしれません。&lt;/p&gt;
-&lt;h3 id="画像生成機能がある"&gt;画像生成機能がある
-&lt;/h3&gt;&lt;p&gt;Aurora（オーロラ）という画像生成モデルを搭載しており、テキストから画像を生成できます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="chatgptとの比較"&gt;ChatGPTとの比較
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;th&gt;Grok&lt;/th&gt;
- &lt;th&gt;ChatGPT&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;最新情報&lt;/td&gt;
- &lt;td&gt;◎（X・Web連携）&lt;/td&gt;
- &lt;td&gt;○（有料版）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;日本語の自然さ&lt;/td&gt;
- &lt;td&gt;○&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;画像生成&lt;/td&gt;
- &lt;td&gt;○&lt;/td&gt;
- &lt;td&gt;○（DALL-E）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;無料で使える範囲&lt;/td&gt;
- &lt;td&gt;○&lt;/td&gt;
- &lt;td&gt;○&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;X連携&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;td&gt;×&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;ビジネス利用&lt;/td&gt;
- &lt;td&gt;△&lt;/td&gt;
- &lt;td&gt;◎&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id="grokが向いている用途"&gt;Grokが向いている用途
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 最新ニュースのリサーチ&lt;/strong&gt;
-X上のリアルタイム情報を参照できるので、速報性が必要な調査に向いています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. トレンドチェック&lt;/strong&gt;
-「今日Xで話題になっていることは？」という質問が得意です。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 気軽な雑談・アイデア出し&lt;/strong&gt;
-堅苦しくないキャラクターなので、アイデアを気軽にぶつけやすい雰囲気があります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="実際に使ってみた感想"&gt;実際に使ってみた感想
-&lt;/h2&gt;&lt;p&gt;試してみて一番驚いたのは、「昨日のXのトレンドについて教えて」という質問に答えてくれた点です。ChatGPTにはできないことで、Grokならではの強みだと感じました。&lt;/p&gt;
-&lt;p&gt;ただ、日本語の文章を書かせる用途ではClaudeのほうが自然な印象があります。Grokはリサーチ補助として使い、本文はClaudeで仕上げるのが今の私のスタイルです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;GrokはX連携という独自の強みを持つAIです。リアルタイム情報が必要な場面や、Xのトレンドを調べたいときには他のAIより便利。ChatGPT・Claude・Geminiと使い分けて、それぞれの強みを活かすのがスマートな使い方です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/" &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/" &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/perplexity-ai-guide/" &gt;Perplexity AIを使ったら調べ物の速さが変わった【ChatGPTとの違いも解説】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Grok on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/grok/</link>
+        <description>Recent content in Grok on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sun, 03 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/grok/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</link>
+            <pubDate>Sun, 03 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/grok-ai-guide/cover.png&#34; alt=&#34;Featured image of post GrokとはXが開発したAI！ChatGPTと何が違う？使ってみた感想&#34; /&gt;&lt;p&gt;「ChatGPTとClaude以外にも、使えるAIがあるらしい」&lt;/p&gt;&#xA;&lt;p&gt;そう聞いて試してみたのが**Grok（グロック）**です。X（旧Twitter）で使えるAIで、開発しているのはイーロン・マスク率いるxAI。今回はGrokの特徴と、ChatGPTとの比較をまとめます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;grokとは&#34;&gt;Grokとは&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;GrokはxAI（エックスエーアイ）が開発した生成AIです。2023年末にリリースされ、X（旧Twitter）のユーザー向けに提供されています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;アクセス方法：&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://grok.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;grok.com&lt;/a&gt; またはXのサイドバーから（Xのアカウントが必要）&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;料金：&lt;/strong&gt; 無料版あり。より高性能なモデルはX Premiumまたは有料プランで利用可能。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;grokの特徴&#34;&gt;Grokの特徴&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;リアルタイムのxtwitter情報にアクセスできる&#34;&gt;リアルタイムのX（Twitter）情報にアクセスできる&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;GrokはXのポストをリアルタイムで参照できるため、&lt;strong&gt;今起きているニュースや話題をAIに聞ける&lt;/strong&gt;のが他のAIとの大きな違いです。&lt;/p&gt;&#xA;&lt;p&gt;「今日のトレンドは？」「この件についてXでどんな意見が出ている？」という質問に答えてくれます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ウェブ検索ができる&#34;&gt;ウェブ検索ができる&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Grokは標準でウェブ検索機能を持っています。最新情報を踏まえた回答ができるので、学習データが古いAIより最新情報に強い印象があります。&lt;/p&gt;&#xA;&lt;h3 id=&#34;少し毒舌なキャラクター&#34;&gt;少し「毒舌」なキャラクター&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Grokは意図的にユーモアと皮肉を混ぜた回答をするよう設計されています。砕けたトーンが好きな方には新鮮かもしれません。&lt;/p&gt;&#xA;&lt;h3 id=&#34;画像生成機能がある&#34;&gt;画像生成機能がある&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Aurora（オーロラ）という画像生成モデルを搭載しており、テキストから画像を生成できます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;chatgptとの比較&#34;&gt;ChatGPTとの比較&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Grok&lt;/th&gt;&#xA;          &lt;th&gt;ChatGPT&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;最新情報&lt;/td&gt;&#xA;          &lt;td&gt;◎（X・Web連携）&lt;/td&gt;&#xA;          &lt;td&gt;○（有料版）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;日本語の自然さ&lt;/td&gt;&#xA;          &lt;td&gt;○&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;画像生成&lt;/td&gt;&#xA;          &lt;td&gt;○&lt;/td&gt;&#xA;          &lt;td&gt;○（DALL-E）&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;無料で使える範囲&lt;/td&gt;&#xA;          &lt;td&gt;○&lt;/td&gt;&#xA;          &lt;td&gt;○&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;X連携&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;          &lt;td&gt;×&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;ビジネス利用&lt;/td&gt;&#xA;          &lt;td&gt;△&lt;/td&gt;&#xA;          &lt;td&gt;◎&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;grokが向いている用途&#34;&gt;Grokが向いている用途&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1. 最新ニュースのリサーチ&lt;/strong&gt;&#xA;X上のリアルタイム情報を参照できるので、速報性が必要な調査に向いています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2. トレンドチェック&lt;/strong&gt;&#xA;「今日Xで話題になっていることは？」という質問が得意です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3. 気軽な雑談・アイデア出し&lt;/strong&gt;&#xA;堅苦しくないキャラクターなので、アイデアを気軽にぶつけやすい雰囲気があります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;実際に使ってみた感想&#34;&gt;実際に使ってみた感想&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;試してみて一番驚いたのは、「昨日のXのトレンドについて教えて」という質問に答えてくれた点です。ChatGPTにはできないことで、Grokならではの強みだと感じました。&lt;/p&gt;&#xA;&lt;p&gt;ただ、日本語の文章を書かせる用途ではClaudeのほうが自然な印象があります。Grokはリサーチ補助として使い、本文はClaudeで仕上げるのが今の私のスタイルです。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;GrokはX連携という独自の強みを持つAIです。リアルタイム情報が必要な場面や、Xのトレンドを調べたいときには他のAIより便利。ChatGPT・Claude・Geminiと使い分けて、それぞれの強みを活かすのがスマートな使い方です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-three-tools-comparison-2026/&#34; &gt;ChatGPT・Claude・Gemini どれを使えばいい？2026年版・用途別比較&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/claude-ai-guide/&#34; &gt;Claudeとは？ChatGPTと何が違うのか使い比べてわかったこと&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/perplexity-ai-guide/&#34; &gt;Perplexity AIを使ったら調べ物の速さが変わった【ChatGPTとの違いも解説】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

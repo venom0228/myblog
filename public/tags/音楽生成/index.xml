@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>音楽生成 on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9F%B3%E6%A5%BD%E7%94%9F%E6%88%90/</link><description>Recent content in 音楽生成 on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 02 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9F%B3%E6%A5%BD%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml"/><item><title>SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/</link><pubDate>Sat, 02 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/cover.png" alt="Featured image of post SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった" /&gt;&lt;p&gt;「作業用BGMをAIで作れるって本当？」&lt;/p&gt;
-&lt;p&gt;作れます。しかも思っていた以上にクオリティが高くて驚きました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="sunoとは"&gt;Sunoとは？
-&lt;/h2&gt;&lt;p&gt;テキストを入力するだけでオリジナル音楽を生成できるAIツールです。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a class="link" href="https://suno.com" target="_blank" rel="noopener"
- &gt;https://suno.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ジャンル・雰囲気・楽器などを指定するだけで、数十秒でリアルな音楽が完成します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="作ったのはこんな音楽"&gt;作ったのはこんな音楽
-&lt;/h2&gt;&lt;p&gt;スーファミ時代のゲーム音楽風のローファイチル。&lt;/p&gt;
-&lt;p&gt;のんびりしたテンポで、懐かしくて温かみのある音楽を目指しました。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;使ったプロンプト：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;lo-fi chill, SNES-style retro game music, 
-soft chiptune melody, nostalgic, relaxing, 
-slow tempo, warm and cozy atmosphere
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="sunoの使い方"&gt;Sunoの使い方
-&lt;/h2&gt;&lt;h3 id="ステップ1アカウント作成"&gt;ステップ1：アカウント作成
-&lt;/h3&gt;&lt;p&gt;Googleアカウントで登録できます。無料プランで毎日5曲まで生成できます。&lt;/p&gt;
-&lt;h3 id="ステップ2プロンプトを入力"&gt;ステップ2：プロンプトを入力
-&lt;/h3&gt;&lt;p&gt;「Create」画面でプロンプトを入力します。英語で書くとより精度が上がります。&lt;/p&gt;
-&lt;h3 id="ステップ3生成された曲を確認"&gt;ステップ3：生成された曲を確認
-&lt;/h3&gt;&lt;p&gt;30秒〜2分程度の曲が生成されます。気に入らなければ何度でも再生成できます。&lt;/p&gt;
-&lt;h3 id="ステップ4ダウンロード"&gt;ステップ4：ダウンロード
-&lt;/h3&gt;&lt;p&gt;気に入った曲をMP3でダウンロードします（有料プランが必要）。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="youtubeにアップするには"&gt;YouTubeにアップするには
-&lt;/h2&gt;&lt;p&gt;BGM動画としてYouTubeにアップする場合は：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Sunoで音楽を生成・ダウンロード&lt;/li&gt;
-&lt;li&gt;動画編集ソフト（iMovieやCapCutなど）でループ動画を作成&lt;/li&gt;
-&lt;li&gt;YouTube Studioからアップロード&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;ループ動画は静止画1枚＋音楽でも十分です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="著作権について"&gt;著作権について
-&lt;/h2&gt;&lt;p&gt;Sunoの有料プランで生成した音楽は商用利用可能です。無料プランは個人利用に限られます。&lt;/p&gt;
-&lt;p&gt;YouTubeで収益化を目指す場合は、有料プランを使いましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;テキストを入力するだけで音楽が生成できる&lt;/li&gt;
-&lt;li&gt;スーファミ風・ローファイ系は得意ジャンル&lt;/li&gt;
-&lt;li&gt;YouTube用BGM動画として活用できる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;AIで音楽まで作れる時代になったことに、正直驚いています。興味がある方はぜひ試してみてください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/" &gt;Canvaで無料！ブログのアイキャッチ画像を10分で作る方法&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/" &gt;Geminiの画像生成が無料で使える！使い方と活用例を解説&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>音楽生成 on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9F%B3%E6%A5%BD%E7%94%9F%E6%88%90/</link>
+        <description>Recent content in 音楽生成 on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sat, 02 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E9%9F%B3%E6%A5%BD%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/</link>
+            <pubDate>Sat, 02 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/suno-bgm-youtube/cover.png&#34; alt=&#34;Featured image of post SunoでYouTube作業用BGMを作ってみた。スーファミ風ローファイが思いのほかよかった&#34; /&gt;&lt;p&gt;「作業用BGMをAIで作れるって本当？」&lt;/p&gt;&#xA;&lt;p&gt;作れます。しかも思っていた以上にクオリティが高くて驚きました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sunoとは&#34;&gt;Sunoとは？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;テキストを入力するだけでオリジナル音楽を生成できるAIツールです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://suno.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;https://suno.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;ジャンル・雰囲気・楽器などを指定するだけで、数十秒でリアルな音楽が完成します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;作ったのはこんな音楽&#34;&gt;作ったのはこんな音楽&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;スーファミ時代のゲーム音楽風のローファイチル。&lt;/p&gt;&#xA;&lt;p&gt;のんびりしたテンポで、懐かしくて温かみのある音楽を目指しました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;使ったプロンプト：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;lo-fi chill, SNES-style retro game music, &#xD;&#xA;soft chiptune melody, nostalgic, relaxing, &#xD;&#xA;slow tempo, warm and cozy atmosphere&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sunoの使い方&#34;&gt;Sunoの使い方&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;ステップ1アカウント作成&#34;&gt;ステップ1：アカウント作成&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;Googleアカウントで登録できます。無料プランで毎日5曲まで生成できます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ステップ2プロンプトを入力&#34;&gt;ステップ2：プロンプトを入力&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「Create」画面でプロンプトを入力します。英語で書くとより精度が上がります。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ステップ3生成された曲を確認&#34;&gt;ステップ3：生成された曲を確認&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;30秒〜2分程度の曲が生成されます。気に入らなければ何度でも再生成できます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ステップ4ダウンロード&#34;&gt;ステップ4：ダウンロード&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;気に入った曲をMP3でダウンロードします（有料プランが必要）。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;youtubeにアップするには&#34;&gt;YouTubeにアップするには&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;BGM動画としてYouTubeにアップする場合は：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sunoで音楽を生成・ダウンロード&lt;/li&gt;&#xA;&lt;li&gt;動画編集ソフト（iMovieやCapCutなど）でループ動画を作成&lt;/li&gt;&#xA;&lt;li&gt;YouTube Studioからアップロード&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;ループ動画は静止画1枚＋音楽でも十分です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;著作権について&#34;&gt;著作権について&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;Sunoの有料プランで生成した音楽は商用利用可能です。無料プランは個人利用に限られます。&lt;/p&gt;&#xA;&lt;p&gt;YouTubeで収益化を目指す場合は、有料プランを使いましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;テキストを入力するだけで音楽が生成できる&lt;/li&gt;&#xA;&lt;li&gt;スーファミ風・ローファイ系は得意ジャンル&lt;/li&gt;&#xA;&lt;li&gt;YouTube用BGM動画として活用できる&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;AIで音楽まで作れる時代になったことに、正直驚いています。興味がある方はぜひ試してみてください。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/canva-eyecatch-guide/&#34; &gt;Canvaで無料！ブログのアイキャッチ画像を10分で作る方法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/gemini-image-guide/&#34; &gt;Geminiの画像生成が無料で使える！使い方と活用例を解説&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIとブログを組み合わせる方法【記事作成を時短する私のワークフロー】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;作業中のbgmにどうぞ&#34;&gt;作業中のBGMにどうぞ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;副業作業や勉強中に集中したいとき、Sunoで制作した&lt;strong&gt;AI作業用BGM&lt;/strong&gt;をYouTubeで公開しています。&#xA;ループ再生しながら作業すると、集中力が続きますよ。&lt;/p&gt;&#xA;&lt;p&gt;▶ &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@16bit_chill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;作業用BGMチャンネル「16bit_chill」はこちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

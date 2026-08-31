@@ -1,135 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ライティング on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link><description>Recent content in ライティング on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 24 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</link><pubDate>Sun, 24 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/cover.png" alt="Featured image of post AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】" /&gt;&lt;p&gt;AIライティングは今もっとも始めやすい副業の一つです。ゼロから月3万円を目指す具体的な方法を解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiライティング副業の現実"&gt;AIライティング副業の現実
-&lt;/h2&gt;&lt;p&gt;まず正直に言います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AIで書いた文章をそのまま納品するのはNG&lt;/strong&gt;です。クライアントはAI丸投げ記事を嫌います。Googleもそれを評価しません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;正しい使い方：&lt;/strong&gt;
-AIを「下書き生成ツール」として使い、自分でリライト・加筆して完成させる。これが品質と効率の両立です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="月3万円の目安"&gt;月3万円の目安
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;単価&lt;/th&gt;
- &lt;th&gt;必要文字数&lt;/th&gt;
- &lt;th&gt;月の作業時間&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字1.5円&lt;/td&gt;
- &lt;td&gt;約20,000文字&lt;/td&gt;
- &lt;td&gt;約20〜30時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字2円&lt;/td&gt;
- &lt;td&gt;約15,000文字&lt;/td&gt;
- &lt;td&gt;約15〜25時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字3円&lt;/td&gt;
- &lt;td&gt;約10,000文字&lt;/td&gt;
- &lt;td&gt;約10〜20時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;月3万円は1日1〜2時間で十分届く範囲です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="案件の見つけ方"&gt;案件の見つけ方
-&lt;/h2&gt;&lt;h3 id="-クラウドワークス"&gt;① クラウドワークス
-&lt;/h3&gt;&lt;p&gt;「記事作成」「ライター」で検索。初心者向けの案件も多数。&lt;/p&gt;
-&lt;h3 id="-ランサーズ"&gt;② ランサーズ
-&lt;/h3&gt;&lt;p&gt;同様に「ライター」で検索。継続案件をとれると安定しやすい。&lt;/p&gt;
-&lt;h3 id="-直接営業snsブログ"&gt;③ 直接営業（SNS・ブログ）
-&lt;/h3&gt;&lt;p&gt;自分のブログやSNSでライター活動を発信。依頼が来ることも。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiを使ったライティングの流れ"&gt;AIを使ったライティングの流れ
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;STEP1：テーマ・キーワードを確認&lt;/strong&gt;
-クライアントから「〇〇について2000文字で」という指示が届く。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STEP2：ChatGPTで構成を作る&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;「〇〇について、初心者向けブログ記事の構成（見出し5つ）を作って」
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP3：各見出しをChatGPTで下書き&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;「上の構成で、『〇〇』の見出しの本文を400文字で書いて」
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP4：自分でリライト・加筆&lt;/strong&gt;
-AIの文章を読んで、不自然な部分・薄い部分を自分の言葉で補強。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STEP5：誤字脱字チェックして納品&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="単価アップのコツ"&gt;単価アップのコツ
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;専門ジャンルを作る&lt;/strong&gt;（AI・副業・健康など）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;実績を積んでポートフォリオを作る&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;WordPressで入稿できるようにする&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SEOの基礎知識を身につける&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;ジャンル特化ライターは1文字3〜5円も狙えます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;AIライティングは「AIに書かせる」ではなく「AIと一緒に書く」がポイント。最初の1ヶ月は実績づくりと割り切り、まず5記事納品を目標にしましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/" &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>クラウドワークスで最初の仕事を取るまでにやったこと</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</link><pubDate>Wed, 22 Apr 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/cover.png" alt="Featured image of post クラウドワークスで最初の仕事を取るまでにやったこと" /&gt;&lt;p&gt;クラウドソーシングを始めて最初の壁は「最初の1件を取ること」です。&lt;/p&gt;
-&lt;p&gt;実績ゼロの状態でどうやって受注するか、私がやった方法をまとめます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="最初の1件が難しい理由"&gt;最初の1件が難しい理由
-&lt;/h2&gt;&lt;p&gt;クラウドワークスでは、クライアントは実績を見て発注先を選びます。&lt;/p&gt;
-&lt;p&gt;実績ゼロだと選ばれにくい。でも実績を作るには仕事を受注しないといけない。この「鶏と卵」状態が最初の壁です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="解決策単価を気にせず実績を作る"&gt;解決策：単価を気にせず実績を作る
-&lt;/h2&gt;&lt;p&gt;最初は単価より「実績を作ること」を優先しました。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;具体的にやったこと：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;タスク形式の案件を選ぶ&lt;/strong&gt;
-提案文不要でその場で仕事ができる案件です。1記事500円以下でも、まずは経験を積む。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;コンペ形式に参加する&lt;/strong&gt;
-採用されなくても経験になります。採用されれば実績と報酬の両方が手に入ります。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;丁寧な提案文を書く&lt;/strong&gt;
-実績がない分、提案文で誠実さをアピール。「AIを活用して期日より早く納品します」と具体的に書く。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id="実際に使った提案文の構成"&gt;実際に使った提案文の構成
-&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;【はじめまして】
-〇〇と申します。
-
-【できること】
-AIツールを活用したライティングが得意です。
-SEOを意識した読みやすい記事を作成します。
-
-【対応できる内容】
-・ブログ記事（1,000〜3,000文字）
-・商品説明文
-・SNS投稿文
-
-【納品について】
-ご希望の期日より1〜2日早い納品を心がけています。
-
-ご不明点はお気軽にご質問ください。
-よろしくお願いします。
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="最初の1件を取ったあとは"&gt;最初の1件を取ったあとは
-&lt;/h2&gt;&lt;p&gt;1件実績ができると、次の受注がぐっとラクになります。&lt;/p&gt;
-&lt;p&gt;評価を★5でもらえるよう、最初の案件は特に丁寧に対応しました。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;最初は単価より「実績作り」を優先&lt;/li&gt;
-&lt;li&gt;タスク形式・コンペから始めると入りやすい&lt;/li&gt;
-&lt;li&gt;丁寧な提案文＋AIで品質を担保する&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;焦らず、1件ずつ積み上げていきましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/" &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/" &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ライティング on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+        <description>Recent content in ライティング on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI校正ツールで文章の質を上げる｜副業ライターの必須スキル</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-proofreading-guide/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-proofreading-guide/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-proofreading-guide/cover.png&#34; alt=&#34;Featured image of post AI校正ツールで文章の質を上げる｜副業ライターの必須スキル&#34; /&gt;&lt;p&gt;副業ライターとして稼ぐには、&lt;strong&gt;文章の品質&lt;/strong&gt;が直接収入に影響します。&lt;/p&gt;&#xA;&lt;p&gt;誤字・脱字があるだけで信頼を失い、単価交渉もできなくなる。でも自分で何度も読み直すのは時間がかかる。&lt;/p&gt;&#xA;&lt;p&gt;そこで&lt;strong&gt;AI校正ツール&lt;/strong&gt;を活用して、効率よく文章の品質を上げる方法を紹介します。&lt;/p&gt;&#xA;&lt;h2 id=&#34;aiで校正できること&#34;&gt;AIで校正できること&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;誤字・脱字の検出&lt;/li&gt;&#xA;&lt;li&gt;文法ミスの修正&lt;/li&gt;&#xA;&lt;li&gt;表記の揺れ統一（「AI」と「Ａ I」など）&lt;/li&gt;&#xA;&lt;li&gt;読みやすさの改善&lt;/li&gt;&#xA;&lt;li&gt;敬語・文体の統一&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;活用できるaiツール&#34;&gt;活用できるAIツール&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-chatgpt一番手軽&#34;&gt;① ChatGPT（一番手軽）&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;書いた文章をそのまま貼り付けて「誤字脱字・文法ミスを修正して」と頼むだけ。&lt;/p&gt;&#xA;&lt;p&gt;プロンプト例：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;以下の文章を校正してください。&#xD;&#xA;・誤字・脱字の修正&#xD;&#xA;・不自然な表現の改善&#xD;&#xA;・読みやすさの向上&#xD;&#xA;修正した箇所はわかるように説明してください。&#xD;&#xA;&#xD;&#xA;[文章をここに貼り付け]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-claude長文向き&#34;&gt;② Claude（長文向き）&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;10,000字を超える長文の校正はClaudeが得意です。文脈を理解した上で一貫性のある校正をしてくれます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-文賢日本語特化&#34;&gt;③ 文賢（日本語特化）&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;日本語校正に特化したツール。ビジネス文書の校正に向いています。有料ですが精度が高い。&lt;/p&gt;&#xA;&lt;h2 id=&#34;校正の実際のフロー&#34;&gt;校正の実際のフロー&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;まず自分で一読&lt;/strong&gt;（大きなミスをざっと確認）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ChatGPTで校正&lt;/strong&gt;（誤字・表現の修正）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;自分で最終確認&lt;/strong&gt;（AIの修正が適切か判断）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;納品&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;このフローで1記事の校正時間が&lt;strong&gt;30分→10分&lt;/strong&gt;に短縮されます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;aiに任せすぎないコツ&#34;&gt;AIに任せすぎないコツ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIは完璧ではありません。特に注意が必要なのは：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;事実確認はAIに任せない&lt;/strong&gt;（AIは間違った情報を自信満々に言うことがある）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;文体の「味」を消さない&lt;/strong&gt;（AIが整えすぎると無個性な文章になる）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;クライアントの指定表記を優先&lt;/strong&gt;（AIが勝手に変えることがある）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AI校正ツールを使いこなすと、副業ライターとしての「信頼性」が上がります。&lt;/p&gt;&#xA;&lt;p&gt;納品前の最終チェックにAIを挟むだけで、クオリティが格段に上がります。まずはChatGPTで試してみてください。&lt;/p&gt;&#xA;&lt;p&gt;関連記事：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/&#34; &gt;AIライティング副業の始め方&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIブログ執筆ワークフロー&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;作業中のbgmにどうぞ&#34;&gt;作業中のBGMにどうぞ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;副業作業や勉強中に集中したいとき、Sunoで制作した&lt;strong&gt;AI作業用BGM&lt;/strong&gt;をYouTubeで公開しています。&#xA;ループ再生しながら作業すると、集中力が続きますよ。&lt;/p&gt;&#xA;&lt;p&gt;▶ &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@16bit_chill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;作業用BGMチャンネル「16bit_chill」はこちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</link>
+            <pubDate>Sun, 24 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/cover.png&#34; alt=&#34;Featured image of post AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】&#34; /&gt;&lt;p&gt;AIライティングは今もっとも始めやすい副業の一つです。ゼロから月3万円を目指す具体的な方法を解説します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiライティング副業の現実&#34;&gt;AIライティング副業の現実&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;まず正直に言います。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AIで書いた文章をそのまま納品するのはNG&lt;/strong&gt;です。クライアントはAI丸投げ記事を嫌います。Googleもそれを評価しません。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;正しい使い方：&lt;/strong&gt;&#xA;AIを「下書き生成ツール」として使い、自分でリライト・加筆して完成させる。これが品質と効率の両立です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;月3万円の目安&#34;&gt;月3万円の目安&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;単価&lt;/th&gt;&#xA;          &lt;th&gt;必要文字数&lt;/th&gt;&#xA;          &lt;th&gt;月の作業時間&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字1.5円&lt;/td&gt;&#xA;          &lt;td&gt;約20,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約20〜30時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字2円&lt;/td&gt;&#xA;          &lt;td&gt;約15,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約15〜25時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字3円&lt;/td&gt;&#xA;          &lt;td&gt;約10,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約10〜20時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;月3万円は1日1〜2時間で十分届く範囲です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;案件の見つけ方&#34;&gt;案件の見つけ方&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-クラウドワークス&#34;&gt;① クラウドワークス&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「記事作成」「ライター」で検索。初心者向けの案件も多数。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-ランサーズ&#34;&gt;② ランサーズ&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;同様に「ライター」で検索。継続案件をとれると安定しやすい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-直接営業snsブログ&#34;&gt;③ 直接営業（SNS・ブログ）&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;自分のブログやSNSでライター活動を発信。依頼が来ることも。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiを使ったライティングの流れ&#34;&gt;AIを使ったライティングの流れ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;STEP1：テーマ・キーワードを確認&lt;/strong&gt;&#xA;クライアントから「〇〇について2000文字で」という指示が届く。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;STEP2：ChatGPTで構成を作る&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「〇〇について、初心者向けブログ記事の構成（見出し5つ）を作って」&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP3：各見出しをChatGPTで下書き&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「上の構成で、『〇〇』の見出しの本文を400文字で書いて」&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP4：自分でリライト・加筆&lt;/strong&gt;&#xA;AIの文章を読んで、不自然な部分・薄い部分を自分の言葉で補強。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;STEP5：誤字脱字チェックして納品&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;単価アップのコツ&#34;&gt;単価アップのコツ&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;専門ジャンルを作る&lt;/strong&gt;（AI・副業・健康など）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;実績を積んでポートフォリオを作る&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WordPressで入稿できるようにする&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEOの基礎知識を身につける&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;ジャンル特化ライターは1文字3〜5円も狙えます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIライティングは「AIに書かせる」ではなく「AIと一緒に書く」がポイント。最初の1ヶ月は実績づくりと割り切り、まず5記事納品を目標にしましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/&#34; &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/&#34; &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>クラウドワークスで最初の仕事を取るまでにやったこと</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</link>
+            <pubDate>Wed, 22 Apr 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/cover.png&#34; alt=&#34;Featured image of post クラウドワークスで最初の仕事を取るまでにやったこと&#34; /&gt;&lt;p&gt;クラウドソーシングを始めて最初の壁は「最初の1件を取ること」です。&lt;/p&gt;&#xA;&lt;p&gt;実績ゼロの状態でどうやって受注するか、私がやった方法をまとめます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;最初の1件が難しい理由&#34;&gt;最初の1件が難しい理由&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;クラウドワークスでは、クライアントは実績を見て発注先を選びます。&lt;/p&gt;&#xA;&lt;p&gt;実績ゼロだと選ばれにくい。でも実績を作るには仕事を受注しないといけない。この「鶏と卵」状態が最初の壁です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;解決策単価を気にせず実績を作る&#34;&gt;解決策：単価を気にせず実績を作る&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最初は単価より「実績を作ること」を優先しました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;具体的にやったこと：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;タスク形式の案件を選ぶ&lt;/strong&gt;&#xA;提案文不要でその場で仕事ができる案件です。1記事500円以下でも、まずは経験を積む。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;コンペ形式に参加する&lt;/strong&gt;&#xA;採用されなくても経験になります。採用されれば実績と報酬の両方が手に入ります。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;丁寧な提案文を書く&lt;/strong&gt;&#xA;実績がない分、提案文で誠実さをアピール。「AIを活用して期日より早く納品します」と具体的に書く。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;実際に使った提案文の構成&#34;&gt;実際に使った提案文の構成&#xD;&#xA;&lt;/h2&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;【はじめまして】&#xA;〇〇と申します。&#xA;&#xA;【できること】&#xA;AIツールを活用したライティングが得意です。&#xA;SEOを意識した読みやすい記事を作成します。&#xA;&#xA;【対応できる内容】&#xA;・ブログ記事（1,000〜3,000文字）&#xA;・商品説明文&#xA;・SNS投稿文&#xA;&#xA;【納品について】&#xA;ご希望の期日より1〜2日早い納品を心がけています。&#xA;&#xA;ご不明点はお気軽にご質問ください。&#xA;よろしくお願いします。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;最初の1件を取ったあとは&#34;&gt;最初の1件を取ったあとは&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;1件実績ができると、次の受注がぐっとラクになります。&lt;/p&gt;&#xA;&lt;p&gt;評価を★5でもらえるよう、最初の案件は特に丁寧に対応しました。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;最初は単価より「実績作り」を優先&lt;/li&gt;&#xA;&lt;li&gt;タスク形式・コンペから始めると入りやすい&lt;/li&gt;&#xA;&lt;li&gt;丁寧な提案文＋AIで品質を担保する&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;焦らず、1件ずつ積み上げていきましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ライティング以外の選択肢hp制作代行&#34;&gt;ライティング以外の選択肢：HP制作代行&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;クラウドワークスにはライティング以外にも「Web制作・HP制作」カテゴリがあります。&lt;/p&gt;&#xA;&lt;p&gt;AIを活用してWebサイトを作れるなら、1件あたりの単価がライティングより大きいHP制作代行という選択肢もあります。&lt;/p&gt;&#xA;&lt;p&gt;ポートフォリオを用意すれば実績ゼロからでも提案できます。&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a class=&#34;link&#34; href=&#34;https://16bit-chill.github.io/clavis-studio/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;HP制作代行の実例（Clavis Studio）&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/&#34; &gt;AIを使った副業、初心者におすすめの3つの始め方&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/free-ai-tools-side-job/&#34; &gt;無料AIツールだけで副業を始める方法【初期費用ゼロでスタート】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-income-report/&#34; &gt;AI副業の収支を公開。始めて2ヶ月でどのくらい稼げたか&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

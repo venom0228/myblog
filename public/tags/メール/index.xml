@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>メール on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A1%E3%83%BC%E3%83%AB/</link><description>Recent content in メール on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 22 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A1%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>AIでビジネスメールを10秒で書く方法【テンプレート付き】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</link><pubDate>Fri, 22 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/cover.png" alt="Featured image of post AIでビジネスメールを10秒で書く方法【テンプレート付き】" /&gt;&lt;p&gt;ビジネスメールに悩む時間、もったいないと思いませんか？ChatGPTを使えば、メール作成時間が10分から10秒になります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiでメールを書くメリット"&gt;AIでメールを書くメリット
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;時間の節約&lt;/strong&gt;：考える時間がほぼゼロに&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文章品質の向上&lt;/strong&gt;：丁寧・簡潔な表現が自動で出てくる&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;メンタル負荷の軽減&lt;/strong&gt;：「なんて書こう…」のストレスがなくなる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="基本のプロンプト構成"&gt;基本のプロンプト構成
-&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;以下の内容でビジネスメールを書いてください。
-
-【宛先】〇〇会社 〇〇様
-【目的】〜の件でお礼を伝えたい
-【背景】先日のミーティングでお時間をいただいた
-【トーン】丁寧・簡潔
-【文字数】200字程度
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これだけで、すぐに使えるメール文章が出てきます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="シーン別テンプレート"&gt;シーン別テンプレート
-&lt;/h2&gt;&lt;h3 id="-お礼メール"&gt;① お礼メール
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;先日〇〇の件でお時間をいただいたお礼のメールを書いてください。
-相手は取引先の担当者。丁寧な敬語で200字以内にまとめてください。
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-依頼メール"&gt;② 依頼メール
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇の資料を〇〇日までに送っていただけるようお願いするメールを書いてください。
-相手は社内の上司。柔らかいトーンで。
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-断りメール"&gt;③ 断りメール
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇のお誘いをお断りするメールを書いてください。
-相手との関係を壊さないよう、丁寧に理由を添えて断ってください。
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="-クレーム謝罪メール"&gt;④ クレーム・謝罪メール
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;〇〇でご迷惑をおかけしたことへの謝罪メールを書いてください。
-原因と今後の対応も含めて、誠実なトーンで300字程度にまとめてください。
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id="英語メールにも使える"&gt;英語メールにも使える
-&lt;/h2&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;Write a professional email in English to decline a meeting invitation politely.
-Keep it under 100 words.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;英語が苦手でも、ChatGPTが自然な英語メールを書いてくれます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="使う時の注意点"&gt;使う時の注意点
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;個人情報・機密情報は入力しない&lt;/strong&gt;（会社名・顧客名は「〇〇様」に置き換える）&lt;/li&gt;
-&lt;li&gt;そのまま送らず、&lt;strong&gt;一度自分の目で確認&lt;/strong&gt;する&lt;/li&gt;
-&lt;li&gt;状況に合わせて表現を微調整する&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;AIでメールを書くのは「ズル」ではなく「効率化」です。空いた時間を副業や自己投資に使いましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/" &gt;AIを使った仕事効率化テクニック10選【在宅ワーカー向け】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/" &gt;プロンプトの保存・管理方法【再利用して作業効率アップ】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/" &gt;AIで履歴書・職務経歴書を書く方法【転職活動を効率化】&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>メール on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A1%E3%83%BC%E3%83%AB/</link>
+        <description>Recent content in メール on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Fri, 22 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%83%A1%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AIでビジネスメールを10秒で書く方法【テンプレート付き】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</link>
+            <pubDate>Fri, 22 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-email-writing/cover.png&#34; alt=&#34;Featured image of post AIでビジネスメールを10秒で書く方法【テンプレート付き】&#34; /&gt;&lt;p&gt;ビジネスメールに悩む時間、もったいないと思いませんか？ChatGPTを使えば、メール作成時間が10分から10秒になります。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiでメールを書くメリット&#34;&gt;AIでメールを書くメリット&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;時間の節約&lt;/strong&gt;：考える時間がほぼゼロに&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;文章品質の向上&lt;/strong&gt;：丁寧・簡潔な表現が自動で出てくる&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;メンタル負荷の軽減&lt;/strong&gt;：「なんて書こう…」のストレスがなくなる&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;基本のプロンプト構成&#34;&gt;基本のプロンプト構成&#xD;&#xA;&lt;/h2&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;以下の内容でビジネスメールを書いてください。&#xD;&#xA;&#xD;&#xA;【宛先】〇〇会社 〇〇様&#xD;&#xA;【目的】〜の件でお礼を伝えたい&#xD;&#xA;【背景】先日のミーティングでお時間をいただいた&#xD;&#xA;【トーン】丁寧・簡潔&#xD;&#xA;【文字数】200字程度&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;これだけで、すぐに使えるメール文章が出てきます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;シーン別テンプレート&#34;&gt;シーン別テンプレート&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-お礼メール&#34;&gt;① お礼メール&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;先日〇〇の件でお時間をいただいたお礼のメールを書いてください。&#xD;&#xA;相手は取引先の担当者。丁寧な敬語で200字以内にまとめてください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-依頼メール&#34;&gt;② 依頼メール&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;〇〇の資料を〇〇日までに送っていただけるようお願いするメールを書いてください。&#xD;&#xA;相手は社内の上司。柔らかいトーンで。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-断りメール&#34;&gt;③ 断りメール&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;〇〇のお誘いをお断りするメールを書いてください。&#xD;&#xA;相手との関係を壊さないよう、丁寧に理由を添えて断ってください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;-クレーム謝罪メール&#34;&gt;④ クレーム・謝罪メール&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;〇〇でご迷惑をおかけしたことへの謝罪メールを書いてください。&#xD;&#xA;原因と今後の対応も含めて、誠実なトーンで300字程度にまとめてください。&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;英語メールにも使える&#34;&gt;英語メールにも使える&#xD;&#xA;&lt;/h2&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Write a professional email in English to decline a meeting invitation politely.&#xD;&#xA;Keep it under 100 words.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;英語が苦手でも、ChatGPTが自然な英語メールを書いてくれます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;使う時の注意点&#34;&gt;使う時の注意点&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;個人情報・機密情報は入力しない&lt;/strong&gt;（会社名・顧客名は「〇〇様」に置き換える）&lt;/li&gt;&#xA;&lt;li&gt;そのまま送らず、&lt;strong&gt;一度自分の目で確認&lt;/strong&gt;する&lt;/li&gt;&#xA;&lt;li&gt;状況に合わせて表現を微調整する&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIでメールを書くのは「ズル」ではなく「効率化」です。空いた時間を副業や自己投資に使いましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-work-efficiency-tips/&#34; &gt;AIを使った仕事効率化テクニック10選【在宅ワーカー向け】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-prompt-management/&#34; &gt;プロンプトの保存・管理方法【再利用して作業効率アップ】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-resume-writing/&#34; &gt;AIで履歴書・職務経歴書を書く方法【転職活動を効率化】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

@@ -1,74 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>クラウドソーシング on ながら副業AI</title><link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/</link><description>Recent content in クラウドソーシング on ながら副業AI</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 24 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】</title><link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</link><pubDate>Sun, 24 May 2026 10:00:00 +0900</pubDate><guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</guid><description>&lt;img src="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/cover.png" alt="Featured image of post AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】" /&gt;&lt;p&gt;AIライティングは今もっとも始めやすい副業の一つです。ゼロから月3万円を目指す具体的な方法を解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiライティング副業の現実"&gt;AIライティング副業の現実
-&lt;/h2&gt;&lt;p&gt;まず正直に言います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AIで書いた文章をそのまま納品するのはNG&lt;/strong&gt;です。クライアントはAI丸投げ記事を嫌います。Googleもそれを評価しません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;正しい使い方：&lt;/strong&gt;
-AIを「下書き生成ツール」として使い、自分でリライト・加筆して完成させる。これが品質と効率の両立です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="月3万円の目安"&gt;月3万円の目安
-&lt;/h2&gt;&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;単価&lt;/th&gt;
- &lt;th&gt;必要文字数&lt;/th&gt;
- &lt;th&gt;月の作業時間&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字1.5円&lt;/td&gt;
- &lt;td&gt;約20,000文字&lt;/td&gt;
- &lt;td&gt;約20〜30時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字2円&lt;/td&gt;
- &lt;td&gt;約15,000文字&lt;/td&gt;
- &lt;td&gt;約15〜25時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;1文字3円&lt;/td&gt;
- &lt;td&gt;約10,000文字&lt;/td&gt;
- &lt;td&gt;約10〜20時間&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;月3万円は1日1〜2時間で十分届く範囲です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="案件の見つけ方"&gt;案件の見つけ方
-&lt;/h2&gt;&lt;h3 id="-クラウドワークス"&gt;① クラウドワークス
-&lt;/h3&gt;&lt;p&gt;「記事作成」「ライター」で検索。初心者向けの案件も多数。&lt;/p&gt;
-&lt;h3 id="-ランサーズ"&gt;② ランサーズ
-&lt;/h3&gt;&lt;p&gt;同様に「ライター」で検索。継続案件をとれると安定しやすい。&lt;/p&gt;
-&lt;h3 id="-直接営業snsブログ"&gt;③ 直接営業（SNS・ブログ）
-&lt;/h3&gt;&lt;p&gt;自分のブログやSNSでライター活動を発信。依頼が来ることも。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="aiを使ったライティングの流れ"&gt;AIを使ったライティングの流れ
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;STEP1：テーマ・キーワードを確認&lt;/strong&gt;
-クライアントから「〇〇について2000文字で」という指示が届く。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STEP2：ChatGPTで構成を作る&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;「〇〇について、初心者向けブログ記事の構成（見出し5つ）を作って」
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP3：各見出しをChatGPTで下書き&lt;/strong&gt;&lt;/p&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;「上の構成で、『〇〇』の見出しの本文を400文字で書いて」
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP4：自分でリライト・加筆&lt;/strong&gt;
-AIの文章を読んで、不自然な部分・薄い部分を自分の言葉で補強。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STEP5：誤字脱字チェックして納品&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="単価アップのコツ"&gt;単価アップのコツ
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;専門ジャンルを作る&lt;/strong&gt;（AI・副業・健康など）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;実績を積んでポートフォリオを作る&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;WordPressで入稿できるようにする&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SEOの基礎知識を身につける&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;ジャンル特化ライターは1文字3〜5円も狙えます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="まとめ"&gt;まとめ
-&lt;/h2&gt;&lt;p&gt;AIライティングは「AIに書かせる」ではなく「AIと一緒に書く」がポイント。最初の1ヶ月は実績づくりと割り切り、まず5記事納品を目標にしましょう。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="関連記事"&gt;関連記事
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/" &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/" &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/" &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>クラウドソーシング on ながら副業AI</title>
+        <link>https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/</link>
+        <description>Recent content in クラウドソーシング on ながら副業AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://myblog.5588sgfh337755jjg.workers.dev/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Fiverrで海外向けAI副業を始める方法｜英語スキル不要で稼ぐコツ</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/fiverr-ai-side-job/</link>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/fiverr-ai-side-job/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/fiverr-ai-side-job/cover.png&#34; alt=&#34;Featured image of post Fiverrで海外向けAI副業を始める方法｜英語スキル不要で稼ぐコツ&#34; /&gt;&lt;p&gt;「英語が苦手だから海外の副業は無理…」&lt;/p&gt;&#xA;&lt;p&gt;そう思っていませんか？実は&lt;strong&gt;ChatGPTとFiverrを組み合わせれば、英語力がなくても海外向け副業ができます。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;fiverrとは&#34;&gt;Fiverrとは？&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;Fiverrは世界最大級のフリーランスマーケットプレイスです。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;190カ国以上のユーザーが使用&lt;/li&gt;&#xA;&lt;li&gt;「Gig（ギグ）」と呼ばれるサービスを出品する&lt;/li&gt;&#xA;&lt;li&gt;支払いはドル建て（円安の今は有利）&lt;/li&gt;&#xA;&lt;li&gt;AI関連スキルの需要が爆発的に増加中&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;英語が苦手でもできる理由&#34;&gt;英語が苦手でもできる理由&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;chatgptが英語対応してくれる&#34;&gt;ChatGPTが英語対応してくれる&#xD;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;プロフィール文の英語化 → ChatGPTに任せる&lt;/li&gt;&#xA;&lt;li&gt;Gigの説明文 → ChatGPTで作成&lt;/li&gt;&#xA;&lt;li&gt;クライアントとのメッセージ → ChatGPTで翻訳・作成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ai生成の成果物は英語圏でも使える&#34;&gt;AI生成の成果物は英語圏でも使える&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;画像・動画・音声・コードなどの成果物は言語を問いません。&lt;/p&gt;&#xA;&lt;h2 id=&#34;おすすめのgig出品サービス&#34;&gt;おすすめのGig（出品サービス）&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-ai画像生成サービス&#34;&gt;① AI画像生成サービス&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「あなたのコンセプトをMidjourney/DALL-Eで画像化します」&lt;/p&gt;&#xA;&lt;p&gt;需要が高く、差別化しやすい分野です。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-ai動画生成サービス&#34;&gt;② AI動画生成サービス&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「テキストからRunway/Lumaで動画を作ります」&lt;/p&gt;&#xA;&lt;p&gt;まだ競合が少ないため、今が参入チャンスです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-chatgptプロンプト作成&#34;&gt;③ ChatGPTプロンプト作成&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「目的に合った高品質なプロンプトを作ります」&lt;/p&gt;&#xA;&lt;p&gt;Promptbaseでも販売できますが、Fiverrのほうが単価が高い傾向があります。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-ai音声ナレーション&#34;&gt;④ AI音声ナレーション&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「ElevenLabsでプロ品質の音声を生成します」&lt;/p&gt;&#xA;&lt;h2 id=&#34;gigの出品手順&#34;&gt;Gigの出品手順&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fiverr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;Fiverr&lt;/a&gt;でアカウント作成&lt;/li&gt;&#xA;&lt;li&gt;プロフィールを英語で作成（ChatGPTで作成）&lt;/li&gt;&#xA;&lt;li&gt;提供するサービスのGigを作成&lt;/li&gt;&#xA;&lt;li&gt;サンプル作品を掲載（実績がなければAIで作ったものでOK）&lt;/li&gt;&#xA;&lt;li&gt;価格設定（$5〜$50で始めるのが無難）&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;価格設定のコツ&#34;&gt;価格設定のコツ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最初は低価格でレビューを集めることが最優先です。&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;フェーズ&lt;/th&gt;&#xA;          &lt;th&gt;価格&lt;/th&gt;&#xA;          &lt;th&gt;目標&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;最初の1ヶ月&lt;/td&gt;&#xA;          &lt;td&gt;$5〜$10&lt;/td&gt;&#xA;          &lt;td&gt;レビュー5件獲得&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2〜3ヶ月&lt;/td&gt;&#xA;          &lt;td&gt;$20〜$30&lt;/td&gt;&#xA;          &lt;td&gt;評価を上げる&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3ヶ月後&lt;/td&gt;&#xA;          &lt;td&gt;$50〜&lt;/td&gt;&#xA;          &lt;td&gt;単価アップ&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;FiverrとAIツールの組み合わせは、英語力なしで海外収入を得られる現実的な方法です。&lt;/p&gt;&#xA;&lt;p&gt;円安の今、ドル建ての収入は特に有利。まずはアカウントを作るところから始めてみてください。&lt;/p&gt;&#xA;&lt;p&gt;関連記事：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/&#34; &gt;クラウドワークスで最初の仕事を取る方法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/&#34; &gt;AIで副業を始める初心者ガイド&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】</title>
+            <link>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</link>
+            <pubDate>Sun, 24 May 2026 10:00:00 +0900</pubDate>
+            <guid>https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/</guid>
+            <description>&lt;img src=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-writing-tips/cover.png&#34; alt=&#34;Featured image of post AIライティングで稼ぐコツ【クラウドソーシングで月3万円を目指す】&#34; /&gt;&lt;p&gt;AIライティングは今もっとも始めやすい副業の一つです。ゼロから月3万円を目指す具体的な方法を解説します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiライティング副業の現実&#34;&gt;AIライティング副業の現実&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;まず正直に言います。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AIで書いた文章をそのまま納品するのはNG&lt;/strong&gt;です。クライアントはAI丸投げ記事を嫌います。Googleもそれを評価しません。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;正しい使い方：&lt;/strong&gt;&#xA;AIを「下書き生成ツール」として使い、自分でリライト・加筆して完成させる。これが品質と効率の両立です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;月3万円の目安&#34;&gt;月3万円の目安&#xD;&#xA;&lt;/h2&gt;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;単価&lt;/th&gt;&#xA;          &lt;th&gt;必要文字数&lt;/th&gt;&#xA;          &lt;th&gt;月の作業時間&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字1.5円&lt;/td&gt;&#xA;          &lt;td&gt;約20,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約20〜30時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字2円&lt;/td&gt;&#xA;          &lt;td&gt;約15,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約15〜25時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1文字3円&lt;/td&gt;&#xA;          &lt;td&gt;約10,000文字&lt;/td&gt;&#xA;          &lt;td&gt;約10〜20時間&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;月3万円は1日1〜2時間で十分届く範囲です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;案件の見つけ方&#34;&gt;案件の見つけ方&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;-クラウドワークス&#34;&gt;① クラウドワークス&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;「記事作成」「ライター」で検索。初心者向けの案件も多数。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-ランサーズ&#34;&gt;② ランサーズ&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;同様に「ライター」で検索。継続案件をとれると安定しやすい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;-直接営業snsブログ&#34;&gt;③ 直接営業（SNS・ブログ）&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;自分のブログやSNSでライター活動を発信。依頼が来ることも。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aiを使ったライティングの流れ&#34;&gt;AIを使ったライティングの流れ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;STEP1：テーマ・キーワードを確認&lt;/strong&gt;&#xA;クライアントから「〇〇について2000文字で」という指示が届く。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;STEP2：ChatGPTで構成を作る&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「〇〇について、初心者向けブログ記事の構成（見出し5つ）を作って」&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP3：各見出しをChatGPTで下書き&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;「上の構成で、『〇〇』の見出しの本文を400文字で書いて」&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;STEP4：自分でリライト・加筆&lt;/strong&gt;&#xA;AIの文章を読んで、不自然な部分・薄い部分を自分の言葉で補強。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;STEP5：誤字脱字チェックして納品&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;単価アップのコツ&#34;&gt;単価アップのコツ&#xD;&#xA;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;専門ジャンルを作る&lt;/strong&gt;（AI・副業・健康など）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;実績を積んでポートフォリオを作る&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WordPressで入稿できるようにする&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEOの基礎知識を身につける&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;ジャンル特化ライターは1文字3〜5円も狙えます。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;AIライティングは「AIに書かせる」ではなく「AIと一緒に書く」がポイント。最初の1ヶ月は実績づくりと割り切り、まず5記事納品を目標にしましょう。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;関連記事&#34;&gt;関連記事&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/crowdworks-first-job/&#34; &gt;クラウドワークスで初めて仕事を受注するまでの体験談&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-blog-writing-workflow/&#34; &gt;AIでブログ記事を書く全工程を公開【下書きから公開まで】&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://myblog.5588sgfh337755jjg.workers.dev/posts/ai-side-job-beginners/&#34; &gt;AI副業を始めたい初心者におすすめの3つの方法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>
